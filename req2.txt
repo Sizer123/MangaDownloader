@@ -1,0 +1,39 @@
+# Requirements pour le scraper manga avec VPN
+# Installation: pip install -r requirements.txt
+
+# Requêtes HTTP
+requests>=2.31.0
+
+# Parsing HTML
+beautifulsoup4>=4.12.0
+
+# Traitement d'images
+Pillow>=10.0.0
+
+# Parsing HTML (dépendance de BeautifulSoup)
+html5lib>=1.1
+
+# Alternative parser pour BeautifulSoup
+lxml>=4.9.0
+
+# Gestion des processus système
+psutil>=5.9.0
+
+# Désactivation des warnings SSL
+urllib3>=2.0.0
+
+# Optionnel: pour des fonctionnalités avancées
+# Barre de progression
+tqdm>=4.66.0
+
+# Validation des URLs
+validators>=0.22.0
+
+# Gestion des dates/temps
+python-dateutil>=2.8.0
+
+# Optionnel: pour la compression des PDFs
+# PyPDF2>=3.0.0
+
+# Optionnel: pour OCR si nécessaire
+# pytesseract>=0.3.10
