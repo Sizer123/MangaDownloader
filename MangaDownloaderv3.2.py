@@ -12,10 +12,27 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 import certifi
 import warnings
 import urllib3
+
 import ssl
+from urllib3.util.ssl_ import create_urllib3_context
+
+# Désactive complètement la vérification SSL
+ssl._create_default_https_context = ssl._create_unverified_context
+
+# Configuration spéciale pour urllib3
+def custom_ssl_context():
+    ctx = create_urllib3_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    return ctx
+
+# Applique le contexte personnalisé
+urllib3.util.ssl_.DEFAULT_CIPHERS = 'ALL:@SECLEVEL=1'
+urllib3.util.ssl_.create_urllib3_context = custom_ssl_context
 
 # Désactivation des warnings
 warnings.filterwarnings('ignore')
@@ -39,6 +56,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class MangaDownloader:
+
     def __init__(self, use_selenium=False):
         self.session = requests.Session()
         self.ua = UserAgent()
@@ -46,32 +64,67 @@ class MangaDownloader:
         self.scraper = cloudscraper.create_scraper()
         self.driver = None
         
-        # Configuration
+        # Configuration SSL
         self.ssl_verify = False
         self.certifi_path = certifi.where()
         
         if self.use_selenium:
             self.setup_selenium()
+            if not self.check_selenium_connection():
+                logger.warning("Désactivation de Selenium suite à l'échec de connexion")
+                self.use_selenium = False
+        
         self.setup_session()
     
     def setup_selenium(self):
-        """Configure Selenium pour éviter la détection"""
+        """Configure Selenium avec gestion des erreurs améliorée"""
         logger.info("Initialisation de Selenium...")
         options = Options()
+        
+        # Configuration des options
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_argument(f"user-agent={self.ua.random}")
         options.add_argument("--window-size=1920,1080")
-        options.add_argument("--headless")
+        options.add_argument("--headless=new")  # Nouvelle syntaxe headless
         options.add_argument("--disable-gpu")
         options.add_argument("--no-sandbox")
-        options.add_experimental_option('excludeSwitches', ['enable-logging'])
-
+        options.add_argument("--disable-dev-shm-usage")
+        
+        # Configuration du service
+        from selenium.webdriver.chrome.service import Service
+        service = Service(
+            executable_path='/usr/local/bin/chromedriver',  # Chemin exact
+            service_args=['--verbose'],  # Mode verbeux pour debug
+            log_path='selenium.log'  # Fichier de logs
+        )
+        
         try:
-            self.driver = webdriver.Chrome(options=options)
+            self.driver = webdriver.Chrome(
+                service=Service(ChromeDriverManager().install()),
+                options=options
+            )
             self.driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+            logger.info("Selenium initialisé avec succès")
         except Exception as e:
-            logger.error(f"Erreur Selenium: {e}")
+            logger.error(f"Échec initialisation Selenium: {e}")
             self.use_selenium = False
+            if hasattr(self, 'driver') and self.driver:
+                self.driver.quit()
+
+    def check_selenium_connection(self):
+        """Vérifie que Selenium peut établir une connexion"""
+        if not self.use_selenium:
+            return False
+        
+        try:
+            test_url = "https://www.google.com"
+            self.driver.get(test_url)
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.TAG_NAME, 'body')))
+            return True
+        except Exception as e:
+            logger.error(f"Test connexion Selenium échoué: {e}")
+            return False
     
     def setup_session(self):
         """Configure la session requests"""
@@ -191,28 +244,50 @@ class MangaDownloader:
             return []
 
     def safe_request(self, url, max_retries=3):
-        """Effectue une requête avec gestion des erreurs"""
+        """Effectue une requête avec gestion SSL corrigée"""
         for attempt in range(max_retries):
             try:
+                # Délai aléatoire entre les tentatives
                 if attempt > 0:
                     time.sleep(random.uniform(1, 3))
-                
-                # Essai avec cloudscraper d'abord
-                response = self.scraper.get(url, verify=False)
-                
+
+                # Configuration SSL explicite
+                ssl_context = ssl.create_default_context()
+                ssl_context.check_hostname = False  # Désactive la vérification du nom d'hôte
+                ssl_context.verify_mode = ssl.CERT_NONE  # Désactive la vérification du certificat
+
+                # Tentative avec cloudscraper
+                try:
+                    response = self.scraper.get(
+                        url,
+                        verify=False,
+                        ssl_context=ssl_context
+                    )
+                    if response.status_code == 200:
+                        return response
+                except Exception as e:
+                    logger.warning(f"Cloudscraper attempt {attempt+1} failed: {e}")
+
+                # Fallback avec requests
+                response = self.session.get(
+                    url,
+                    verify=False,
+                    stream=True,
+                    ssl_context=ssl_context
+                )
                 if response.status_code == 200:
                     return response
-                
-                # Fallback avec requests si échec
-                response = self.session.get(url, verify=False)
-                if response.status_code == 200:
-                    return response
-                
-            except Exception as e:
-                logger.warning(f"Tentative {attempt+1} échouée: {e}")
-                if attempt == max_retries - 1 and self.use_selenium:
-                    return self.selenium_fallback(url)
-        
+
+            except requests.exceptions.SSLError as e:
+                logger.error(f"Erreur SSL (tentative {attempt+1}): {e}")
+                continue
+            except requests.exceptions.RequestException as e:
+                logger.error(f"Erreur requête (tentative {attempt+1}): {e}")
+                continue
+
+        # Fallback Selenium si activé
+        if self.use_selenium:
+            return self.selenium_fallback(url)
         return None
 
     def selenium_fallback(self, url):
@@ -230,33 +305,64 @@ class MangaDownloader:
             return None
 
     def download_image(self, img_url, file_path):
-        """Télécharge une image"""
+        """Télécharge une image avec gestion SSL corrigée"""
         try:
+            # Création du contexte SSL personnalisé
+            ssl_context = ssl.create_default_context()
+            ssl_context.check_hostname = False
+            ssl_context.verify_mode = ssl.CERT_NONE
+
             headers = {
                 'User-Agent': self.ua.random,
                 'Referer': urlparse(img_url).scheme + '://' + urlparse(img_url).netloc + '/',
             }
-            
-            # Essai avec cloudscraper
-            response = self.scraper.get(img_url, headers=headers, stream=True, verify=False)
+
+            # Tentative avec cloudscraper
+            try:
+                response = self.scraper.get(
+                    img_url,
+                    headers=headers,
+                    stream=True,
+                    verify=False,
+                    ssl_context=ssl_context
+                )
+                if response.status_code == 200:
+                    with open(file_path, 'wb') as f:
+                        for chunk in response.iter_content(1024):
+                            f.write(chunk)
+                    return True
+            except Exception as e:
+                logger.warning(f"Cloudscraper image download failed: {e}")
+
+            # Fallback avec requests
+            response = self.session.get(
+                img_url,
+                headers=headers,
+                stream=True,
+                verify=False,
+                ssl_context=ssl_context
+            )
             if response.status_code == 200:
                 with open(file_path, 'wb') as f:
                     for chunk in response.iter_content(1024):
                         f.write(chunk)
                 return True
-            
+
             # Fallback Selenium
             if self.use_selenium:
-                self.driver.get(img_url)
-                time.sleep(2)
-                self.driver.find_element(By.TAG_NAME, 'img').screenshot(file_path)
-                return True
-                
+                try:
+                    self.driver.get(img_url)
+                    time.sleep(2)
+                    self.driver.find_element(By.TAG_NAME, 'img').screenshot(file_path)
+                    return True
+                except Exception as e:
+                    logger.error(f"Selenium image fallback failed: {e}")
+
         except Exception as e:
             logger.error(f"Erreur téléchargement image: {e}")
-        
-        return False
 
+        return False
+    
     def sanitize_filename(self, filename):
         """Nettoie les noms de fichiers"""
         invalid = '<>:"/\\|?*'
