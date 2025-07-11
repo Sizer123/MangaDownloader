@@ -124,7 +124,9 @@ class MangaScraper:
         # Configuration pour éviter les erreurs SSL
         self.session.verify = False
         self.session.headers.update({
-            'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Referer': 'https://phenix-scans.com/',
+            # 'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36",
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
             'Accept-Language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
             'Accept-Encoding': 'gzip, deflate, br',
@@ -136,7 +138,7 @@ class MangaScraper:
             'Sec-Fetch-Dest': 'document',
             'Sec-Fetch-Mode': 'navigate',
             'Sec-Fetch-Site': 'none',
-            'Sec-Fetch-User': '?1'
+            'Sec-Fetch-User': '?1',
         })
     
     def check_connection(self):
@@ -585,7 +587,7 @@ def main():
     vpn_config_file = "/Users/orangedigitalcenter/Documents/Projects/Manhwa/us-free-8.protonvpn.tcp.ovpn"       # Optionnel: fichier avec username/password
     
     # URL du manga
-    manga_url = "https://demonicscans.org/manga/A-Modern-Man-Who-Got-Transmigrated-Into-the-Murim-World"
+    manga_url = "https://phenix-scans.com/manga/a-modern-man-who-transmigrated-into-the-murim-world"
     
     # Initialise le gestionnaire VPN
     vpn = VPNManager(vpn_config_file, vpn_auth_file)
