@@ -1,0 +1,1617 @@
+{
+  "projectName": "the_regressed_son_of_a_duke_is_an_assassin",
+  "chapters": {
+    "Chapitre 1 - Chapitre 1Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/1",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/77036be8-bb13-40c8-af05-ab75a5ba01fd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/aa81d340-c747-46ff-b032-66cfb0f6ddc3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2eea3b1f-8bc2-4707-873b-d3b0cb622ea7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f3827a02-3bfd-40a3-87c7-52e56dfafc2b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/741939a0-630a-4c60-8006-73df382b8668.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bd04df79-451c-4e4c-b3d6-f66e4a806d6f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/32ad9593-839b-41b0-9d92-7a7d2c09c066.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b6e205c5-d331-4e91-a7cb-6543db5b6157.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/503c9ece-4868-4765-bae0-bb870be573ea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0742dee7-3291-488a-a81a-ffe70b2004b9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f76df115-1600-456a-b093-c76e4ef9202a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c02a01f4-d670-4ee0-8074-2614b642c545.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/060dd3c1-5d50-4660-b063-98eec2711ce6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/913062e9-c213-4853-91d0-17a86f95eb9b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7c9a0113-8cd0-4249-ba4b-6833538628f2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/24adfb2f-aed5-4979-b000-7dcd394bd05e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/44aacecd-2a93-450d-9e99-8f34586c4f35.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c0225a44-9719-4ea8-ac28-90b7d8171e0d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fe675327-5e50-472b-8b45-a81c50355d02.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d9d286ea-80d5-4daf-be93-d65b737b926c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5b566852-9282-4afb-bd00-dc93c5626d28.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2dda769c-9785-46e7-b0ee-4a8fdd21f33d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f5944934-1a2f-4f87-b19d-01c85e6609b5.jpg?width=720"
+      ]
+    },
+    "Chapitre 2 - Chapitre 2Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/2",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5c01a1d4-a6fc-4b67-aef1-f505f6a791a9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e95c0430-05df-4112-bd32-8abae1c99bc1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0e5b53cd-ad07-4017-b9d0-0dcc870b7971.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4e20f229-a6ae-4de3-93c6-61b0f044eb28.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/129653ef-ffbb-42d0-bb79-7997740b698f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/abf609ff-67b7-4dbb-8b00-1d16a59502b8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3cbf3d5d-6101-4f71-b649-b270b4236896.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7b63316d-db4e-47b0-976d-29079da00841.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d18ffbe9-c2e9-49c8-9183-e43151bf2112.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e15bf49e-e4d4-4666-bdc9-76ac9dc09929.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ee84f995-0c86-4c28-812a-3fbf90e880b5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5e8e92ff-f16f-436c-a187-605c2b727dea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/afa3bd2e-77aa-4f89-bca1-ca39d0d25f27.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6d1e6347-d72f-4473-8e3e-afae0f5efb85.jpg?width=720"
+      ]
+    },
+    "Chapitre 3 - Chapitre 3Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/3",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/141ba6bf-5724-4c53-ae41-fdca99a2bfab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3c715350-4922-4d0a-838d-62e2ce1cd7e9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/20d62c76-a17f-4f55-b97d-9ebbb7a63e31.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5f899f17-3d7f-4b01-93db-a71a78f52086.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d84f80c3-d769-4f93-ae6e-fbdc4d361b19.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/421423a9-585d-4272-a6b4-ec68b5d4a84c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b71c27e2-6bab-465a-a0b8-0677f0f7eaf8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/37187dce-ce41-410e-9b36-a593244d1507.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f5aee986-43e1-4f2d-98ac-6e1452f37824.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f9aac9ed-e567-4544-bbb7-b6f78c7902bc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/73043cee-2694-43e1-b9a1-14252f3ce216.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/57c3044a-a231-49c0-9134-bf824321301e.jpg?width=720"
+      ]
+    },
+    "Chapitre 4 - Chapitre 4Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/4",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c9671f39-ef92-4f33-a22d-34f6279cdeae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/03124b11-4021-4bcb-9a40-70e7d7c5be9d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1bafa0f1-3629-4dd5-9281-bb1ef2f4c0cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e3a67c98-01ab-4704-9ec6-c2df677111f3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/27ff929e-f643-4047-8756-947bf01a5401.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/db1e3bcf-59f2-4fc0-a32a-701c21b9e83a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fbf0062e-15b4-4769-9f62-228b96e588c4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/046b6016-8009-4651-8bc4-0fcb3cf9418b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/29dd776b-f8dd-429d-a04d-ad3ca68a2e22.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/aa9259ac-5d64-439b-a8b2-9dfc835bbc42.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ef23245a-e5bc-42a0-9337-a91f8601df01.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3eb65165-e9ed-44cc-b4b1-3ff9532c5f8f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/034e154b-e65d-4cf6-aad7-305aff25d884.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1f4f2f1b-2316-47e3-936c-3a4b98d81fa6.jpg?width=720"
+      ]
+    },
+    "Chapitre 5 - Chapitre 5Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/5",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9bec833d-1b06-423b-a606-5c20883775ee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e318c4c7-bb62-4821-a02e-9fbd62582168.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7fb8597a-579a-415c-adec-f1d0e8088ef2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2c51b849-4cc3-42a0-9c9a-cb584310b9b8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0eee4fdb-013d-4ea5-9900-a74e711025be.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/061d4a4a-790c-47e3-a25e-8c30e75cc9c7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/82266f66-6c36-4cfc-b0d7-6f6e046e17c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/530c0a1e-fd12-4b83-ab93-b92ad15c6fb7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3ee7497f-0a07-4e2d-898f-9e77a1e5d5fa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d8c1db46-ae57-4376-a80c-b7785c43ad5c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/700624c7-678a-4531-82a8-59261ae01886.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ba9e24f7-23e1-408d-bf3b-f68120251e8b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ead0e0c6-a73a-4bda-a3d9-2f701ef60366.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3b84aba2-06a1-44b3-9fd5-debddea88453.jpg?width=720"
+      ]
+    },
+    "Chapitre 6 - Chapitre 6Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/6",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bba126b1-f209-468d-9933-17692edf3431.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9075076c-cddc-48bb-9395-d4ec5e635bf7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/accfe8d7-f5eb-49aa-81fa-931cfb1a6ff4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/49c17938-bbef-4441-8a2a-d5e955ef3d3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d38b92e0-6ba3-47d1-85ee-4685802845f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1e3464be-84ac-42e6-9a7e-d18c0ce56561.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0ffde635-784a-4d29-a6b1-680042deaef8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c674ee54-d0b0-47d5-84db-5eda209c6f3a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cc5f0470-205f-4677-b296-37e9b588db98.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f3a3d8ac-6d08-4a46-838d-83142d9be938.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/79eb4b9c-c88f-4ff9-b80d-14551cfeffcb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0f4010e2-417e-4b4e-8b8e-a7a401fd400f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/adc51ee6-2dda-4a53-a10f-c56f191e0699.jpg?width=720"
+      ]
+    },
+    "Chapitre 7 - Chapitre 7Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/7",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4098ef0f-b49d-45c7-844d-f516dd0482c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/41afffd7-0db6-48fc-92d1-1b23ca5273ee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e82eaf22-77c1-4b62-8d6b-950b52cdee8b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f021f47f-9f93-4060-ab32-6190bea84880.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e7991327-3c8a-41b4-a12f-5f8c48b16668.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/26e49835-eebd-47fd-959b-33757e479f99.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f0d3ef61-a5af-40a6-97e9-d35f28f8dff2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b0e4f371-9c45-499d-ba2d-93ec23e4ad07.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/48a49cad-baa0-4b40-a95f-b1c60ee2c663.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7e215c27-45d0-4bfd-b2c5-9006aa272008.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cbaf34d6-7743-40ee-ba23-f1a096ed3218.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7d98fa68-dfd3-4bf4-be6e-a11f20c634a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1d7a306a-56aa-43c0-926d-8a3dc9bd6e17.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5b026a9b-e73b-4402-a49f-c04d96207a5a.jpg?width=720"
+      ]
+    },
+    "Chapitre 8 - Chapitre 8Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/8",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/59d18931-21a1-4469-adf8-0bba29c6eec0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7e6c15f8-14bf-4b8b-bf51-e2de62455611.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b0300931-868e-4a56-a57b-280bb1f1924b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0ed5fa3d-de46-45b3-b87e-b1a0295bb2e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/845ddb80-f98e-40b1-89e7-561fe5e5e916.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/60e92639-262b-42a7-bc83-8d50283c3878.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cad54317-2db1-428a-8720-76618c854e41.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fcfe789f-828b-4dc2-a743-79c37995dc1a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dd4468b4-603c-44c7-9436-db3cca616838.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d92a9b2d-6e0c-477f-9abe-b67f367c9f5e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6fbad4ba-2666-4241-baa2-65504e422442.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/568a9519-edc1-4591-a383-af6eae0a7ffc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f1d37196-3cbf-4059-8c49-ecebbd5b7df8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6544685c-4840-4362-9851-1899d4f292c3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/819f33bf-f2e4-48c5-873c-0b0e696aac59.jpg?width=720"
+      ]
+    },
+    "Chapitre 9 - Chapitre 9Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/9",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d16e5244-08bf-4a63-a52c-1605ebe287bd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c9931998-45b6-4bf7-a6d5-7d3368c09f7f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0d57cf35-c803-434d-b704-f39e0047c679.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cc098dc3-b14f-4b21-a9f8-683446313eb1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/388b0066-d83e-420a-b86f-7edb3f62cdb4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5aae7d27-bbc9-4a5a-8f5f-db63da311bae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/058ac3ae-0f01-4423-acc8-a44d4bfaf552.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cbd8e4b2-be1d-4f31-858e-9755a9793406.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f6cacb35-4a6b-495c-817e-0c0039508e4a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/259e7ce7-b807-4be2-80fe-c54ae1c32757.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/11cb66ce-15fa-44d6-8c04-e5dcc0896701.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0311b584-0755-465b-98ad-7cebe5635a89.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c18e3438-bc7e-4c68-8a2a-e07e307c686f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9a0412ac-553b-46da-926b-f57cbfa39879.jpg?width=720"
+      ]
+    },
+    "Chapitre 10 - Chapitre 10Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/10",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dc00605c-2b5e-4cd9-b036-25288675e83b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1a7c9fbf-0b56-469d-b546-14452a70b5f5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/021b9946-88f6-4902-a776-14359695b8e7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4e0ecff6-0e87-48d4-9139-3d6b270aac83.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/28e11463-f6de-49df-a651-9ab2b46206c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/94aefa10-33bf-4249-a051-a05146298dc5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6e08940a-8bbf-40f0-b07b-4aebecb88020.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/59d4fd62-13f6-4196-b22a-76ea7771cbf8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/223980f4-f23c-4f29-ba1a-4825223cd2ac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/90a6b45e-3ce8-42be-a9ec-c7bc19000258.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/17129ed6-0849-4a51-805c-d0a456207348.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/713aaa35-89c3-4a7d-b30a-64b1238fc85a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7b0eea3e-91ba-4cd5-8689-2c3025666a8c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b661ea53-d23e-47f4-8bfa-14022e0e82ae.jpg?width=720"
+      ]
+    },
+    "Chapitre 11 - Chapitre 11Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/11",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7cc44837-22af-46b1-9242-9901a3b39902.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/46998129-501a-4820-8f50-73960c73e6d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/effc954a-32e5-495a-bbb4-dc48b5a2544d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bbd99319-e1b0-424c-88bc-81dc04f60f5c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/80cf8674-8507-404a-8ef8-6497aa9a37f2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ee9c66a3-a8d7-4a64-8414-770564ab5bb7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/02cca0ab-4eca-497c-b729-bf9a7b3ec575.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/df2a669e-8222-458d-96fd-40c15918ebf7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/45995fb9-3ba3-4eb4-855f-85a35e9396d9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5e2a0512-19bf-4618-9e1b-4de4d7b3ade8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1a4fcc66-c8db-495a-9905-3a27270e394e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/806aa5c7-f3aa-4dae-8290-bc8915ee8f4d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/96f3340c-12e8-4dee-8d10-9f84d3fce66c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dbe61a9e-ec77-440e-8616-bef117d0eec8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fc49938c-5563-47ce-8ea5-7b4f13d64f4a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6209aa56-f854-406d-9c36-2d87e6e48049.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/70049ba7-cc07-4931-a63a-7c7d59c6bfde.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/60c7298e-c062-4461-828e-fa9d2778845e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/acedb447-12d7-459d-acb5-476e8acf6e2a.jpg?width=720"
+      ]
+    },
+    "Chapitre 12 - Chapitre 12Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/12",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/733a6f91-c8d5-4c86-b356-03117236ccf0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cf0b9641-48ea-4e35-897b-f673933fd33b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/31a95f9d-51a1-4cde-b951-ced829808261.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/441e3464-bcec-41e0-8142-30601bbc3a53.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ae5d6a4f-41bc-4ab7-9944-b1ef4e0ff59f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/330836ce-9386-4c66-9e38-0282caceefdf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b9aadb08-ea8e-416f-8c55-ad7227a4baa7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/87e1597c-6b67-45b4-94a0-49e1ca4be81c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/06a34603-7c8e-4b0b-852a-63197c03cc14.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/50319aeb-30e1-4323-87de-fbee0b3a9f32.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9817958e-2be5-4eec-995b-e7b3259a20ab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f91267bf-6829-4131-bcc3-ef1f989a1be1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/207e7bd4-aa07-4cdb-80fe-87e3b5d5781c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ad12f697-6a15-4628-ae64-f15f81ca6a5c.jpg?width=720"
+      ]
+    },
+    "Chapitre 13 - Chapitre 13Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/13",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/58a2e74d-9bf2-4299-bf30-284df697bda3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0f0fb2a8-c21a-47a6-b282-4cebc017d5ab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/78e40b57-1dc4-45c7-8fe7-7ad630c8f534.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/522c3ece-4612-42a8-a400-e9af47108b0a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bae27acb-6770-4b23-bb1f-87afeee523e9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e1c9d0ae-84ad-4ade-bd83-05f29c6ccec8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/344d5393-5a4e-4a94-b660-a3feb60c6be2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d248d2e5-a335-497f-8d85-ab62e096e2dd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4a4bc0b5-44fb-43bb-8463-a1de12fadd35.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/608211fb-c236-408c-aa9d-832bdb05b212.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/18683fa1-a144-454e-983b-4bfde9ff5535.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d97328ab-e1e4-4b3e-9781-1f0d709f0aa1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a190334f-8c18-4139-8c6f-b70388a55521.jpg?width=720"
+      ]
+    },
+    "Chapitre 14 - Chapitre 14Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/14",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3bbfd32d-d27a-4d7a-bf48-04bc4cd1eef8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e479b4d2-1e28-49cf-8361-5cf624399a78.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3342558a-fc79-4436-8b9a-da300c3cbfb4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9580488c-968e-4f77-8f44-90f20466830a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/309f25ab-db77-4309-9d8c-2770ed728b70.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5ca3a069-c379-4955-aef6-c5f503574685.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6d981045-1b93-4f1e-b9dc-6c8ddcd3142d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0580701b-04b6-4cce-9644-f5dfd2c2fe9f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fe8d7447-c668-4aac-8141-47175dc3604d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/264dbfa7-eb4e-43e2-bcc1-c7e96df29eeb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d78ddcd5-ffad-4dd5-a4fc-f7c15a7c176e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9cfa06a5-daac-40ab-994d-31c4ca296b0c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9208a69b-bf89-41e5-8ff3-c15d385dc94e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ab768429-671a-4eef-8a9e-c0d622a2d029.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fd4c0c12-9cec-4613-bd64-dbcec67b3ff4.jpg?width=720"
+      ]
+    },
+    "Chapitre 15 - Chapitre 15Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/15",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/76f7c392-5d3e-47e8-8de1-47a91aedf4ac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cf53cf4c-d015-4f4f-82e4-460ed9bb2052.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0a92e2ae-9e0a-42de-a5ff-c2bf25e765e8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/500aca79-13fa-45a9-a653-e609f23a36d9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e61c9180-8b70-4f1b-8d57-cd2c1ef93cf5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0e7fb32a-d278-4a1d-bd53-2421376d1c0e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b0762ff7-a8b3-40d2-9b69-d8d592866388.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3ab181d9-f45a-41a3-88fb-e527e1487676.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/024abaa7-8ceb-416e-b139-7283612af478.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d0031e59-23b1-40c8-b97f-0c1153edf656.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a28127e9-9102-4e61-9a6a-30792c8735b1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bb263e4c-d04d-4b8c-b8fd-7217d56c0ddc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5c094204-5330-4012-a5a8-c0e298a74370.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/91b8fd27-def4-4d62-b38a-448246f66dbd.jpg?width=720"
+      ]
+    },
+    "Chapitre 16 - Chapitre 16Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/16",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1fc00ad8-a039-40e0-ae3d-12019c7165b3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7c72b2d3-bc3e-4254-83ed-095ab409edd3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c57937ac-b14c-47b0-806d-95d28510aa86.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/13892119-64d2-483e-aba9-5b7046d07ca8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d44ae6d8-9602-4f57-b45a-f49447953ef5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6454472c-2a73-4a9f-9d2a-360a73cdef79.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/34c162fb-4975-4674-99c0-241fba1825e1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0efc77a0-4c1a-4bd6-97a8-db31145a6fe5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4cab1f6d-47b2-4cdf-9be6-5d8f43be3461.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/867528ac-ce4c-4d34-bed3-c3c3e5e136e3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/77e84a18-8d69-49ae-8cef-75d9458e6683.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bd261a0f-8c5b-4136-8408-c3d39378acb6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8e453538-b50a-4c94-b41d-dd083b12637a.jpg?width=720"
+      ]
+    },
+    "Chapitre 17 - Chapitre 17Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/17",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9474bc55-8b87-4203-a470-3dfabafab6f6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fee994d6-b26b-4e9f-b64e-62f5763dfe4a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f89b2eee-2cff-41aa-b0e1-c0adebfa8c4d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3744ead7-1c30-41fe-88e7-5d2c3d5712fa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7b6053ee-2685-406a-8090-97dc1798716c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d3afcca6-365c-4000-8e51-11055f707a0b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/611a0eb0-6c0e-42d6-a16b-019b9c17b552.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c845f5d6-481e-41d1-bd95-b3995321d9b6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3bf0fd23-a0be-4bf8-a1eb-c9a4d32fe0f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fcd486a1-56b5-4838-8eec-827d313e49ab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4989e4aa-e685-4769-9b44-091de7eeeaac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3edcb7ff-bafa-4405-aaed-67de92846df6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b8d68585-d9a0-4b0d-9929-8424a5f4a869.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/df6cbdab-c87c-49e7-adc4-0b7d86de93b6.jpg?width=720"
+      ]
+    },
+    "Chapitre 18 - Chapitre 18Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/18",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/757c8c3c-e12e-4fdb-967b-44b699695474.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ccffea40-827c-4b88-a8a2-c6156614cb14.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9002dec8-f955-4049-8211-3fa584b55bfc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7cb8c8f7-2652-4a2e-9a0f-b8e3240323c0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ce7b6cdb-8540-42e8-8bf9-1fdd2e4e9366.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/de38436b-6b41-427c-95a7-35240330bed8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b7a47671-3639-47ce-82ac-e4461cd766ca.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e4dd3041-d5f2-4368-9301-5fc2a9ceac02.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/181c4f35-4bf1-4171-8ee0-26c70a41ea3c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/318d689f-bbcb-4b55-b704-8ee4c3d0bfcf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a1ee30d2-ae21-4a77-9eec-d280b4e50104.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/525283d5-8e5b-46d6-97f7-2888be52ca79.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/649368be-f311-4c90-9174-ee50d40066cf.jpg?width=720"
+      ]
+    },
+    "Chapitre 19 - Chapitre 19Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/19",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/13685b6b-3027-41dc-b239-1a8a873d1764.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/798c82fa-4551-4fdf-af40-02bd081ee5f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/77048a42-63c0-4cdc-a86c-3d0af2f0d3f4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/10be89d5-85b9-4fc1-b4f2-2765134f76e4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c2a6b776-b0f3-4ede-bf19-a08e2d19f40b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/da027812-4dc8-4bee-9696-be863eff361b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bacfa514-a98f-498b-aea1-d4e90f9be5ff.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/78a379c0-e09a-47e3-b213-bff82a5395e0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f93f911a-f5a3-479d-af7d-0b5ee6302807.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6ace0763-f40c-4fdc-8926-ea5f1f761367.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/57b8b988-06ea-4dc4-b2b3-57d168d73b24.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b009e00b-41aa-44fb-9cce-49c406fe3281.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fc71e87d-6b53-481b-838b-cf12fe1b9b96.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/46bd8ff0-d5b6-4bbf-9ab1-b023164283fd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f9b28f61-ac15-4a65-9280-cb5931b034d0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f21ecdda-c327-4574-ba3b-d47668cfb313.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/97ed820a-fe6f-48d6-9548-c7f683673a29.jpg?width=720"
+      ]
+    },
+    "Chapitre 20 - Chapitre 20Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/20",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2df5d766-65ea-4217-bebf-a866af7909d1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/57c5dfba-ecc3-4b52-a903-71b028ba34a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/49528550-1a68-446b-b71c-760186ebf811.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f6a56c95-82d7-4045-94c6-69b3eeadf546.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5fe6ac4d-ef22-4731-9091-120dcbc861ed.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0aa03978-71eb-4854-a5ef-e23e3dfff32e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/84eb7dcd-c6cc-4206-a043-b202c78e0893.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/38bea9f0-4332-44d0-8b13-9f170aac88d8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/34a6b342-cd5a-4d5e-bdde-8e585050acb1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/861bd3a1-9ce3-4a52-bab5-76c3d3f66d71.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/01ac14b1-fa2e-4ffe-a965-75cd19f29a60.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/38c3951a-6ad1-4e52-9034-b2924c6380fb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/90611b9a-bfb2-4df2-9a3a-1091230826c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4d3bb3c0-5999-4f1d-a597-c738e3d41356.jpg?width=720"
+      ]
+    },
+    "Chapitre 21 - Chapitre 21Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/21",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/726c15a5-7079-49ec-9919-b890899333de.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b4400981-c183-43a8-926b-47b64bc546b8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/62c8bef8-0dcf-4b3e-b374-f435335de8ce.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ef1aaf80-caa7-4eeb-816c-205010230d30.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8883121d-b0eb-46d9-b4f7-bc9113788c53.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/afaa6674-194c-42ec-aa4b-92dc699641b4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4169ea8b-bdff-495e-b03a-2a07e229d1d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/921f04b6-531d-4114-bbc1-ba7ce73c6206.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dd04f582-d3a9-493d-888c-8049a3e75b97.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cacd32b2-6190-480a-a0e1-af2b5f2a8b8d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b6f10b35-2dbe-4ae7-aa72-2cf93a3bb6cb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f61fab0c-1f6a-4484-a6ab-c10bbc6492b6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d975d307-c2b7-4eb7-95a4-2ea4898aab4b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7b98873a-44c4-4ca8-8805-39274f3258a8.jpg?width=720"
+      ]
+    },
+    "Chapitre 22 - Chapitre 22Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/22",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ce83cd32-c8be-4302-8f70-c55df458bda3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/caa5c453-0e0f-41ee-a46a-b24b897394e7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/085823c8-17a6-4832-a5d6-08e8749aa70d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7fc487c6-ad5d-412f-9e1a-bae8cbd8c8a0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6d848dce-f24e-4cb9-bd9a-1b4eef90f464.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/acc918a8-784c-477c-8e9e-701fcc12b946.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/23d4c975-716e-42d8-8dda-a4314a0da59c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/eb33c7e4-36b9-4207-9b6c-350cc50aefea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a3dced96-47bd-437e-bad4-d10a74b2633a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7eea1084-9f7b-4deb-959a-6fb27ac7a971.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6a6506a0-8ad9-46c9-9885-e2d21329e1a4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/787dd5ac-0c92-4e33-bfe9-444eb9cbce01.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/30f932e4-590f-464c-8582-19406c106306.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f4eb0c77-4f5b-434d-b326-4dade37de49e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/debd5bcb-e1ab-4704-a709-2cb2e89933ee.jpg?width=720"
+      ]
+    },
+    "Chapitre 23 - Chapitre 23Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/23",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fe99896f-439e-4a1f-b43b-cae05dad6e55.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b439a762-9383-4294-9e28-c6de885d6225.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8d91bc32-efd7-4ffe-8b77-d6a4f685f4c0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0745edbe-d99f-4642-88fe-193778ad365a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0cfb9bfb-cb25-4c11-96c5-93fcb2eb3454.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c5092a89-455a-485c-a493-b21f37ddce99.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/886db4a4-d08c-4b82-94fc-cc90ed433804.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/092bba37-2d0b-4882-900d-ca82d025ccff.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e1adae56-6c9f-49b0-ad29-1bc3b2b758bb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0eb9f89b-814c-44d4-8a91-335e22dcdfa3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1f3f6046-2a9b-474a-b0be-f6c0a37d21d8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dfe01555-33a7-4834-bff1-354764e5c44e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0a9bcc45-7980-4aa6-a907-3c1ce69fbf5a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a6a496b3-c8da-463a-9c3c-e5e761dc664d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0fa6fc35-8caa-4d4f-babf-cdef56e57af6.jpg?width=720"
+      ]
+    },
+    "Chapitre 24 - Chapitre 24Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/24",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4046513f-f3ad-4e6b-96a5-f15ca8df85bb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/81441943-1dc8-4572-8c70-474b099eccc9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dda99b2b-a9dd-46c0-90d0-75b0dca14cbb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/15c104c1-91c2-4e11-8561-fbe7e99b22fb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/23f79a57-5b66-4dd0-a216-fea945553d7b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/582ccb95-df92-4392-b101-bd3b3513efae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d3c24686-5490-4027-ad9c-23fdf8e637d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/61631065-3f70-4f8a-b7cc-d7a598aec36c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e655f007-7d8d-4b3c-b1fe-a2accf91ed8c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8b08833a-0543-465e-9de0-3df6f3d74d79.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/05894c33-5a4c-4b7a-bf75-6593d6b7d2ed.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f3feed0a-4452-45eb-8b99-69ee9740e421.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c805c0c5-5658-4ea2-a1a8-8e1b05fc012b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a3efcf68-ddcd-4218-a85d-18d3585fe984.jpg?width=720"
+      ]
+    },
+    "Chapitre 25 - Chapitre 25Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/25",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b3dfe245-5c67-473c-b4c0-c94fedc14ca1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/124fba99-f343-446c-b9e1-f1e958918966.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3398440a-ce40-4f65-85a1-7eeaa0cec90b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/82ec7467-0a18-412f-bdcf-a3b8ef98587f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8a62104b-f86e-4757-8f9f-bd93c3ca36be.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/55e339a8-ca86-40cc-98e5-ec1083805cda.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/56d398d5-bba4-4b6a-8732-2e312328d8a6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ab6f683a-e2be-4336-8d66-6232a2f472f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f00b6158-c9f7-4071-ba09-6af0aec49299.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7d28e0be-def6-49be-85d6-e5dec22241bf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/38dce5a9-0a0b-468c-be9d-2dd174aa4e25.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c3631522-89e1-4f97-9a7c-71a60b7b4b28.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d779dda1-57eb-4b53-b45c-40ba9fddd7b5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b565fb23-6feb-44a5-9a35-16aacff82369.jpg?width=720"
+      ]
+    },
+    "Chapitre 26 - Chapitre 26Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/26",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/17fdd2ac-70f6-4832-bb12-ec1bca8b33a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/04e7975c-1149-45a7-a65a-ce36b5f114b1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/76b2a782-69c7-465e-8ff9-3b9cf42b6ffb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9f31bc6f-9298-4bb3-bfd6-90ccdbcd45b2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/11fecf77-d28f-4bb0-998f-980d4175861b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7d9217f7-6a37-432b-bc71-2a8e0a559866.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f97bddd5-4b57-4074-a3e0-ac4c0407c8d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3c5f127c-ed4c-4dd4-87db-b5d83bba4a2c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7697613b-5568-4f01-9c02-640e4400095f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2c096a5f-df0a-43bb-9541-10d977d35ced.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3c4a179b-4a4c-4d76-b3b4-9781065067b9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bb4145c7-215d-47f9-bbd5-26b7a6fc531c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c127d5c9-1a4b-4a71-80ca-41ef02fd3b8a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7cddf421-87d6-4e58-82f8-bc30083bcd0a.jpg?width=720"
+      ]
+    },
+    "Chapitre 27 - Chapitre 27Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/27",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/845bd5bf-7e63-49db-b201-09a395eee941.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/98b624e1-04f8-485c-96d0-8a9a4f3585f2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e84101c0-2b88-42d0-8ecb-60196d035ca1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/96754e22-2d4a-4af5-91dc-adc8219a70da.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/25a4cfd7-d308-41f9-b170-38607e2228ad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/292664b7-5c88-4736-af35-b7102c72d53b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3003dc5c-45a8-4490-b62c-3f8220c5620d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0a7e6568-eaec-4dd0-ba8e-76422ec66057.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5b55e462-be81-4379-bf31-9607fecfa059.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/10ac42ce-d7fa-48a7-bb03-a1cc03300f46.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2b077967-c026-47a4-91f9-14248b698f39.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ec7c8493-0605-45f6-8b2c-59a3a0e06a1e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f9067278-cc46-4d99-b132-a387970775cc.jpg?width=720"
+      ]
+    },
+    "Chapitre 28 - Chapitre 28Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/28",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a92bd99a-83bc-43bf-afea-f4f76b31d753.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/23ed43b8-383d-4363-a048-065af16e09f9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a2135340-5fec-456c-9dac-5df6e3e39211.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/807436d4-50ac-4f39-9e07-7a392eee3235.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1f5cc35b-2951-4125-bba3-879945f15aac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/42196514-ea36-420a-b571-8e696d9ba652.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/85d8fb16-645d-494d-8868-a1866de65ee5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5a88122f-54bc-4f6f-9cb6-a1d7d56454c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d971db9e-21e6-4b6f-8317-c6af8606301e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2304eafc-c299-4843-baba-8f5f6eba5938.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2d056283-9534-4f92-ad05-7b5f1f9de939.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/81a500b8-2241-4c11-9c93-a66c2c5e7866.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e47d95bc-2ded-4574-a39c-4e0573c54e94.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8ade163b-3f39-4736-96dd-9f263aae4547.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9682d74d-36e9-47bd-acd7-24b81720396b.jpg?width=720"
+      ]
+    },
+    "Chapitre 29 - Chapitre 29Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/29",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/823329d1-8e56-4b1a-934b-83040e99ac69.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6e217eda-aa62-4125-8dc8-cc2308ce8d61.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f4f73ede-7aba-4ffa-a6f9-28701d8c8408.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e30f3edd-a75e-43a6-a37b-c5eec82ff9a5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cef6a886-0a6d-404a-bee2-b58b809d5dd5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e0901edd-fac6-475a-8150-567e2905d94b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5093b10e-b382-49ad-8ec7-1aedbc20fd23.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3489f977-d52b-46b1-8173-4980dba65a04.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/33d96526-ad42-4cb5-af90-59cb8875329f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1b9e63f5-3933-4534-9767-6ca371885eea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/86789519-ebcc-41a6-86ce-40c9d25b77de.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/749a420f-3db8-4f74-b275-3251e2456a7c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/eda9101b-37c7-44c8-b192-dcc6bb3e43bd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7702a6a5-8696-4f01-a613-88655472d44b.jpg?width=720"
+      ]
+    },
+    "Chapitre 30 - Chapitre 30Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/30",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5d0fd35f-b43f-445a-a1cf-c05f773327b1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6967dcd8-b314-47d4-b4ae-650f0a5a8924.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b1fafcdc-c453-40d7-825b-57eac93f1839.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f0cc74c5-2f29-45d2-b092-6c22ac1ffe02.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/142d454a-f713-4d8c-962e-ba6b5feceaf6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4ef7d406-a587-4b69-b0f6-73bd26916042.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6be2ca14-7836-45b9-bf6d-650d4c128ad1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d6e21572-d9ff-4f28-9586-e5563f6b85c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a21af0b3-842c-4e71-8dad-fac12d6cd798.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1887a55a-ad16-4045-81c5-a83b6b55c6bd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/76751420-cb30-4fea-ab9f-e3781efc0d17.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d359fd7c-d71e-4bf8-b870-6bc71a28d7c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7523b411-fe06-457a-bf5b-4079868a1c4b.jpg?width=720"
+      ]
+    },
+    "Chapitre 31 - Chapitre 31Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/31",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f2782590-b61d-4028-8671-777eae04fef6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0d7e28d0-1277-4b11-bb4b-21a9173eec40.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1c0539b8-52a6-4a32-ae92-eaab4d9d77b4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bc983b52-b14a-4d14-9e6e-f5503d87537b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ea9a74b8-5493-4405-aad4-53139cc62bc4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/63cd1840-db3b-494e-bdcb-ccf873cc337e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4a0b5b19-9189-4c32-b6ec-039792d412e8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0d390058-8ff1-4c4e-a1a3-7ca7689431c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/be8047fb-be41-49d4-b916-d6d7f1ea7285.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a1fa0ce6-82f4-4f46-afda-1d3bbd7bb655.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/51978983-181a-4dfe-a44d-8ffb1e7a4d14.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2a761282-c7be-4533-add2-7dbc60b893cb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ece37eb4-ca68-4761-8a87-dca4ba813165.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/600afdea-1b7a-4c22-93d9-3af0ea2e4f01.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e97c31d4-cb25-4ae6-a107-2496059f9ddf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3eb7617c-bffa-4ddd-abee-0b18d2f4f98d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2f01e060-ef0a-40e8-afda-8f7253b566bf.jpg?width=720"
+      ]
+    },
+    "Chapitre 32 - Chapitre 32Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/32",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/760709d5-90c7-4726-b504-9f7953885465.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/56247791-3c3e-43c9-991f-ac16fd589614.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2b02a205-4644-4f84-8cf2-2e7bde1916ad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6b194459-81a3-4c8c-bb6c-199094dc699a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/32f0e8bf-d10c-4712-85c3-523e49ee1eda.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fb72614c-456d-4735-8dda-d2593a64c511.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/88e12279-acfa-4198-98d5-4e5340e1dcce.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/693bbd31-4259-435e-b554-ad773c8f79a4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6e8251da-5a0c-4f66-8c6f-206290bc39f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9d65cc08-cf3d-40b8-a74b-40c5641050a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9b868871-3dab-4124-a742-0675f75a55f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/53207c7b-83ab-4f47-9731-396dced2e0a4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7a8155e0-47ed-4e8a-838f-c15041c4844c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5a4f0371-3080-4757-9c37-3d81e9bf17c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9da12b12-288f-48e3-9dd2-9a803c4fe28d.jpg?width=720"
+      ]
+    },
+    "Chapitre 33 - Chapitre 33Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/33",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3457dda2-0114-4c78-aa7d-50395a469bef.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8175f42b-e720-49bf-93b9-a3075baf87d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/19762d80-8680-4712-8252-337d69fe00a0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/069ddbd0-a0c5-47b7-83cd-30fa3f039476.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fee639c6-e376-49c8-81c3-ac64dd0b86e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/78ec4844-f86b-4487-a096-8f25688dfb3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c6182d4e-f429-4ff9-addb-1a2f9713795c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/05ec87ce-fa97-4916-9c2b-39e67ff7f08e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/02bd1ed7-89ae-4ef2-aebd-b9b1f2c406fa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e6a370aa-dc7e-4058-9088-f9b6a82899da.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/de059b78-63c7-4cec-9a5f-239affd82a18.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f7ab6206-5a20-4ac8-9e5e-bbfed6cdb7e7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1d0a0f78-66af-4015-bd04-3822af183052.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a3eb9d2e-a522-4d41-8bff-18399001e76f.jpg?width=720"
+      ]
+    },
+    "Chapitre 34 - Chapitre 34Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/34",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/049da595-b18d-4350-acb3-2f80739eee9a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5d2581a7-ad8d-43c5-a2b7-7bacd5a367ad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3babab74-40d6-40ca-b6ca-8b872a213b39.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3cbde613-0187-4414-9add-1a582c140982.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/55b15752-4eb7-47fa-8819-2e9c7de1c5ee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/393adb34-3354-4d03-addc-f3e85b734a95.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d4907753-e861-4a06-90d3-b8acd86820e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d0e9801f-280a-4f44-8143-8f8c8895a072.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/913406fd-2400-4372-b06f-a754cf8e1574.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5d821f4e-249e-419f-ada9-223f368b2ebc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4486468a-bd49-443a-be28-34bd8ddfd821.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0196a268-1f0b-4eae-90ce-c281af0411c7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c304413d-399e-43ca-b949-3caaf08f41f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6de5f37d-3161-433d-9606-537e5e54c930.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e10d9a9b-bc9f-43f2-829f-d4a492b198f4.jpg?width=720"
+      ]
+    },
+    "Chapitre 35 - Chapitre 35Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/35",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/75e12ad8-553b-4479-866d-9fd97e62f37b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d0c97230-43cc-4a5e-a0e8-64b36a0fe8f9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a6865bdb-20e3-4782-87c5-01c8e4859d0e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/447aa0e8-d010-4d40-abad-0bbd30e6634f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a2489baa-d7d0-45e3-9639-0ee00fd46dd8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/394bc8e3-5711-4023-ab19-64fba7eb1c91.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9a1a9d55-fcc8-4263-bdc1-6628d74ce158.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ac375c82-b968-4de8-b493-45e5548e7941.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/05583c7c-e7f7-4726-8f2c-ac88f2aec739.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f6cb5adc-e976-4c81-87dc-473501785f9b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d261ea3d-0d42-436b-9ef3-93063dc335f3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/847acd8d-20a8-489b-8c18-0d59933e9678.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/45d4de54-a272-428c-b0b8-1de997c22585.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/27d003c2-a7b4-4462-8e82-d002467ca2de.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/83adb304-11c7-4045-93a2-31ea48092c39.jpg?width=720"
+      ]
+    },
+    "Chapitre 36 - Chapitre 36Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/36",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a5c4074e-5b72-4c95-a431-0ce9f01953da.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2a56b568-a841-42ad-97ec-b0ab5b610088.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b38ccd5e-0417-4269-ab59-54e531702082.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/af3bc3ec-244d-4275-9825-2ef7e3a8cf3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/69ab4d71-87dc-4dbb-8b0f-87c11f062814.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/44e2b53e-49c1-4686-a37c-0d5a5d7b2556.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/98c14a93-aca0-4667-bc7b-a03d912ee136.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/caa0313d-3c4f-4583-938f-fcd3de754593.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/14b76b3d-836b-4792-8863-22cc473b3b63.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c131e64b-dbd7-4bdc-8d80-208478b5e846.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/955d39f4-25d5-4754-99c5-00411b8e4fe7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7a8730f3-3294-487d-af59-b727b987bdda.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/68d00f35-b8b1-4500-aed0-b97f54b6fe10.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/82b1b894-c4ca-4266-a31e-46343128338a.jpg?width=720"
+      ]
+    },
+    "Chapitre 37 - Chapitre 37Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/37",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/591a848c-e941-4daf-beec-10b7e301bfd1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/600b124b-2851-4d44-a91b-5f17f49d0545.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/93bb3bca-b423-4414-aa29-9a500c2cff97.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7097cbc5-4230-44d0-96ba-64ec8b2d5919.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9ea58b72-24ba-4f6e-bce7-b012f1c68fac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/643bae74-2dd2-428e-a61e-2e17bc8d7c40.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d064c61f-4761-4d26-a319-2bc020c36e7b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/11e13683-03e2-485d-aac0-58ad96532d64.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a154699e-77cf-4339-afab-5e8a91e03525.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3c34c80a-b5f2-4794-aa81-cb4c71cb26f2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cc12b484-3c4a-41a3-a639-1e980dc153d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/79ce25e3-6ffd-4fb1-ae69-e6f99ebfb5e0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a06eab0c-f3e5-4c51-8abc-87366456909c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/328a5377-c321-409e-a7ea-4fd75b2a9428.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d5c0be30-0d5a-44f8-8a95-538624478954.jpg?width=720"
+      ]
+    },
+    "Chapitre 38 - Chapitre 38Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/38",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/82016bc5-a876-40d3-a48f-34005a5d32a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/81747d8f-c3c5-48bd-adf5-7ad05f70b45a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ab2e9a72-83f4-4b7c-80c5-1e273925ff69.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9cd90dba-3e84-4067-9c5c-dcc6541ae9dc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0fe37a54-9edc-493e-a8a8-0527f9eec988.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/aa8ffb8e-eece-4d0e-87a7-71940374d600.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cbb4b528-e200-4454-87da-ba33f3d44a2d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/30363cb5-c13c-40cb-8ce9-e4feb3c150ce.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/07340832-3956-40fc-a950-6ff72c240d0c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/85fa5664-67a5-4b4b-a938-a354d630e01f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1ecc544a-474a-44b8-be57-62f24475be64.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1eac782b-d8b1-40d1-8594-90487c1a05f6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f1456ede-6e07-4628-940e-b1e99a676dc9.jpg?width=720"
+      ]
+    },
+    "Chapitre 39 - Chapitre 39Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/39",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/08562928-a5c3-403c-862c-0cf36d35810c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7b0a4017-f28d-400a-a69a-f1190b51e2eb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c9d3a5f6-e9df-44bd-86fe-2542558db322.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e590f1b8-041e-4a6a-a305-14322c6470b6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9af791ed-c52e-49ce-a70d-935c066487d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0b2c117d-3bd1-4936-8698-a175bebf84c3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c9fe4fec-60fd-476f-a43a-509276b074ed.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9b3d3f24-68cc-40d6-ab4a-b08fd03d53f7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6013a569-aa2a-4a0b-902c-2462dac613dd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/31af5593-3415-4bdb-89b7-991c971d4f09.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/121dd317-e70b-4797-b966-5841927e360c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/28bf2fd4-5f50-41e1-9b91-374857c5d246.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7254e6b3-d2da-44ba-83bd-0b4b9b4e867f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6b28e35a-a27f-4fbe-a0f6-3e4b86a043d7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5f7d6086-7eb7-4b21-b4a8-045269cc43ea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/29487ead-37d1-4411-8f2c-23561f2dc6d3.jpg?width=720"
+      ]
+    },
+    "Chapitre 40 - Chapitre 40Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/40",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/97291a24-0831-4736-85f8-5578a1b455ca.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dae5d7db-3666-4311-a149-e18fbaa19061.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7f1225ee-6f15-4d89-bfc6-4ad34b0202b5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d1e46540-8c26-4b6b-8870-2b6c01d7880f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d34d3910-048d-4f7f-b004-9a583d67e0a8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/31a24029-35ae-4f22-a900-746ee925eeb8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4420bb62-be2a-419c-aea5-9744f4871ab9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/27f2a428-c994-4a9b-8826-a16a57460740.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/838f932b-7af7-4f6f-abe6-a17faf3bb362.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5e41ffa7-9033-45ac-8cb5-b9c8a24b6138.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7869eca3-0b5b-4217-b679-e14659f49cf8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b9233b6a-5212-4a14-9fa4-e7c08152221e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8f283f71-24e4-4b8d-9ae8-e50b440525ca.jpg?width=720"
+      ]
+    },
+    "Chapitre 41 - Chapitre 41Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/41",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/04b4d52c-0bb6-4d56-98ee-2334635437d1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/49fbc92b-44e4-4b32-aa72-4accdd36a16f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/89573534-b499-4e30-bdbb-537e4e767bb4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/707089bc-f709-4f95-84cf-61283610965c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f0979c94-26c9-4550-a88d-844e4c268ad5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7ff1e7cd-58ae-49dd-9361-bb577b5582a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5325b8f9-949a-4136-982c-5b5b9d0f3e6b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/511a11bf-8df3-463f-92b5-265c43b92aab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5ab96538-d91d-45f3-b65a-baf5f098947f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fbf592dc-98fa-421f-a299-020ad81abe17.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9d15e804-36d9-40b0-84b1-bd5bfcdacee6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/14d91d37-c3a7-472a-8579-9d748892ba7d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9b8e733c-c7c8-4cdb-92ca-6e009bbc8e56.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cb9491bd-2871-4f6c-9d34-5827d9de1dc5.jpg?width=720"
+      ]
+    },
+    "Chapitre 42 - Chapitre 42Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/42",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/90cc2719-7d36-4ec4-a5f8-921afad3b23c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6429cd2e-335d-4265-87c4-7fa81fee71a9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e1e82993-ab44-48a0-95e4-6ca6e793145e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b87b7f4e-2d5c-4a70-918e-322f734144df.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b691d7c7-c275-4feb-93e5-b6dbfd0cded6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8751a55f-0092-4a27-898f-fb01f42f515f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b0de98eb-df16-4727-9436-7d30504478ed.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b990fcd7-1e6b-4e85-b706-dae66428ea21.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9e7ffbd3-9bcf-4356-9fb4-f1ef7bb984f2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ca01a7e9-b83d-4866-bd3a-465e5619bf21.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6f4c476e-3d08-4bb3-8e2b-8502ee97905b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6f47a46a-784e-4be0-bc74-1e97f486e1c7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4cffacdd-b35a-41c2-a941-a6243bcdcb37.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a0faaa5c-9e17-4867-b688-0739812e18e0.jpg?width=720"
+      ]
+    },
+    "Chapitre 43 - Chapitre 43Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/43",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7e1008aa-3d26-4a25-aac5-048704f2f49d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e29e46cf-97a0-400c-b98f-39d9e1cd7169.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d4e062e4-b27c-4f9b-baa2-a30b72e8a985.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/83491630-715b-4de8-8d2c-30d0455455f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e03aac22-8010-490a-b0e0-3c9ce9e8adcc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/782269b1-e105-489f-b94f-907833030dd3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f2a96932-c549-4a80-a9e3-56021d683636.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/23163077-81f1-4805-9815-98c91c1c62dc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1804cc05-7764-4ed3-a862-506a6dc7e7c8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/795249ff-6f71-481d-8e42-9f5f67a167db.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/012cba78-1398-4692-ac88-7301c4cc0014.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bceea35b-5a02-4c7d-9f83-3705ab909f34.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6336ca5e-2580-45fc-b372-d46c45817020.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d216dc25-f236-4da0-8d85-ce2bdf1a439b.jpg?width=720"
+      ]
+    },
+    "Chapitre 44 - Chapitre 44Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/44",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/18e101a6-0a84-417e-9ead-fb6426dde13f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a79be4c2-4680-447f-8f16-ad97d9bd0571.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6d49b04b-524b-40ac-91ca-51bafc65a494.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/79f7aa8c-34d4-4405-8f1f-7009a73c5494.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/60978cf7-1fdd-446b-bd98-ca82a2dd1f2b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/55dc1eaa-40e4-4e99-ad0e-167bc484aaba.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/18325637-406d-4fac-951b-06a00e0d29df.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/88ec448e-ce03-4414-bcd7-9d40fbbdbfe6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/12aaccca-ad22-45b6-8a94-bb7938c886c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b4ca8b67-ffa4-4ca8-9e8f-a956172b8e63.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a16cc2ce-400f-4e08-ac23-2a87056e6280.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fc6812d5-58ee-4ab8-864e-8889f795f40c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f6ed4550-099e-4ca5-bd4d-4f3a3e287b19.jpg?width=720"
+      ]
+    },
+    "Chapitre 45 - Chapitre 45Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/45",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2698b5f1-f643-4d5d-af82-5feb43cc86e1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/df277ad9-cfb8-4b90-bfe2-35e7aafe2199.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/215df08c-c8cb-4e6b-8c67-9806577f9719.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/369c306e-f7e0-44e8-b644-d1b9a0b0b93b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/052383b3-d695-4f06-b04b-944c9b4328ef.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8feaff80-8207-4249-8eba-937782288f7c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dbe9ccaa-4ee0-426d-958c-e0dbf31728a6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/eff95ff3-6ee4-42b9-bbda-72446df5d03e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0f1bc532-6aef-49aa-b63a-d9cec350b583.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b84e8e64-6488-4d88-ba90-134205f4ce24.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dde040b8-6eb1-4663-8506-9ec13192fa44.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/030c5cba-2af1-470b-a7cf-a9d518e50a11.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/764c07ef-d1f7-4771-9daf-0e4befe438c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/14cc8f7d-3e4e-41ad-bbb9-1d75809bb1c2.jpg?width=720"
+      ]
+    },
+    "Chapitre 46 - Chapitre 46Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/46",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a6121ec8-d8fc-4496-ba7e-78b7a7b67b44.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/45a25a0b-ff25-49a9-9487-5ad18db8a1db.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c2a60310-232d-48b6-bfe5-aece355a3673.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f0f0bd41-77da-4809-871f-57fca2f12042.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/48919d5c-33e0-4092-930b-407b4ce9f453.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/58d04e79-3afb-49d1-a10d-44807ad6b0df.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b51dda6c-778a-4695-9212-b9bfe2648869.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/eb2b34b9-0d8b-483b-8236-bb96bb1a7832.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ad8e74d7-aeba-4e49-baa8-5791048d46fe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/462df517-8530-4a83-82f9-96f174b402d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5f0d9114-b335-4502-96d0-94542c6b58ab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1daef0a2-0875-447b-bf2f-6dd9eb67e927.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/302f1992-30e3-4896-8ff0-eb3a4140b70e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ebe2c42c-10fb-4a61-8956-f324a6cf211e.jpg?width=720"
+      ]
+    },
+    "Chapitre 47 - Chapitre 47Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/47",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/08e62a81-a162-4e9d-acb0-e121ab81c0aa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/71b02b06-ae2b-4c69-94df-533c6204f6d9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1d72406f-f63c-4d7f-8953-5203315ca4bc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8a8b6700-5ea8-4d58-9da6-1df5cc54eba1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/134075d5-24c3-4ca4-8f5f-4f4a84ed3a55.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3b6d4476-dd0d-47d9-9c51-3bec613c0010.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f27523b1-95b3-4851-92c9-65e86ebd13f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/80eadb65-4d17-4f48-8f25-dac8dd144edc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f9c41c6b-acf5-4485-a0de-aadbf6bde9a9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/14a0d1b1-99b2-453c-97d7-24622d8d4dea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6a6b00db-8dd1-45ea-8711-ba0c31d1e61b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1e36cc8f-e9e4-487b-ae17-84b719ad0a29.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/81220f11-da50-4d60-8bde-43d0d812a197.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/924bff60-a531-428b-a5e9-ec0a8dfb8bd7.jpg?width=720"
+      ]
+    },
+    "Chapitre 48 - Chapitre 48Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/48",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0b82260e-b5af-4970-9f4a-cb52266e667b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4681d386-3c47-40ac-900f-7a0eb6da663e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2aa750f5-9b6e-48e1-8d71-9ca08eaef41b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/28087900-ebd0-48b2-902d-ef565d359147.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ead68155-7853-462a-be30-b58f3248ac30.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/75b88175-bf98-459f-b2fd-22c5930fff14.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/38222c9f-6673-40a6-9ef2-7234618aa252.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fef8ed34-b3b7-4185-ad1d-91ccf2e18ed7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bee572b8-d15e-457c-9e9b-ad5793c9a95c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1a7e2098-c712-49c5-a398-80e141f62821.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/60b82104-821b-4719-9685-e202633a18b9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/db517dc9-8b0c-4cd0-b625-6dfa977a6f10.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/70d7323e-d371-443e-b1e8-4131c0b313c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/395de754-a035-4771-8367-8266b16aa490.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7e5c13a8-1707-4db3-96f2-3cc0ff097a53.jpg?width=720"
+      ]
+    },
+    "Chapitre 49 - Chapitre 49Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/49",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7fa9ac94-eb5d-4f8b-bf73-c958ca3ea6d0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/13014b29-8b66-4c87-9219-69056e0525c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7dec8a6e-e88e-4e99-9726-33480875b480.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/37b741a8-6637-4fa7-bbbc-5fdc224f82af.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1e9cab0f-bf71-4b9b-b1aa-04d134ec2e68.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/baa9f2df-d40f-4e57-ab33-913db3296c73.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9d8878fe-5d6c-437f-bb14-78c8052e6066.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/463f9454-f281-4253-b761-7ebaa67c6e27.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/26cb04c7-62c0-4559-af2c-721da06b3810.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2a3c25be-aeea-4f3c-b0a1-4f5e842fd8d9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dff04d46-3603-45e2-83d4-17488907fa38.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1f87e009-0edc-491b-8365-b23c5e173353.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/63cb6923-adae-4119-893d-713b44f75266.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7f774081-b83b-4ca0-aca9-028b58c04014.jpg?width=720"
+      ]
+    },
+    "Chapitre 50 - Chapitre 50Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/50",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bf3d35c9-2ce9-4764-a9db-d00ac5f9ebd2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d78d93aa-ebe8-496c-a618-becb2faf3abf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/775c9c7a-a1c7-438e-ae93-45a209f902fb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/74944456-3c47-4f7f-aa95-31441102567d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cf6d16a9-1ca9-4d85-901d-39fbc5e37c37.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4c9d3a90-3913-4bab-adca-2f54a32df707.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d16222cf-595b-4f7d-8da2-fac22b70d662.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8c033263-a0df-4631-bf35-0f60188347c7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f389ff3b-81d5-4f73-b53e-fba77fae4d3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c869195e-e802-4c56-8185-86d59ee64ef8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8c5cd912-2f7c-4059-b551-d5cdb10a4dc0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/26fde6ac-6e05-4234-9e08-02f53ba63b37.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9f78376e-7cc3-48b5-9769-d732b061de90.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f8a7d46a-6ab1-4ef3-9160-ad50a32f0347.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/926b2cc5-cf85-4d9e-838f-bbeb45b8aa3c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/49f08009-5e24-4418-88a2-4bc6a3384fa0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b4623ad4-ea17-459e-adf2-1d41dcdd6daf.jpg?width=720"
+      ]
+    },
+    "Chapitre 51 - Chapitre 51Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/51",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e0d6290e-7aab-406d-abf8-1a5df1c79d1b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f3858e06-0865-4744-9f10-39446a2ed7b1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8b702920-acbc-4ce7-b816-0e8b6470e415.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/952d7328-4290-49dd-a5ff-274c1c577a33.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/31325d0a-421e-45f9-b95d-aedbf640c17e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/498f1bc9-2171-4b55-8199-4ecac556241f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c4739730-b0f6-48f2-b448-a927f5113c2c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c8b5148f-eb70-4f03-88bd-c1cc1edf949f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/69482157-4e22-4552-b7db-8105962b3026.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8c019b98-7766-4380-9feb-648f27b77a94.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e237190d-dac6-42e6-b2e1-5c0571dd95a6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b4fbb592-d2f6-480c-9f10-c1ddfa81ac39.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/197d9d7f-cbed-4684-be15-fc03c7f2a6e3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4f4cb5df-996e-4e82-a7d3-5b8597e4418f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ac598e59-12f3-4352-b065-b288a5366d2d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/365fd28d-70b5-4b75-8dd3-200fd54a9ab0.jpg?width=720"
+      ]
+    },
+    "Chapitre 52 - Chapitre 52Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/52",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a1540677-1f66-4da1-9aa2-a50193d2c6b4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6c609773-2af7-46d8-a754-6941317342d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/04e4974f-80c8-464f-97d9-a132c0f46412.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/17ca0a5d-85f1-4a92-a302-8bed7384b0e0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2ee4a324-f9a8-417c-9984-73d8b0107d64.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e4ab911a-9b5d-4e64-9f1a-a4cc2b5c093e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/19a94c94-d53f-448b-a270-a30aa444dbfa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e5792721-bde8-45e3-a89d-5c5cdd1f166f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/29507307-427d-460e-b2b7-5a2c8de75b01.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1e782ab6-a6a5-4e5d-98f2-ffd1ea96ece5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ff15119a-bbe9-419c-b523-a6167e10b293.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/29006452-3fae-4f1c-8277-159bcae80559.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/239d96d1-5a46-45ca-a682-6a19beda6884.jpg?width=720"
+      ]
+    },
+    "Chapitre 53 - Chapitre 53Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/53",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e336a7a3-3e0a-4f2f-b63b-c9f905507751.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c5acbe41-250a-4524-a931-5266ea8d05b8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9610962a-85ee-4a46-bcfc-a9d86aef473b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/08c0d5bb-1c89-42bd-96ac-1f894a8efc21.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/329f8efb-b04b-4c29-90c2-e8cb1ee74dc0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9196102e-806c-44ae-9b7e-f5596d02a25d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4bb6e181-e23f-4ab4-894e-e512fbd318b5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5f788691-3039-4847-8985-b6d3e983549b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4a5551aa-4374-47f8-9389-9884a920ea7d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cbbd4561-5cd8-406b-a744-0a07a3c08262.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ec1de9ad-b2e7-457f-88bb-1dad92467ef5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bbb89b7b-bded-4617-9fab-cf25740feae9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0a87451c-07b8-454c-a848-2024f06ac7ac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d1cc58d2-2e40-4c5f-a941-ba35c1511bad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/360864d3-04ba-470a-a9a4-7d8c3d4c9896.jpg?width=720"
+      ]
+    },
+    "Chapitre 54 - Chapitre 54Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/54",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ca45e640-a862-481f-bc48-4284f2272b60.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/659b07b7-6b9a-4e65-8e49-d06c88e3f7dc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6a2585e6-d1c3-41bc-9007-41fb7d9bf441.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e07e10b5-2e2e-465e-a669-085504d38f2a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fe20c3e4-39e1-4fa2-96eb-b7768f665d3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/56726c1f-797d-4639-b752-7949e7538b16.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ed80e40e-f96f-46c6-9d9e-1414f6c93a4b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ba28e3ac-6dc9-4d1e-b392-4b440725bb3d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6365ce73-8ceb-43d8-a15f-b4e316a07bdd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bed03403-b9cb-4212-85fa-2f8610ce39cb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/75e692e3-f2b7-408f-95b1-c557cf9f63b7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c3b94b04-1ad1-4122-926f-ef56db6fcdce.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/348d336b-1e20-4b0c-9a9a-238a26cb0d90.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7fa4650c-be80-4d99-a677-63a812de8b0d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/38fd3044-052b-4716-82f9-78d275103b2b.jpg?width=720"
+      ]
+    },
+    "Chapitre 55 - Chapitre 55Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/55",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6a5e8f29-c490-49a4-9bac-d716e088f4af.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a9fa5923-f65c-46c5-bcda-bc18735176fa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2ec54c65-d33c-42fb-93d1-3ad3b8f5aa0f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9f5cde6a-383a-47d1-87ad-cd218dc55bce.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4a047ea1-ab86-45bf-9bf7-20eafdeb6c21.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a527ca0d-d768-4850-84d3-10b0bc9999b2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c7c8bb2e-eb16-46d1-b1b0-2dbb8f1eeee8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/70c2fee4-ae4c-4310-83d1-f22ff7d90794.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/29f64e8b-20cc-4cff-bd8a-40c5fd98f45c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a67b1006-f27b-4b16-afa3-bcd53d07152b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/9123053d-e6ff-4131-ad3f-74ebfa662f76.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5bafd78e-3ce7-4975-9732-90c5e8f835b3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f9065d3f-3efd-46e7-a0cd-8ea03ef3cace.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1914afd2-3408-42a9-b117-58b917c8c20b.jpg?width=720"
+      ]
+    },
+    "Chapitre 56 - Chapitre 56Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/56",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ee9d2316-919d-4720-ba6a-6485fb8ee5bb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1a5eebc1-0cbb-445a-96e0-7a74ba7250bd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bebf4ce7-5a1c-41a2-94a0-be43b49d74cf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ca8426ec-00c8-40e3-bd1e-d1bb697fc1ef.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a755cb49-8cc3-4fe3-9a1a-8247bef31c72.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/83506e8b-3830-4ec2-a919-eec4f415fa5a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/635ff5a7-b39c-4851-89dd-019bad922d2f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4998d2f5-93be-4139-9b0b-384b7527343e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bb59c317-96bf-4eb0-b28a-ef85f3ad3545.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/bdd8611d-2258-4a1f-b908-062ca5994f07.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8e6a3311-d968-459d-970c-a16a19f03f9e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f335da9c-25cf-4cb2-9e3d-10fcb4c34fbe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/84f215c2-17d1-4fe8-a1d0-daef2ce0325e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/22ddbefe-7597-43ab-a6da-29156f64cec7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e20f1f13-946f-4e97-b079-1b5d1fffcb9e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d5fe085f-a736-4479-9390-af336abcc789.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/1916dc1c-f951-46c6-abb7-99e6d9a61b49.jpg?width=720"
+      ]
+    },
+    "Chapitre 57 - Chapitre 57Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/57",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ac97bc2a-8f61-4266-84a1-cf8ff1be3ace.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/976177e5-8172-42ea-95dd-e39278be56e2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e073c30e-7e2e-4a31-8559-93e71ae96518.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8f421ee2-e7c1-45d3-a2c8-800ab7e1f32e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6aa07644-078a-4215-a57c-341e709cb794.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4d3bd33c-f83c-49c1-b491-6bb5b9e536b6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/61a86135-29fd-479a-83e8-e114ca282b97.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8d1a957a-8b26-490f-adb9-daec6c8a1f4a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3439f60b-cb78-4539-bbab-2d1d6f3645cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7ef1c41a-969d-4d3b-91e0-0455adb234b5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5cb30f50-53c9-4298-b005-28ced8db8d2e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/baba5c4e-6e3f-487f-9993-4fe87f274c4f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/fcad1c25-201e-4678-a92d-7cd306e4fede.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3fdd83c1-5100-4d08-b04f-ca6167ca3d80.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/6228d29f-3fb6-4370-ba89-de160208ec60.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2e15d331-e3b4-4a6f-8ea6-e91dcb37db32.jpg?width=720"
+      ]
+    },
+    "Chapitre 58 - Chapitre 58Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/58",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/53d22420-3ef8-47ba-a509-2009b9cf2a0d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2dbc3887-ef97-4485-90ae-39537dc2b724.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e7e42e7a-3936-43d1-a988-6a0accada2c3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a0b46f2b-c910-430b-924d-6316229e0231.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/98be6da0-19e6-4a3f-9532-4affc13bd7d8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8e3922f2-67a9-446e-9770-381e8779a37d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2f179122-7a72-446e-8881-44de4987fed3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/3f32ade7-6b96-4c7e-bd3a-60acb4902f2f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/46723bc1-49e9-4907-a47c-073a23ccb7c3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/2da1d043-dbc8-4996-aa61-0ae32504387c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/59c078c5-935e-4518-b628-2368b57c441f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/ebf49c09-99b2-4dc9-8289-c53db2d2c99b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/5b1a4efe-dd5a-422e-9f99-484f97a8237e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0edcb5e4-ab3a-4454-82c4-f812513daa0b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0f9b1459-3d9a-4841-805f-24c9a5bd36db.jpg?width=720"
+      ]
+    },
+    "Chapitre 59 - Chapitre 59Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/59",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/eeefac21-b686-42e0-8a78-12d094383020.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a18113ae-06f1-4959-b6dc-7dfe6a3d49e8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7419c3ce-811a-4f97-883a-1241a571d6e7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/40beed69-b4e7-41c9-8b39-af9876dc93a6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c7bb5f9e-bba6-4cf4-b378-e64b22a8038f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/0588e19a-3c34-4a07-9684-95367f0df265.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/eed87777-ef9e-4ea5-8776-723ae4ee4667.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/d249216c-037a-49ac-ba7d-1be735829ff4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/7a09dff7-7fa8-4838-8754-2c43657eb0f5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/67601842-7a04-4c20-80db-017a9b8a2960.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/e3bc59e1-6292-4627-9b89-627ff749c634.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/849d5a9e-170d-4db3-9b73-d218c9c1e2ac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b881e524-32bd-4897-a301-cb3e7d447b8f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/c0026b6a-86c9-445a-9da2-fb4467c07854.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/b013d5f5-6f43-4bbb-b0c1-f0a1b2eb3a80.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/8a29f8ec-d1e6-4f2e-ac04-446489fb7723.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/63b8036c-c254-4dcb-9033-74af9d02dc15.jpg?width=720"
+      ]
+    },
+    "Chapitre 60 - Chapitre 60Il y a 4 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/60",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/507286eb-620f-4f3c-a047-bc17aac1a9d0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f105e77e-09ef-4151-a0cb-664ffc64f52b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/f07ea001-d55b-43ee-8b8b-0de3cf27ae54.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/695f953a-bac3-4ef5-bb38-d638ed307a5b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/751f730e-579b-49db-b490-5164738da19e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/a0985ba2-9618-4540-a818-e2a31214eebd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/4f4867f0-e34b-485c-94cb-3a189e50981d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/36a70755-c160-4cfd-86a3-9adf5e65400f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/acbdb649-0309-400a-98d5-e18732e9075b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/31a97876-177c-4437-b402-2ba13459b299.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/34b863e0-ea6c-4226-a45c-4c28b0502e1a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/cc48a213-f143-47bf-9b9c-2d7fc0df7913.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/65aede03-7b60-4410-bab2-96e1a27ca4d1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/eecb9268-2e11-4a82-9b1f-38806db110a1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd7a4bae810159afa2b34c/dcf00d67-2e5e-43bd-b832-731c78d754b7.jpg?width=720"
+      ]
+    },
+    "Chapitre 61 - Chapitre 61Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/61",
+      "images": [
+        "https://phenix-scans.com/api/uploads/816b6c13810f4bd38368e0ede41ba07b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f2e1de55a2524e75870b3f0db52e01d1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1959ac9e88fb4397834ebe4101d094cf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/31dec3c50f714afeb81eac54a51db99c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b8cc5f4555a24821b33a2dc37cb8e83a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/31e65f463dcd4ac49d56decb00a66e88.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4602dfb731b746079db4f3e5fbf15033.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a092c43b37d24251ad11be3229371a93.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/fa58a44095ab4b2f9c9f5c944d97188d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/391fbc6ab3e345959dc1a48d43d45f38.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e9dae90012ef48c587174e54af69bca4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a246e4eefee54580b0e9f3f882b3eadb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0ec728c3da3a4559bb78b13e0ab71af6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d2a388c4ba434efe939ed56c1f7219fa.jpg?width=720"
+      ]
+    },
+    "Chapitre 62 - Chapitre 62Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/62",
+      "images": [
+        "https://phenix-scans.com/api/uploads/38f05f8e5d7c44fd8ba69172ad5bcaaa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/937c7b3d623f42b5add4582003c017bd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8c2c27f335194af18d5373a40ee535dc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5d3df01e3266484f9e41b0120e0a8e17.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/af67db43fce94f1abaa9c07404358bf1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/35461b76e2d34da89db7537ff4bf8c1b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/08774346280b428290da4cb5315eb042.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ac3a04cee3574f38a6a6cf1eded823e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/85ae4b4e40434dd690a4ff89ca5c6399.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6614ebb4cbee4bb487564080047e2dd0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/017f4c97a3a2464c94f016dd237dd2ad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8c3a05a72beb4b2e8af2891421f518e8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2a7fcd73471b4405805c220b31c7482c.jpg?width=720"
+      ]
+    },
+    "Chapitre 63 - Chapitre 63Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/63",
+      "images": [
+        "https://phenix-scans.com/api/uploads/6137d728d5094573b96d19f8235ce3e5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c1676814d7064f6fa884e4ba36bb5b7d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0b0449cd369843819de29631c2564a7c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/71e43cfeafdc4d9abb9664e5c46e8b39.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/48e7d98f35734754ac05f8db0bf0f340.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/158e70c19241492db77c8cea7e251dba.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f805beee0b4f4fa387ad7d5fc88d18ad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ee825f0357724e46946c5670b2f4e2a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e05fb994d5314cf0a8474cacda03511c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9d864e06b6b447cda29234d701b24a29.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9d7df9cdd7ec4cf186aae535ee9ef340.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f0ba01b7d390440c9f854bc05917c724.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0a45933a27d5472680ca8700c299cc4f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0c760c2f8a6749f08b9db39e37e262a6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/46bb99aedca845edb61cad4cf4c21239.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4d5cfdb9aa0a460786e21ceb529f16d5.jpg?width=720"
+      ]
+    },
+    "Chapitre 64 - Chapitre 64Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/64",
+      "images": [
+        "https://phenix-scans.com/api/uploads/d7acf67e70954f08a1c66725039d34fb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/199fdb6baab64c0081c293a1a3363bf9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/738d475b51fa4edb9a66c5dbc55395e2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/14b2451f9e39415b9d1a8da1eb3b7309.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/fba7dac18a004ea7bbd54d335e23fcb2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/97e6ed0d8b454b2595f4e16c47500750.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d62c941a09ec4f7d8a4002a3c3202c30.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b00e8559d14b4452bdd2ddebfb36774a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/33e6e9e3f518466fae0b5ca11ee34c47.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/48b04429a68145e18597bfca7877ebe2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5d34cd36b07b4eaabdb0eb12f05c2af2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/fa80b0a894434eeab22dae86e300dc8c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/fc8253b203434989bc5c45277df0082f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8ad6d5ed6bb6427f931f480056ae840a.jpg?width=720"
+      ]
+    },
+    "Chapitre 65 - Chapitre 65Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/65",
+      "images": [
+        "https://phenix-scans.com/api/uploads/cd67d235bafd4d17a2c2e3049f690d9b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/82f517b4535343f89327d237ba1c4623.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/3070fd3afbef43d4840db763a81f4fa9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7717625164094f7198619c9df8045dce.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/20fb9c9e85e1405db9cec94bd1329e5b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/32b7b926473f4cad983ebfb1cc8f4fdd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e6a93b4a27814d1283753c8387dca5f5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/dba7f9a27ed64f83896751273bde46a3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5511ef8836b4455f909101fa368a1a6f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/eb34dd9491af40aa9a48a0b16b1add17.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/46941789d2074741867b358300dc56a4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b2cfed6061b9467c9836d21e67a66f32.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/65b73f7e1e66411ea6dfefa1aea12830.jpg?width=720"
+      ]
+    },
+    "Chapitre 66 - Chapitre 66Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/66",
+      "images": [
+        "https://phenix-scans.com/api/uploads/e9757128e28840f18b9de4692e3f0e1a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d360ab4b6f534e26b54caac31c783495.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/16ffce56b24b4fb2a38a9c103bfb7c73.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/273c79c35e784492bc2cc61bb3aede51.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9ea04b4d63684b02b1432b4583987d3a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9b5a169ae0f741919724d33211f1e2c9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a990581b3c0a4f01b2e9776ac8bc061d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ed204ae9fb48474a96b4e8fefa2f1616.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/43d53130cd0a447394f1eb8a7ae3057c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/57a360e3b9a44da1b839433bdc169bee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e0162911a77745ec9e71d16e7eb12b6a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f9cf6e09bfc742e2a4563a4aa7098445.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b9b6bd8fe453465aa0b03fd7d7669240.jpg?width=720"
+      ]
+    },
+    "Chapitre 67 - Chapitre 67Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/67",
+      "images": [
+        "https://phenix-scans.com/api/uploads/779985c6f3f84dbf8bedfb759bd0246d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/cca1290296144bb9b649b12402504cb5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d1c3d89570b5424cae7564ea7bfec0ae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2e863c3a217941878b09fc59292ba35e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ea87ae2fa41242968e66e48b523cfd79.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/efbbaa7a9b7b45899bcc7dcdb3005d74.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5b50f20c36304a02898c7d1f3cf7c6a1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/592189097037453796ba1d4668d73498.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1d3de0a025d24468bcbc495c7a539657.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c5867f81aea545a6a6259efa63a5f476.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6053901c43c54d128ca966482f9f6c50.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2f2c2cfe42af4faba5d597349a13788f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7730d777faaa498893ab6de35d30905b.jpg?width=720"
+      ]
+    },
+    "Chapitre 68 - Chapitre 68Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/68",
+      "images": [
+        "https://phenix-scans.com/api/uploads/4b7c54cd7ff14b96aa9274f678dca8ad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d47f4fbf71db4239893adc1c23482245.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2ed1827d5c694a35bd08f419f74d2fab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c8427c45508342bc8aba5c8d61995cc9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/270ab8367b5241be832a07a7e69ed90a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8dbf16a874eb42588a22a50039dcb482.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2fd7a52a15a448d4a02ca6634ac46368.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/87462d7442024928a4a7b99867c0f9a5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0f442006b4da4057bc40d35aad14240e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0c493c8e50a84a8580641e60083c8bdf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b45c6fe976cc406abe7f146cbb185857.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/46a7047f6fad408b881d0208052f8714.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d5707bcfeeaf40e5a6cfd173e86f701e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c7d6ee41239d4cf78de234f25266430d.jpg?width=720"
+      ]
+    },
+    "Chapitre 69 - Chapitre 69Il y a 3 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/69",
+      "images": [
+        "https://phenix-scans.com/api/uploads/b927ea016a4f4c73a719b31183a0383d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/dadcc45beb80489684750da256cedc7d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/04fb6760a1114946941329f6057480f7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f416c94da069474fb3fa29d51f7e2555.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a23aba6f73a9433491d2e24d5578664c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/838d5e3b8f3d40e694a342774bd66296.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9ef9d5acea62468f8e6756c1bae09648.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/00a46428700443989fcb288bd42c987a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0181fcd32e8641808867246f858bad03.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b8b36e1f5c1e47ab86b64bb09d48d75a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/46503dbe1a83487c993332fd86a7c528.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/cd60a02ea8bf4832a19734997f5e03da.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/716ee52fac0c434aa5505914e93c52da.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6b3deb790276451081e93bb4bbba7130.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/743d59f3858d4124a32d9585660020ef.jpg?width=720"
+      ]
+    },
+    "Chapitre 70 - Chapitre 70Il y a 2 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/70",
+      "images": [
+        "https://phenix-scans.com/api/uploads/ff1c71f8f165434785345ed9d6597bb8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/eaa12df0a3f6454f816fb858e10b768d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4ed9c385c0b54348ac6c66ac7ae72383.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e0fb5d12ea784d14ab5e55ebaeb68456.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a8d9aa41d0a14bec81226aadf8240ca8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7d94cc2a96e0444aa82eff1096c33eab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/01b0255aa7674a1b9e2987a772bc795e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0007b7d419144a0899beae44f28bf86c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/547c99e7e7ea430bb6bf5bcd7f0c967e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/114295a44fc541248950f009466f1f93.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/71d44ca35624427a8c2aa61d9ad9bbfb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/254c053ff2b84f9e9b66e11eb5ecbfd5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e17bfbb210a94f82885b6064caf7e7a5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0c727cfd628b46fda3058add648b4826.jpg?width=720"
+      ]
+    },
+    "Chapitre 71 - Chapitre 71Il y a 2 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/71",
+      "images": [
+        "https://phenix-scans.com/api/uploads/09e4980ba8ab4fdaa19ba5d5e6eac8b9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/253d219275cf4596a8e690380173b732.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e820e1ed9837465299b0895f0ce28d2a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6dc368aea8a84ec8926f7fdfefcf726e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/43a8306df15848288818ae246d69e90d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/81ad42c005704586a474212574192c07.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d82a8a59d7724d0680ab2b3ae1eec58c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/50db522150f74ced8ab165ebb6ba72c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/efe23bc438b04dd1a9cceec662754749.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/cc2fdaca0ad14867bd8bb2b9b6c3bb35.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/dcd668a370ee4094ac1863c7b71e2857.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c092de124a88474b9822d4b500987c2a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5612f6e77d8a4762baae645a384622e3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/bdd73d89e0284006aca400ec975edb67.jpg?width=720"
+      ]
+    },
+    "Chapitre 72 - Chapitre 72Il y a 2 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/72",
+      "images": [
+        "https://phenix-scans.com/api/uploads/4b6036a2eedf4f2ea011f65ff8fdce10.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a03986c34a5b429cbd0f20921c97b177.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/45a4484258554a7abf2a905de186bec9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ffe3f398abf8478ab546683b5741de8d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/485e5d8876494c3cb5c951ad8fc38858.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ab29331d11d842d59e9bbc22ba9c6305.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2e290cb52d864d0db3ede978eefe16d3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/204d8ea173124dc39b79ede903d9eb70.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b1976d306fbb43b5aafb66e904c097f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1ceb5f780f01425da346b8ea96c37832.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f6e07043163f45f19f940138a8116c3f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5bddfc48031a46ca9b8387e88468e993.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/97af9f65010c44f98bbd64413e2182cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8c687965d22e444a824fdab1743e0a91.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8def90f7e5034732973013fb59c3b1be.jpg?width=720"
+      ]
+    },
+    "Chapitre 73 - Chapitre 73Il y a 2 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/73",
+      "images": [
+        "https://phenix-scans.com/api/uploads/83e032ca6c924cfcbea72aeff20f3c80.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2003e4c1344840ebbae2e26ffe363e20.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9106396c680f49ab9a104535d7b56914.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/860a2e1584034eebac3e83f52eee85b6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9a002aca4db4493da862aa2dbc010971.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/900b2b6a532d4d3b952330a4eef345f6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/bb25a57de2c94a0aa1a4ac7c304be2d7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f053f3fcd4d441b9bfc875c12346fb3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/577896ea1443491fa4d421f0c53ff30b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c7037ae8f2104083b851808230d85c7d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d51ad41cf5b4418e85bda4bbd89ce66c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8789acdb6a31490d97ab214a4242a369.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d09cf438159a4eb1ac8088031111eaa8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a3e55aed177445d78fb2e8a4602d67ed.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/3e2389b3834a479893b81d3781c3fa4c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/896641e603494a48af10cb68b6cc2193.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7b00d8f872f742e79cf61baeb745b279.jpg?width=720"
+      ]
+    },
+    "Chapitre 74 - Chapitre 74Il y a 2 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/74",
+      "images": [
+        "https://phenix-scans.com/api/uploads/dfd9f161e0dc40fd919f24bbb58f99b4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4a479807b1a54725919422ed3f128e6b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0b699a3a64974b2482c952a9409388ac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/01acb8998a1c499eb4df252c429fe795.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ccfe8ba278bf40e1951510d0088517d0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/681e485f1eda4ac9b1af77428e84e035.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c9f246410cad42bdbcc042dae4d1ce4f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2770948796da42cfad3dc9a446936c85.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/744afa126e16425c8ce7b632b32a02d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/cda22243013144df81756d07fe1fa2f3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/09a1c62fcc064e5593291bf772a59aa2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/598814c4349e4453bd98d87dde014bcf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/00f6532e59ff41c0b0636c53f54a397d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/aa08b8382c414f15b4d444e5a241c00c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ba88ee3d0fa9485badcefcf8112f6385.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7b07abe8a3a64d1aa996063f92bd5726.jpg?width=720"
+      ]
+    },
+    "Chapitre 75 - Chapitre 75Il y a 1 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/75",
+      "images": [
+        "https://phenix-scans.com/api/uploads/21141ddffb2d4ae7976a55e9291012c4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/081505fb917a4112b82edc2401816af6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/da5e886bd3774771980ceb1a652da8c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1a41514efb6e4c96a67d92d54325b86b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b6b79f32c9794f4f9512d710cc847d66.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4c7b309892af442884163e5625415cbd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ac1af0c45eb24599b0743b99961e0947.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/eabcf9db21844a15b663b9b1e9901eaa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4609b2ac14df402aaaefd6ef4765e988.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b0395848e39b4695b4bcd3e2425d4a04.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7c5cbace31674a648b3c43d119e8f6f5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8080a1cf9eb64afcabf9ffe2ed8ab9b7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ade5c52f028d4573ad557811fb57a908.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/77dff1510d3d4381b9ee24281787b0da.jpg?width=720"
+      ]
+    },
+    "Chapitre 76 - Chapitre 76Il y a 1 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/76",
+      "images": [
+        "https://phenix-scans.com/api/uploads/f5eeacf1fd0e459f92973f0062bd5c1e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1c66c3fe63a0401d93823d6cf201436c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/17e184f72f3a44b287105af93eff412f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/49d3ed582d5247b491f84a45d183afce.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/8d0334acc241461faceeca3589a998d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9898cb9ac1d34bbd81b48f9efd6c9271.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1c7bc80f02554c8faad624ade6f13eee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/894be0776ec84cff85f4cad1f7b3bbd5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6aa439b17c88448ba2c6e8fffa19f2a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d09d8531f2064b3ab617c66bdf47da38.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/fc7e1a4c54f84c2187cbcad0ed04da03.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b1655e11ad314f90b013661b6bf6d619.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/871b7e7cb4984e79a14e9e350404df3a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b5a0397d4f234e55a0c72bbf8cbd9627.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/30c88175ebfc49228e2645bd9a15be0f.jpg?width=720"
+      ]
+    },
+    "Chapitre 77 - Chapitre 77Il y a 1 mois": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/77",
+      "images": [
+        "https://phenix-scans.com/api/uploads/a6b2a2db6b6a48559e411ae729a96607.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0e897e1f3a034bbe9fa7ec35a565146a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5ec30eb928b5487cab533357308646b2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/402d4bf7030047f682d9b61ef9b72b8d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f909e7fd306740ff8e8e8ee83ee9b1cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c40ca8869d2c42199e52aa3c2c33c6a4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b8ac63f5d65646b7b3d0d92329ecc676.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/058d2eabd93c42dc86f94d252e7646f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b526810a65244e659911df42b2f9ab53.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e0338f90ebdd41d68ce54071e78b4f5a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/93c7d93925f94999b3a0c1dd427a390d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7a7f6462f84a46ffa518575deef2f43c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d3e3dd6db0904a9db20d7cc416b604ba.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/554d0a56d3c14bb0b3bcfccfe2fdb9cc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a3fd66f7690841398eff2c3be84f7b3d.jpg?width=720"
+      ]
+    },
+    "Chapitre 78 - Chapitre 78Il y a 3 sem": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/78",
+      "images": [
+        "https://phenix-scans.com/api/uploads/aa14aa393a2842dba7af87a8d4536a5a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/af8a4ec8289a4a7c95d929bfaae658ae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ef00f59093b14323a9dbabf3df2e7fd1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/42b5b45d81f24b0abf11060bf326c652.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/65a3da246bea4166b2014151061b46d8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b7ca62b4e6d74e36affe23fca185d8f3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/25f5553715e141a3b60250dbb1c1b377.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9193fabbd4bf49768570dceb5805774a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/514f5b64b07c4be4bcad3b305b391b13.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ed441a2683eb42328aa09f07c64c6753.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5894f559a83741bcb5e72e30539ff939.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/014d224571444532b72088f383806ab2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6ebf57b8e98c445f99afce9ade2ba55b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/c7c453eb8ca447a2a52024abc75368c7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/cdafb0a48de84c0c9c8b12e21bab0fca.jpg?width=720"
+      ]
+    },
+    "Chapitre 79 - Chapitre 79Il y a 3 sem": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/79",
+      "images": [
+        "https://phenix-scans.com/api/uploads/dd4c6973b0b0441a875f5ec1b6d51d6e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ec08f7c5f9924b6291c31768ba955460.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/08a7ade4371745fcb76cd941e562fc2d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f7e49a52b9c548279b19eed3132dfda2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/54d7b125b7964db090dab7bcb1550b56.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/817c2684f51b43a4ab23e6d41fc56d1c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/dcc5f329437d44b895ad5177d202cb27.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6edf5543abe34326920905d21ae48708.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/97f690bd91184f9ba450ef9d5dfd4df6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f946f4e355324a49a71f60fece234d68.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1bc10f47dabc41978fb47103899c2787.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/bbc7251004fb40ba926c07c830865e30.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/57e3dbc3233f4a658c4ba8088cc24512.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d767558f7af34a098dec3f3d11a1ab08.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d92bb299f2ed48d58399cf2077852756.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/b1118fbd5990494e93c82b11225da73f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1340ff8187f04e218988f7938f309e76.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5f343df32d8941b38e603d4159ad2e4a.jpg?width=720"
+      ]
+    },
+    "Chapitre 80 - Chapitre 80Il y a 2 sem": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/80",
+      "images": [
+        "https://phenix-scans.com/api/uploads/55d8a928cf66461f8f3681942d6074cc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f82ed4d63b4d4f5fa24f5a56d1028b70.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7e9426ec364b4619b8cb212bdbe3205e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/67e4bfe4f6874d6b944aefb7adfe3663.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/ae2d5c95cbb04dfd893de09efc879dc0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/2cf44624000a421d87fbb7cde0fbb5dc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/775bcfeabf374bdda2d0aac91e3a0913.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e67c5544eda444d6b76cee5d0ce789f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/fcdf121b51224c26acb271eb1ae383a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/673f1ef8f9a141679780f3dd73e0523b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/d7dc80b4cc304d23bf005ac53c4fa11f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4911fa3ed03741a3966e28b7cba822b1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/50e3bb881a1a42879533edb9d833acd9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/7e83fc0356b240dcaefdf78acda6b0f6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/60b61989f8f9449c940c379e3ac18b01.jpg?width=720"
+      ]
+    },
+    "Chapitre 81 - Chapitre 81Il y a 1 sem": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/81",
+      "images": [
+        "https://phenix-scans.com/api/uploads/8cf1e6ed748442128f28f0a0fcc3d606.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/96e6ffa6b123438bb10e15464ef4d1b1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/96c4f7b577d14156865e2d237da399f2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4ab6b3f8bdc247d586b19ff48df4e53f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/9ffad04ff8234b339b5e89b44af7383f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e0c3a004c1a14967862610a597ce51a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6403320cbda54b0dae502a360d684d15.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/bdf99275ae854e099d60d80ef1fac8c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/40c3e735385c425c88ca5abb9403e6a8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/28c11ed05e8f4906a030423f85c76227.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6808a6f5903f40d298b92e35510ebabc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/e11ad71b70114e8f816b3d6dbdbd0db6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/986d54da4f884e8890b9a844c59b6e37.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/55a21f51d3124eb885de0be2ae6d063a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6d355b0d0e9947ba90e986a2fd729f3e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/71496d3f4aaf4b7b98d3a431460bf10c.jpg?width=720"
+      ]
+    },
+    "Chapitre 82 - Chapitre 82Il y a 6 j": {
+      "url": "https://phenix-scans.com/manga/the-regressed-son-of-a-duke-is-an-assassin/chapitre/82",
+      "images": [
+        "https://phenix-scans.com/api/uploads/3458857e515840e380b4880207594455.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/df4f2b19baf547f5b098618ab43fb5a3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/1081b14c6eca4f90a810b20a4b011c78.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/4398eb1ba01f4d09b009ee8b94c9a564.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/220d8718333d4018b7da6e3b2237b55b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a51d10d570a340ac883eb71c85d3249e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/69c01a9ca19e4d18827d8254d0813c62.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/588875cd982144c3b060aed2c8170752.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/0fa0cdde7491403486d5a029f8a81613.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/27a1a8b231c44b1ebac17ab7db541d65.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/945839e924884801afc2e1aa7927d386.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/f75e98172906415796eae2deda786296.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/6ff428086c0141dc96b7d3268f7b6f91.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/5c38b971adb44a638ce48e1ce1a2595e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/00ba886db52841f7949ac11af7368ab5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/a7e40db3095847eabc60b30ccc47f11c.jpg?width=720"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1675 @@
+{
+  "projectName": "reincarnation_of_the_suicidal_battle_god",
+  "chapters": {
+    "Chapitre 1 - Chapitre 1Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/1",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a69349be-dc01-40f6-9190-0b8bfc7b592c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/50dc9855-1dc8-4754-ade1-b97b5e89b572.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1c7bfe72-d6d3-4f29-ae8d-5332f74b72cf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8da40ea0-4d1d-470f-83cd-20e1e718687b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ac4bc633-b0a0-4932-b7f4-a0d565e4a142.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dd6bb479-7f73-4853-9aed-8a2d27a9eb7a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/93e7ab45-2e1a-4caa-807b-91159562683d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ad5253a0-965b-4c08-80b1-0032ff627050.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1820b3da-3901-4c36-b987-bb0fc38df979.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/701ed37b-083c-48ba-9b4f-1e5bbbea9c8f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5c988dea-bc1e-4962-944c-4eb13b437633.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2ca2caf2-0efd-4189-b29d-05ac0cd91208.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4a890b2b-5a6f-4079-b03d-005111b27eeb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cb539452-6cc7-4fee-8628-0b9e07462798.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7dde0d79-f9f4-433a-82d1-e3890770b891.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6c884e61-2aab-4160-bea3-363199a70847.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/149b6082-0671-4132-ad97-cc32c1717380.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/da342e80-bdf6-440f-9826-5ff8170d62d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b26046ad-9f51-4d2a-846f-6d2b2c89f90a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/694d7827-0b78-471c-8518-316ec6ae74cf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/68240231-20cc-42d3-b02c-bb0618ae75dd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e8e5d8ce-5cc6-4365-bbdc-38866bcc0d0b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ef6b6a90-fa9c-4a48-933c-c9f658aa944b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9a02eaf4-11f8-40f3-9ada-f4fd5038902a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/64bdcd5d-c56f-452b-a0f0-61e206918000.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a63d5724-c7b9-4961-8ccf-b92f4db8ce21.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/527ae7aa-df0f-4d2b-82c1-32d64c38a255.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ca40556e-15ad-44ea-b99f-7da579350371.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/46e45424-353b-447e-bd45-876c69f81c97.jpg?width=720"
+      ]
+    },
+    "Chapitre 2 - Chapitre 2Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/2",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/48b6c5e7-6553-4b6d-af0d-77e399965c33.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2c9f17e4-da56-4379-bc1e-9ff31aa33e4e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2038b967-2295-4efe-a0b7-bab09b5957f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/83829c09-a6fc-41ee-bf5d-d095b8a7a5b1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a217cded-20cd-47e7-9903-eacbc5a3a105.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/08992661-5e5a-4b28-84b8-a66cc229b379.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8b2a3593-c602-4d2d-9184-0bf2240e8a49.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d99a5b28-7d0f-4405-9adb-f8cc26de66e9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/35aefcef-6054-404c-af02-5bdc3307bfd3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/665ee5cb-8c20-4a56-bf70-5d2a068a4686.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0fc18579-d708-496d-970e-081095fe34e2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7aeea6e5-fcd0-4058-ac9b-3637f4b04e59.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a1ab0b8a-78fd-48a8-948b-3289361747ab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d88e7b67-ab43-4dda-9dbd-985cb746cef2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/13c97495-e27a-46da-8464-6bd29d45e55c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e7f75f87-ef26-4a1f-a1fd-4ee377455684.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/338a9535-fcfe-4e4d-a5ac-719cd29b9043.jpg?width=720"
+      ]
+    },
+    "Chapitre 3 - Chapitre 3Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/3",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/206620f1-feea-4633-9006-6bf86ab527ea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b329e4fd-b942-4ed8-a201-c9b28ea2a9de.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7871a03a-332a-49d8-b8ca-bbbd49e9423b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a99f8549-09c6-42c2-aa5f-8d43ce0ef60c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d11334b6-2b2d-4477-aba3-679a925dbb96.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a58f943a-7f5e-442d-844e-a745ffd0ae58.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2dc1e803-94dc-49be-bd49-9ec19d1c7605.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eaa7f272-a503-4806-b2c1-3edecf1de517.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dea7f3a4-2cf9-4a28-9b29-4537294ea633.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fc730d1a-623e-4658-8a7b-76638a59e2e2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9d7d3048-8a92-4272-8fd5-ff6d9d2617b7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/819995b2-cf5e-46f1-a0fb-0499c814157f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/799b3081-3184-4808-bef9-2ae3a6d8f542.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/21434087-b8f5-471f-be16-8ceba6b6a3cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1bb5bfba-c1dc-441f-9c8b-3f4e08c9b60b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/24d2e760-a008-439e-a88a-d1f9b720c763.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d2099b51-f8e0-4ec9-8fbf-61559f27722e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6a0cdea4-ba69-4669-b652-9c59f830f66c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/88b7b514-cd1c-4d32-b76f-4cbb87e25bfd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4a37d348-d6f5-424d-822f-f2360bb44d4c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/963c7ff7-45c4-4707-96dd-41b08269250c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/953ee307-ff7a-4f27-8704-9491bc1e0ae2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/25cb243d-024e-4bd7-95dd-f2b5bbe43d02.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/59076f74-e224-4829-badb-10f4774f2220.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7c8ec2eb-5f95-45fb-8cf1-ce2c3a3b236e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/959aa3f5-bfa1-466b-9818-c70a6bb2896c.jpg?width=720"
+      ]
+    },
+    "Chapitre 4 - Chapitre 4Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/4",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/28292d14-f4ad-460d-b9ee-0148392604cc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7c34ef3e-3e43-4bcd-9729-ce643335c8a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ced9a380-3222-41b9-b1c4-101c2e24b29c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7727625a-eae0-4f0a-9a09-70bd5e1f30cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/24972891-08a5-4bcd-9388-fdbdfc2a499b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/00b254df-98cb-46ab-9c2b-89c5d1c4c55c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/01f92515-2457-43f3-b786-ed609f685afc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/90f989ed-a683-492f-b241-8358e035839e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a5916558-13c8-41dc-b338-30d89e900e70.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ad73c4ec-d1a2-4859-bea3-f31ad5a2c9fb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7b580898-4792-42db-91dc-74eeb0144125.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cb86e971-9547-479c-9d97-d0f884e7adfd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/635fefe5-6099-4b0d-bd90-8324a3ffe7af.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4be4346d-47b5-4fdc-8133-4f42a9e72d49.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/121cb6b2-ba09-4b95-b3bf-23621b5a2fb7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e937a12c-37f4-4db8-8327-01401242dbbf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3b1e0645-539a-458b-b796-6416d259f759.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4b972b51-cb93-43ef-b8c1-a9c7c06da6c7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/866d3b3d-41c5-440b-9f4f-bea28d44f0c4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c1156322-d976-4cea-900a-c76dc12b3765.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3355e039-676c-4036-a515-186036bf243c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/900f2c73-2bb3-4f73-86c8-29b211862646.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/58f3b8e4-c103-4774-a2aa-e71430f625a8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cbbbcfae-e0ff-4f96-93c1-8fed76c79e2e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a55fa006-fcf9-4172-b475-447453e08ffa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8c9149db-24e3-4e8d-8d8e-96ed7cbbf462.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/abe7a302-24d0-454a-a0de-e2db88afb83c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9cd3603d-a116-4a1a-8033-2f1e754a98f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3005a164-f14b-4627-a215-51314ec94984.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/66b0284e-d25e-4204-b306-23b22a3428de.jpg?width=720"
+      ]
+    },
+    "Chapitre 5 - Chapitre 5Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/5",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/10eaa966-e268-4d2b-a71a-72e366a84dec.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c6ffa73c-5ab8-46b0-9a67-edb9b11a7ea5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a937ba82-8cc5-4d0b-a0d3-b91ced058e9f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8069f63f-19d6-4eba-a399-bd044cab2fac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9ac361bd-dac1-4d76-9084-c1052d341fa5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/27233733-ff6d-4bb0-a3c5-3652b14b5b29.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ce6ce1be-55da-4eee-8a2a-9c72ce79cdd3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ab4d47e0-3d77-4c28-8ae5-2e36f73744fe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/14a206d7-8276-449b-a968-3e40c26a3e09.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eeccd88b-d88c-4894-a4aa-4cfc98a69a5d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6362fa25-6a0a-44b6-a5cf-a20256d8a2fd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d462f029-94a1-45ae-9788-40c7887dfd2c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9fe5a29f-b126-4a35-b777-d409b16e8d46.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a3ed1ef4-2eef-4ea7-900e-8c1953d0afe4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b91ce6b0-814b-48c4-aad9-4364dc2a74bd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5b2812fa-93c7-4bb0-afe0-b68c5033a255.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f9c50356-26c0-4baf-9c38-cf06a5375b75.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/283aeef1-f8b1-4d88-b568-c33232165598.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/696ad84c-9227-4926-8389-16c83d089d30.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f4b3db80-be39-48ac-92e3-d460bfbf1087.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/31a8aaa8-d4fc-4057-91da-b048d313f608.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6a4e237f-6c7a-4dd2-b68d-5ca992fe49a3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/438ad280-5c2a-4c9a-a46a-12f791619704.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c249b211-51b0-4055-8347-2e7d4124b678.jpg?width=720"
+      ]
+    },
+    "Chapitre 6 - Chapitre 6Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/6",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/82c7d832-ef97-4747-8819-e453ad9c635a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2b3fa2df-4b41-4523-948e-a75dd687c18c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f4133720-7653-4904-a0b0-5a730ef9e73f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/25236a4d-2290-4579-bdd9-c87e0a516ca8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8b1c2810-324d-4bfc-a184-641f29965440.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5ebba3e8-6dac-4556-b3ee-ad89786d9591.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e1347093-98a2-4ce4-b52e-652db21f6dc6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/00a4801f-dc02-4d7d-a791-b89c93f9dd20.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/48f33574-1555-44aa-92be-4796879fb700.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1c21283d-3d52-4625-8d43-607c0955b336.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ae1fb354-ae30-492a-b585-ed894c88599a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b84e5793-8b4e-41d9-8248-da3acf4fea66.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c2e8d676-2c52-42da-8fcb-9d24c7fa59f5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1900ce28-54e4-4c43-a35e-cbc27bf1ecfd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2a8cbb6b-d5fa-4b48-b37f-9aea9346e9b0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c4709d20-077a-4ce2-86b4-deb1fc09f090.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/35f7cbc7-1446-41a5-ae75-493dbb3c5792.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d9a29113-6539-46f9-8d30-ee2b8d1acacd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f2189bc5-08db-4cdb-b5cd-de30b1236abc.jpg?width=720"
+      ]
+    },
+    "Chapitre 7 - Chapitre 7Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/7",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1b1f357e-260c-4b8a-8932-4b7373643e15.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f6d21bbc-7f29-4069-b7ae-f147e3abb21a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/12ad22cc-327f-48cd-a52c-7c859f0e9d19.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7b05dd29-1385-401b-b89f-fc3b78a7b4b8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/99abce75-1f32-4719-a763-441426d02430.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bd652a34-35f2-4918-8b61-dfa4ab42c5ca.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9548de38-19cd-461f-a4f8-919e71c4dafe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3e0cf79c-7892-4a80-a5eb-398c3aa8e5e4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0d624651-9013-4018-b20c-26bf479b3754.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3e3d9a30-f4c6-4b44-862d-22ae7e2236ac.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4c072021-1796-4781-83f0-472caca2770c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ceda27b3-739a-4395-bd1a-0c6979643352.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a418009d-4f43-4874-bb3d-81ea1042bce1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1ff903cc-ddb8-4e6e-89e9-39c8fcb56cfa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5c32fd06-0c84-4c49-8205-cfd930aa7b8e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/35e3eead-6406-4bce-a5db-23948d72460c.jpg?width=720"
+      ]
+    },
+    "Chapitre 8 - Chapitre 8Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/8",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ccdade5d-2b9d-421b-92be-6ab1cc0da259.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/69c98f03-3906-4afe-adb3-d4cb9ebd506b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4eecb0c3-3225-46ff-976c-7acb97a8720c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a391adb4-9465-4469-a6d3-b453f7c578cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d4d922dc-e86f-40af-9933-04c7425289ec.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c5cabcfb-3c1f-4466-ac4f-e026238cf244.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d0610fb6-3b20-4ef4-a08b-6b5cb5f34671.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d9f183ca-e814-4675-bacc-df7e32fb5cf6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/02c473ab-1a5c-4a48-9392-f5ff5bf059f7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/799e0e9b-d6d0-4f10-bd0c-91551dd61dd7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/69ce3bed-8b4b-41f6-9c2c-c15f27fa68af.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/06d67e32-ebd1-4045-8d82-17ff346354fe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/45614a69-09f8-4462-8df4-65addc50b46a.jpg?width=720"
+      ]
+    },
+    "Chapitre 9 - Chapitre 9Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/9",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6ff19492-6975-4fc5-851b-57607dc2dfdb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/acec1475-944b-4ea1-b6b7-9aea4076d59d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/08bc9071-b603-4e00-bfc2-0fd2f6bf10a0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d0463f44-bcc0-43a1-a345-1eaa90c09501.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ad423745-2cc1-438c-a5c5-578824ae3cd1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2c1ec8a7-86d0-4f7c-af6c-44edb990af23.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f0a5698c-cbb5-41e6-b758-2d74347ff6f6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1282216b-594d-4f59-80b5-56a39190c61f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c473e0d6-266a-42ef-b5fa-00ecde3c127d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c91a6671-863c-46b0-ad3f-9f896490b073.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/83d12b84-e89a-4f5c-9bbf-529c7751b82f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5137822e-f808-4c0c-b2a7-49f168dfb66c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/252704e9-4d56-4592-9d7f-c15359562fd1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f89e84e0-bcb8-4b6f-8ddb-c5bbba289c74.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b6daf7b9-f48b-4a72-b976-e6dd521d5096.jpg?width=720"
+      ]
+    },
+    "Chapitre 10 - Chapitre 10Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/10",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d4befc0f-e415-4289-abca-b935bdba36f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4eef6b50-a702-4c2f-aa0d-affc6e75bb74.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cd8a16cc-8732-459d-be71-33f7d3ed1e15.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e6b13245-f2b2-4a7d-a646-243d6b1cca58.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2078b5a1-9fb7-4553-94c6-f8915934829f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/50988462-9fa1-4184-84c8-926a8d3dc3df.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d16437b3-026c-4dbf-ad8e-7d0895b00de3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b9f200fe-f1fc-48d1-ae9b-3434b577fbda.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/735139c5-cb3f-4a8b-956f-d956d474df94.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b18d1681-f52a-4d2e-8c46-4a1db578a566.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1322584a-481c-4e54-8a05-0741a8599bfd.jpg?width=720"
+      ]
+    },
+    "Chapitre 11 - Chapitre 11Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/11",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a0e3c056-4c0b-4804-b5fd-dfe81b47d49a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b7908dea-592e-49e9-977f-16c47de4b961.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/52c0fb5f-5b05-43e5-b1c5-a62f5686eb5f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fefa6d68-e3b5-4e95-8152-9c1fd1bce3a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/542e24af-36ad-4aab-8d53-da5a4c834f58.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f7d0672c-7a8c-4a72-8eea-b7f0f3560c12.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f0c394a8-b30d-4084-bf77-282a73cc6646.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/669fcad5-81ef-4e44-970c-a647af2df031.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/834b53d0-61f3-4def-8085-99fe52e46c99.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2b56367d-49ce-4ea5-a1e6-cad3710f4b4b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/aee4b89f-8331-45ee-b6a6-bcd92951a6f4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fce4b181-ba3f-4182-ae62-cde8af90db94.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d7f0e759-da67-4f95-9e8a-841b5d279bd2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0b47d93b-7177-4a89-954e-4408481b04dd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/177b46ba-7e07-4a9f-bb67-4aef2522d2e7.jpg?width=720"
+      ]
+    },
+    "Chapitre 12 - Chapitre 12Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/12",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1bda0026-6357-47a3-8f3a-b8cccc870442.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/db06cddd-99e4-4572-a580-d1676259feb2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c7c8de38-1d02-4659-ac0c-579576980100.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5b6df7a6-c684-4b68-844d-506e35165b16.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/855340d4-da7b-457c-8647-b1cc71c51017.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7b168d81-f4d3-476b-bd81-e36583cad4bc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fe37ba77-a400-4ee6-96e3-ab39dd0bbe39.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/32d3bae3-13fa-4864-ab80-2f871bb71a36.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fd83f25b-8a27-433c-b150-7a3adb9fa5b6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/943f098a-6200-4ca1-a5c5-209fee0bdc9d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c1c65b16-35dd-49cb-a0e6-d0b2050f0c6c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a9abb494-ee04-4630-a94e-6a57c3c50be7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1db1e59d-acf0-45b9-ac6f-560836d73dbb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/51407389-fb38-48b0-ad26-30c858b34eb9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e3ac4047-42e0-4ede-b895-695b56aa95cc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fcbc93f9-6f2e-4f2c-bb32-0302d3b1fadb.jpg?width=720"
+      ]
+    },
+    "Chapitre 13 - Chapitre 13Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/13",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7a28e16d-e46e-4326-932a-6ac2b389becf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/faf5c84c-df9e-4081-b3e2-0958539b18c4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7fa11332-a84d-40c2-828f-c8350a8d6f55.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fada8649-69e9-4250-81bb-f7470b87d50a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d6d4b40a-b949-4793-b740-77cc2d0cd814.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c3248ea3-d8d0-4543-aeb0-af9b04859f85.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/997028e0-84dc-4ade-a74f-874ef0edb2cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d6f883c3-77a8-4237-acd9-f0f514d2379a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8f4e9c81-9837-4f18-b5df-4cfb8b5fb0c8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2c02f222-b0fb-46ec-833a-b2c70620eb40.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7cb5f05b-7e15-4919-aff0-8d67cce6c20d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ba0b853f-e238-4b78-b030-d91589b03980.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/af78c886-e549-4d83-960d-4bc29e5e53f4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3ddd0b42-6ce8-405d-beef-36bf437816a4.jpg?width=720"
+      ]
+    },
+    "Chapitre 14 - Chapitre 14Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/14",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7a4156d5-b909-4a0a-947b-c804ae01c074.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/841f95d3-406b-49b6-9389-8aebc72d1074.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c6b3d60b-b459-459e-9a2c-07c15a6ccbf0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/79871c65-fed6-4afc-a40d-3e90f53bb675.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/be699d59-53c3-4f3e-afd5-186106b4cfaf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/523bf3fe-1237-4114-b523-719fb96da60b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1c7681b6-6c23-469b-b1cb-acef4d73dce3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3c5967e5-ce9a-4b7a-b057-7c5b1d38f23f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d0859e33-e190-47a7-b450-df3afd733bde.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/96aa4e4a-d4eb-43f0-b07b-4a8172a47f8a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c115de2f-1a3a-4130-95fa-e997b4f3378e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/08f6e052-7b5b-47ce-88de-01b65e143f2d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0d1f7408-3347-4539-b8e3-e937d19a550a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bc9f7f71-d380-48d2-aebb-e825db98e225.jpg?width=720"
+      ]
+    },
+    "Chapitre 15 - Chapitre 15Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/15",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cfb4019a-6233-4566-a109-96a49031a04c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6db56d6f-4b84-41e0-b546-dc34752b0438.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c5eae8a5-1f91-4cc4-861d-fba31c521bbe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/be144eb4-edff-438b-a3c7-c3b4281f6ea2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/423e3cac-a39b-49f5-82f9-77a3d20bb581.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/76b5e58f-cb5c-4418-a9a2-71f9b410f0c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7fc00224-abc3-4512-b298-88cb149f4013.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dce1da4c-dc2c-48a3-8910-a2a642173f80.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5f8fb827-33c0-4cf5-aa09-fcf36d323567.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6ddcf8be-3dd2-4ff6-aef8-bc2dc2226504.jpg?width=720"
+      ]
+    },
+    "Chapitre 16 - Chapitre 16Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/16",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/21678174-00fe-41cb-adf7-12ba23999756.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3b703d32-9a9a-412d-a88c-82b8076b03db.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/92defed3-d029-4755-87ee-262d18a0bf80.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/40ec8c56-542f-44cf-a2a2-183825323b9b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9a5b5c3c-7229-415d-a497-83ac0f363a27.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/20a4c6b7-f6fa-4001-ac09-7c34632d20bc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1ba522c0-a17c-45e4-a216-7badd3ceac17.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/552c87c7-9d3a-4762-8897-1f8ead71157d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7cc9e8a7-62d0-4594-961a-88d3be8522f7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c5acdc95-3586-46fe-8add-de0d9bb8b302.jpg?width=720"
+      ]
+    },
+    "Chapitre 17 - Chapitre 17Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/17",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b3a528df-ea4f-4c7e-933c-035ceb091ce3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a5f5d72f-65b2-46c7-adac-3328a20f054a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c1c96102-78df-499d-940a-0a61ed301a62.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/763a9c2a-a10f-4441-ab0c-37552a270678.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e068b152-a814-49e7-862a-7a8f0b8e9197.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/992e0e5d-1aa5-4823-bd39-0085c6d523eb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/47db58e1-2bfc-4225-be3e-c4acac506b0b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d697cd7c-2500-4950-8786-65b1bbbd33ed.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e3c8e7c6-0078-4700-9520-ce94590982e3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/541c8b66-5e79-4b18-a23f-8514f3288767.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/afbd3ff4-b577-4f3b-9502-6cb90fd31511.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f057cbd4-6a95-40f1-baa7-682b57d8ecb7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8e48c746-5d17-4c75-b869-377af3e5b36b.jpg?width=720"
+      ]
+    },
+    "Chapitre 18 - Chapitre 18Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/18",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8ac40490-8186-41fd-b33d-57653da0bc53.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/63259541-1749-48e5-99fe-b86ccb872341.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fbbb829d-dac5-4963-a2d9-887535a2909f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4a5f0214-1980-4271-99cb-5c8938a85c19.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6737c817-6332-4af4-b5bb-01b2f1bbb80e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a859f96f-5fbd-436f-9da1-306ff7d58b45.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0ee26ebb-cd47-4e22-9e74-a90dea423a92.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4c0fc1cf-27e5-446d-b98f-06673b33642c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/468e8499-719f-4fa2-a50d-50131b95f6e9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dcdc9a16-5056-4a6f-955c-b00c26050d64.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/47321723-e7f8-455e-9bf0-867ee298ef18.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ec4dc579-c750-47c6-be68-5233ef1cdbab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/75229c01-a8e0-4f9e-8455-c1c3cc5e082f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/045c1631-0cf1-4dd0-8e0c-fff11c7c3474.jpg?width=720"
+      ]
+    },
+    "Chapitre 19 - Chapitre 19Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/19",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9e700a98-8a4e-4c65-9742-578547e7846a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/55733432-3448-4d1e-b3ed-55a37f57cf9d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b9c674f4-0983-4cbf-8c14-24ca289d5978.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7541c83e-a40f-47bd-ac65-92e7099783d9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/17a3d57e-8c09-40f7-972c-447eb56b7475.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f41ad9e2-5dd7-4106-961d-d1ff8ae3c624.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/34c5cd25-7c4d-478d-a7b9-1d8494618af7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1e63a4a6-55e4-48f6-a8a1-2256d33d48aa.jpg?width=720"
+      ]
+    },
+    "Chapitre 20 - Chapitre 20Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/20",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c89f9c52-8178-43a2-b32d-22e633fb98e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6cc5070f-fc33-4a05-baa5-23805f532302.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b5961cb2-74da-4c7b-80f8-4a59cc17266e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c23f43f8-2e19-4bd7-ba2a-fa2297693960.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ecaf4fca-9c89-465b-8de5-00cf0c9bd7c2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cfd78c2f-da9b-422e-b536-1ba9dbfb0a4e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/27a0562b-a6e3-47fc-8630-ddc79d96df66.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e785a465-f94a-477a-8768-922951551539.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5c1f590e-5f5a-4d3b-b67d-e5a9af6deb19.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d9d588e1-ba70-4513-bee9-9d7cd7273639.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0c77e405-8eb9-474e-99d5-894b3cba14fd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/30a3e577-b37f-43b6-b600-b8e6be507734.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/561ae0e2-f975-4b3b-8228-9fb5b4ede172.jpg?width=720"
+      ]
+    },
+    "Chapitre 21 - Chapitre 21Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/21",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eee87a52-78b6-4601-bd06-7a35bfcda97b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eec03ce3-f161-468a-ae04-d06fb7741188.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d47653e9-a520-4b0b-8237-dc70a803155a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3fa56541-5c00-4e78-a787-d169f977d5f5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b708a2f6-346d-4096-89ad-318136dc3f09.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8530c5ff-0152-4ff1-ab90-133a07c9e0e1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d9c1c36a-ec6a-468e-ab5e-03154d1a2617.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/596212d2-596e-4528-9617-b1a9ab2079cf.jpg?width=720"
+      ]
+    },
+    "Chapitre 22 - Chapitre 22Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/22",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3fe27f2a-3518-4e59-a419-8806f61d28d1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/defa3603-99fb-4538-8f92-381406b8f2c2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/38d0449b-e8d8-4d6a-8fbb-21a137e06b2e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/45a7d012-4669-48e8-8c30-fef262e6f8e5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/821f73aa-eb7e-4cfe-af02-6868980b878f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fba8b896-186d-4915-970e-891d0f3beb99.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/588f1ea9-7969-4af4-8bd0-88bac87d93c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1018a835-1ff6-4064-9d70-b12df39af05c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ac0a0ae9-fff9-442b-8a14-9d2a69843557.jpg?width=720"
+      ]
+    },
+    "Chapitre 23 - Chapitre 23Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/23",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/75342c85-f422-4fd3-9dc4-0dd2190248af.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c968a5e5-2a67-4a15-b07d-c63035e62e2c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/71782321-6796-4ec9-9076-70e680f5f68d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6690bebb-1723-47e3-9273-7c6d4b6a3fb9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dcb1be92-f545-4df3-9d5f-a930c76b37ae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4d974327-23f9-40d7-9e60-09594aac17c9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8890ec29-bba1-4d06-a292-63db9d231785.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ac0c1577-699d-4c91-9d48-406e53fbaedc.jpg?width=720"
+      ]
+    },
+    "Chapitre 24 - Chapitre 24Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/24",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3d26bb5d-5fa9-40bc-9728-02a7bdf97754.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/053ab9bd-b13b-498b-a792-a1c9c13d847a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d26513f4-d850-4557-9e10-52aa2e92fd75.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ae8f8af5-77d0-4a9d-9c44-82f9a8dbc2d3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/39a19eb7-1d66-4c74-8e81-0251bca05c91.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e06fea2c-4629-4776-a127-1d56dca237d3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9cd8cad1-70f0-48d1-aa95-42d82ca12e0a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0b44d455-ebbc-4e1a-96c9-95ed5e614bb2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c5dff22c-5e92-4a97-ad59-ed0725ff429f.jpg?width=720"
+      ]
+    },
+    "Chapitre 25 - Chapitre 25Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/25",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6d011c7d-2496-48ba-b48d-1dd8fdca9bf9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/aa553a73-7172-48ee-92bd-8890ce028fbf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/678806f7-fa1c-4d1f-b48d-4ad1cdeb2737.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f766d0a4-9717-485a-a924-965ebf47aab4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2020e5b5-ab21-4bc9-abac-5d6c70bb22cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8604a2e0-ae07-46ae-b3b5-031d41760a8c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e9ae047f-ab27-42e5-badb-f01cc3b85b87.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3f813243-6947-42a9-9a07-2d1eaef46f14.jpg?width=720"
+      ]
+    },
+    "Chapitre 26 - Chapitre 26Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/26",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3db94c9e-be30-48f9-8e10-1bf139cb4f6e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f6c7fc6b-7798-4b21-9d0c-402eb36a55d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ef4cd14f-b48e-412a-a636-4788c4103d43.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4c7b131d-b356-4557-a2e7-824620a7b109.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/44de68dd-8821-49f5-baea-3d4a0c3fed33.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/aaf9ff6e-3b54-4af8-9944-f11358506e0a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9c9da139-f52e-4150-b567-30ea77809fc8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5f9edaf6-201d-4510-be00-50f82faaeb0a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2de33797-3d48-48bc-b6d4-439427a899e4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/db15269f-2a75-4f25-8528-4d221fa21587.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a6ac0308-f3e0-4511-944f-d609c3076d6a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f89e05d7-defb-4dba-b4c8-7c3af32a5eae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6137f2d5-24a2-4feb-aef9-b70e4eaa7875.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5006ef07-a4eb-4d41-a109-fd189885102b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c7bd28b5-4141-4ecd-8ab5-e1852ddcc309.jpg?width=720"
+      ]
+    },
+    "Chapitre 27 - Chapitre 27Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/27",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d666682a-7884-4e13-9798-252b85b98e08.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6233bc82-febf-4eda-958a-bc42d15536c2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/02dc5314-17b7-4f92-b0f7-6f13c04547f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/aad22e7f-abe0-4551-91a2-d9fc1321638c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ca642f62-2b30-4b85-9c5b-977450e1f02b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4eae399a-e4a7-4ff4-947e-f687c995180b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9066991f-6b39-4fb9-b785-fedf5d1f8ea4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/52bc447b-a46a-48ce-b824-46b61b89e137.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ddb6d801-71db-42d8-bab1-46113ff32102.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ca157712-fde4-4b96-b05a-0ce032d87e56.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/82ff38bd-d364-4f2c-904f-d809bd40e5c4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5217582a-f44f-40e5-87c6-e855b2f1b44f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/96014158-ffea-497c-b04c-9a8a1742cd87.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1b28e0cf-ca4e-4c5e-99a4-ade2ebed185e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e9ee16fd-2c43-47d0-b1b1-c601f368885a.jpg?width=720"
+      ]
+    },
+    "Chapitre 28 - Chapitre 28Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/28",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0a22ff87-a705-4687-bb5b-719021174661.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8a8e5f02-7951-46fc-8f94-0ea1a49f6113.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ef448746-0d27-490d-a627-4db6f5e53eca.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/aee7d52b-a954-48e3-93c3-eede0816c780.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6fac78fe-d225-4749-8b5c-381354fe40eb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9f37963c-f318-40d9-bd41-eb958cd44a33.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f95a08ef-b50d-43c7-a929-036f984db5f3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/290d63ea-7623-488b-8a21-4cd3d8810356.jpg?width=720"
+      ]
+    },
+    "Chapitre 29 - Chapitre 29Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/29",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4862e910-8a25-4e96-927a-b244e3a0bcd8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2b1409e5-bde4-437b-81a1-64e27490f072.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eaa5f194-819c-4527-95f1-c9883e347e82.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cb484a67-1b42-4642-b722-0cd34ace059a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8e7d8f2e-c637-4d18-8164-d7d340beb600.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/64ae3bcb-5aab-4930-88c1-feadeb3bd8d1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c501e288-6136-4cf7-afd1-076eddf6372d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/35043892-9ea3-4848-8996-847184787149.jpg?width=720"
+      ]
+    },
+    "Chapitre 30 - Chapitre 30Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/30",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/18660272-927c-44a4-8a55-e4ce57625690.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/23660c92-1e87-4673-9ff8-19f8a2aade65.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8ce7d0f7-b78c-4c32-b33f-5c195b31ac5f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1a536316-3e50-4d5b-90dd-cc52e43efb31.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4c5a2211-d615-444b-bd26-0264e0055890.jpg?width=720"
+      ]
+    },
+    "Chapitre 31 - Chapitre 31Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/31",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2fb75923-d1f2-4566-b9f8-d591cdc1734b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ad4c71b6-8089-464a-a609-d00d2c882d63.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e2989c03-e6a8-4e7d-ad4d-72f50217a2d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7cc7afe6-a099-4ccb-9a87-61d671499b3e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8c1daae7-0b86-4a4b-b1dd-f5398d1d3d24.jpg?width=720"
+      ]
+    },
+    "Chapitre 32 - Chapitre 32Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/32",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/05f83d22-9f4f-4563-bb5a-368732d1a0e0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c84ddab6-ae91-47c5-8e25-ee03e48923cc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/45e862fd-279f-4d33-855c-8bddebc46186.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/785f35ed-aa8b-4378-9b7e-1278ab2ab8c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/81b509fc-7501-4008-bd1b-988eb358f5cf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c50e0404-3d04-4234-839b-1faee0b94c76.jpg?width=720"
+      ]
+    },
+    "Chapitre 33 - Chapitre 33Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/33",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/234c25cd-39c3-4c78-952a-9d4f8c67e30f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c2af0cb9-74a4-4b52-9873-692e1e102071.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/79282e5b-6fa4-4e35-8487-b531100d1de6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a6895362-bc15-4553-9c6f-10046ce8dad1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9565c91f-c48f-4209-a79b-92c30851ef85.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/805e4889-5bce-4c00-8211-91b4f489f6c4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/341523d0-e76a-47a5-9084-671b0b894455.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/831f433d-16ff-4799-865d-d1eb2c91a6da.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d54d0e4e-a1ed-469d-80af-9471772dc980.jpg?width=720"
+      ]
+    },
+    "Chapitre 34 - Chapitre 34Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/34",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/54f0039b-d730-46d9-a60b-f05e76393b29.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c078ee3c-8916-4609-ac47-868941cc5b59.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9729c1d6-5fdd-4f69-896c-75e46e99912e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/adb675db-5d1d-4167-aef0-249b1a6f765e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b7a47f65-5a85-4186-a714-050b83b96eed.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5c698ceb-5035-48a6-b660-d5a5238736a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7c0cbbe3-4a65-4e63-b257-9656212553f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3fca135d-7403-4bfd-a22c-b7d0f82abfcd.jpg?width=720"
+      ]
+    },
+    "Chapitre 35 - Chapitre 35Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/35",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/10b0fb6f-1914-4617-bfc5-d5e7a429efd7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0d82d86f-d280-4013-b0cb-159027bb54c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/143da873-3d78-449d-9434-e29a85f63c16.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e5bdaf79-cf67-4728-9f33-7b35f35b3d78.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d30d0e52-6ef9-4b04-a86d-cee3a3792235.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3b8b5029-b8ff-48a3-9ad4-58c1b6ba9042.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d3941ef9-a597-419f-983e-86e669cb127d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/564ec712-0c80-4f7a-9e67-f4f5aa919193.jpg?width=720"
+      ]
+    },
+    "Chapitre 36 - Chapitre 36Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/36",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d8d048e6-2fa9-43ee-8a63-d73543f6b39f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f0a6fc17-5e17-4864-ae6c-20d44bf98867.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/41e08fdb-d81c-4329-a80f-b7950482c764.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/65fb3089-75eb-45d1-aafa-4f8610edd29d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/96275d33-bd87-41cc-aafb-c801b94ac72e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7e943005-fc42-490c-8c7a-9f835e928c00.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9cf86d7b-ac86-4a87-a5b1-36e004a5f771.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a8cfd1ef-2b4d-406b-9ffe-9a9b0c0cdb88.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0291d81f-7377-4bf7-bfc1-3bf17ab4b29b.jpg?width=720"
+      ]
+    },
+    "Chapitre 37 - Chapitre 37Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/37",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e28fba20-a44a-412d-a7b8-3616a286b29a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c8094563-5eae-492c-bcd7-023ef0b566d8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e8519141-bb82-401b-9225-f500b5476653.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/77d3ea7a-65f8-41cf-b4e2-f916d05be111.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d73218e4-3e58-4b25-95d1-e12064bfea37.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/16c891b4-2ee9-4bb5-8d4b-bbd87291549a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8cad4eb3-38e4-433e-9b75-7ae48a071f87.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a0d85905-dc45-4655-ac62-9cd03afd5384.jpg?width=720"
+      ]
+    },
+    "Chapitre 38 - Chapitre 38Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/38",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6b880e9c-0b04-47fc-b99d-b252ecd5ec59.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a1bbffb6-b327-495a-8f5f-92fa57c6454e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c77b8264-af34-4634-8f23-abdc833d9441.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d3013273-8b58-4722-b433-e4c83d764889.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/33c6dc3c-3c80-4fae-97db-b9ae30a07509.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9a90b77a-9e13-4a15-8c0b-a78829363c41.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/61b498fa-afe2-42e8-bd39-65ff44be6ec5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f3d3faa9-0b91-40f7-88bc-f29b7c7146a3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6706d9a5-e185-4882-be9b-a33f3d7a5554.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5bb863bb-d920-419c-a766-f26eae956ee0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1b4aa9c4-cde6-42f8-a925-9e5430600d07.jpg?width=720"
+      ]
+    },
+    "Chapitre 39 - Chapitre 39Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/39",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e31aeb85-e84f-4938-aed2-1b9de7a4c906.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/26ec942a-b3d7-41b5-aa50-9a15dea78dca.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/09ea6639-9004-49bf-bfb7-2f4e8eecca8e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e78611f9-7f4c-40cf-9db6-8f7817fd8158.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/93619329-8e39-4f6b-a6f4-f4948d7a7a3f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f6196036-fba2-4c0d-8bce-6c0c9a95efd7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/59c48baa-3473-4d0a-9567-93bc2ed586ad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/af9da51a-f143-48f9-b34b-35b2226178c9.jpg?width=720"
+      ]
+    },
+    "Chapitre 40 - Chapitre 40Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/40",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c9cb9e6a-1ce6-4c41-992e-1852e668b8e0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e0bf254d-55e2-4ea8-bce3-5949f427d607.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/954236aa-ce8e-451f-aa3c-94b08824653c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/948a1c63-86ce-4240-a2f3-520d82baa6e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5207cc7f-6023-4e03-889e-726b05d45f2c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e0e53662-58c1-4ed4-b676-f867b76fc71a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/be67ac1e-4bd9-4f35-a29c-6ee4fa8daf63.jpg?width=720"
+      ]
+    },
+    "Chapitre 41 - Chapitre 41Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/41",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c0f1684e-198e-40dc-b4d1-1392646d5fa9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ed26b17e-452b-46c6-a2bf-0515570f0566.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/72e01357-571a-47da-a35c-d71bf5b86381.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/80a23846-5501-4594-b642-f7e396238ee4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9afa10db-e348-45db-bcf2-11a77d9cc666.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/80b49a8e-0dfa-4bfd-8948-3dc9bdbced6e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e0bd125c-6002-40fd-979b-0ab9e3dbb5ba.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d1a3661e-68d8-4b03-94ae-b933407c0273.jpg?width=720"
+      ]
+    },
+    "Chapitre 42 - Chapitre 42Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/42",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3027a9ee-4464-41be-8b0c-b01dc223c3e0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1b59c39c-ec2f-4b9b-86df-06a679044be4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/564b6a5c-a3dc-45c5-b65a-d790b2eb1c0f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/83f2da98-311c-4f86-8799-c62f0bbe288f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/de96471a-6817-4929-bca2-006eb32c1b3d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/48ab4bcb-3d0a-4232-a9d5-6c360b0bab70.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/783aa55f-fa6c-484f-ba7d-007207e1458d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1e2f257d-71cc-491f-aa3b-f9924ee2f782.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1dd67369-f03e-4c5b-a9db-b3ed77311be2.jpg?width=720"
+      ]
+    },
+    "Chapitre 43 - Chapitre 43Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/43",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/57f93e78-944f-4702-98d9-e49f3c0d4755.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/32cb0cee-e359-4d35-a1c4-3e304ee564b5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/72128ddf-647b-4164-9859-84e5a451db92.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4b01e786-87e1-423b-b58d-66035ec61206.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3c7bcd2f-3a70-4401-9dca-817e886e0ab9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3ac03e5b-a8f4-4b5b-aad1-6f4bd91cbd61.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/69416948-0b23-4cde-a5c8-081a2c613406.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/635099c0-3cd5-4cc5-86f6-f906ccea6ad2.jpg?width=720"
+      ]
+    },
+    "Chapitre 44 - Chapitre 44Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/44",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/874811cc-a04c-4f04-a13c-ccd7397d8012.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d8cbac2b-01bd-4cfd-8856-33c8a6306879.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/502afcb8-4d0e-48ba-8ab4-cbf453a0852c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/18ea2c40-6c39-459f-bf09-4aefe2d1300f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4405c22a-1861-46aa-a0f3-eb56b4f7aa1d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a6b1c8f0-42c4-4582-b182-63b8415873b4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/59ebde92-8c44-495d-adee-5f300eb98304.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/02585ec6-e598-478a-9e98-6e642b73809e.jpg?width=720"
+      ]
+    },
+    "Chapitre 45 - Chapitre 45Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/45",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f64c18f5-bd86-4c85-873b-bf64ba6c4562.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ad44ed29-e941-41b4-b7bc-fadda47820d9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/19e9447d-c472-41a2-b504-ed36cab459a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b6714be5-c017-49bf-91bd-e86f97f68c07.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e4067281-6870-43e3-860e-7f69346149f4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/14840d8f-dcd3-4be1-a901-c9d0b6330161.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5bd26d25-7f19-43d5-990d-c42bce0aab83.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/79dcbc55-9e2f-4e12-8b48-40f1a455a836.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ad73a712-650c-4b3d-a25e-5e9e20fc1fbe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/73815e5d-688a-4bd0-9cde-b85e9f7afdb8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c9c4d47c-1e25-460b-8878-94df17a7523d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/324e9a75-9c44-42c4-b794-3be9a04a7dd0.jpg?width=720"
+      ]
+    },
+    "Chapitre 46 - Chapitre 46Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/46",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4780cd31-c7c6-47b0-a770-ab2d9a7293da.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6b676b73-34be-412b-84d3-4172aa1c49fb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/23f93ce5-7811-4d85-a24e-5a03f4b768e3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1c1057eb-675c-4fc3-9c39-3e2ec2f693ec.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/222b80f8-f1ec-4538-86dd-3ea6fb2bbe0e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6623007e-aadf-40d9-ac95-69b9d4c96b3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0f5c3b6f-58db-4645-98b4-a521e0e6b9e9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bf5a51b7-08b3-43d4-baeb-9cf7d4bf4aad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/801ffaa7-f049-4668-916e-ddd4b1438a63.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2a9efd16-dcba-4057-b7fa-03827d36300b.jpg?width=720"
+      ]
+    },
+    "Chapitre 47 - Chapitre 47Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/47",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/179678c2-0da8-42c0-b4b5-2462b8006b12.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/233a6260-ab07-48f2-9d76-6b3c5ee834be.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/504526a9-9e5f-421d-9b87-f6d08e9ce0d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b89caffc-1383-4e9c-b5c8-f8d009d9779b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/719dfbcb-4238-483e-b8cc-640da5709980.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/910c579f-9743-49a9-b74f-06c5ada6936a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/094d802e-6a7e-42f0-ac6b-be47ab327f7a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2b34c8b0-0046-47fa-97b8-d685a27ca566.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8f89542b-629b-4fcc-a80f-796320651aad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4ed2c102-2c4f-4ada-823c-e2a7b098cb9e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b8bb0d9e-17bd-4732-ac91-ec0ef071076c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7b944611-93d1-44c0-8633-6d7f38eceffc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e0a6e3d7-a7fb-4224-a7ac-49ea1f0423dc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c79f2d4b-f650-4094-ac85-4d035664f8e2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/78183d7c-8cb1-494e-a2a2-591510f9b6bd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5005c2bc-b411-4a9b-b273-eb2de8bf0558.jpg?width=720"
+      ]
+    },
+    "Chapitre 48 - Chapitre 48Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/48",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c7b2080a-54ce-498c-9588-887204911a83.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5a3a4fa6-9841-4f2c-9e11-d75a964fb282.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9274b3b3-50fe-4859-bfd0-63698550e5cf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eea76bd3-0811-44ea-842e-ef7f0fd329f4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/36efbd94-071b-450d-84ba-dec5c8d351cd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/152a614c-d46e-4229-ae77-8a5ae7bb2ef7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/396917f5-3638-4d55-9e1b-c4b7baecd4ea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0434417d-dec2-46f5-a234-4cf5e4e7f4f5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2d2399ba-7f61-40f1-8959-99ff9c8cb16f.jpg?width=720"
+      ]
+    },
+    "Chapitre 49 - Chapitre 49Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/49",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/21237728-fb22-4187-b6f3-4375fd15682c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/86cf73e0-250a-4cab-99b6-fc4e9ca62e7a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d60ccaa3-d8bb-4d66-959d-6a18795f885d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/263e37f0-dec0-4b21-87c9-25d29ec62049.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ebf6d19f-ec75-499f-b149-8676337bc0e4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a9cabb4b-7b86-4049-a8d0-72e98d109894.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b1d850d2-8768-482d-abce-a8853de12044.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/850dcecb-0da4-4a4e-b4ef-80d5ab32cb5d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/57880887-cdcd-4a1e-91a0-1657ec05eab8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ec948b36-69f1-4ab1-a8b5-d7def495f248.jpg?width=720"
+      ]
+    },
+    "Chapitre 50 - Chapitre 50Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/50",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c99f8e4a-d7f5-4b9e-9a6b-7b9b38cca532.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5e94dc0a-2f45-4d9e-be13-1278c1be6b9e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6cdd38fc-0d19-4f6f-92df-1b0a91bd8abb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/95231b83-b665-4fbc-a34d-24d39d925a4d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2a1f8ba8-6441-4d97-a983-010d495e646c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d5084d93-0714-47d8-82c4-df8c3f756d5d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5303a2ed-2adc-49b6-a21f-f22e6010c433.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b65aab3a-1818-47e3-a5e1-c41a4026f86e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6860fb4e-3581-4c75-ae2e-05e6b9c61bd5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d5cac160-cb31-4cea-93f5-b39f6bce5150.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ce8efe5c-a855-47d2-ad2d-1f7f777a02dc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7a4b0e32-dab7-4864-b557-e2f969320e43.jpg?width=720"
+      ]
+    },
+    "Chapitre 51 - Chapitre 51Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/51",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e2b46cbd-f39f-4e9a-b4f1-854f96747d01.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8c59b954-14c6-437f-ac9f-3406940df27c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b3580da4-aa02-472a-81af-13ede5069125.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/06ae17aa-89e5-4a9d-9bd7-e3d167e56ce5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2aff0f61-e2de-47bc-848a-7a16c4fa65db.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/353b54da-9081-4bae-a72e-f3ac87df87e1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a647570e-addf-4751-b345-dca066fb287f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d2a1f88c-6923-4214-9601-a4b43ea96e9e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ec699441-b7bc-4525-bec8-7520344c421f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b4419658-c02b-4f7a-adc3-91835e4625cf.jpg?width=720"
+      ]
+    },
+    "Chapitre 52 - Chapitre 52Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/52",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f7e48a59-fb34-4987-86fd-a0fbdcc24a9b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/16d646ba-eaac-44f5-ab88-4677dfd8fdf0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ac1b1bfe-60f1-482f-83b0-b2feba05fa36.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4522b433-5945-4ff1-a283-9d38b5725c95.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2b1cbec7-6607-489b-ba27-011ee0db81e8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8afe4f68-8f9c-4265-be3d-08a3e5a82d33.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a7da3e45-0188-4e12-a5bd-a9e68aa7a3ae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7b3758a6-540d-4224-99f8-f18893d9b18d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f1d72a6d-1e29-4053-b5e6-3749a41bb677.jpg?width=720"
+      ]
+    },
+    "Chapitre 53 - Chapitre 53Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/53",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f3f428a3-9821-4da1-9dbc-ef77e82d75a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1a26d322-78df-4ef9-b928-e9a7bcebdc31.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/659a9a8e-33cf-459c-b17c-13a3944df010.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1f9c6918-aaea-43c0-bb09-2fad0fa2c5be.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/04965645-4757-43b7-9770-a56c0a3f5456.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4d3fe88c-a7e8-4af4-b839-d9f81937c308.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0e9fbc4f-0580-4642-a57f-a7b6b5856f78.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dc774938-81d1-493f-b2f5-9f8db86b9ee6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bb3f6935-7821-4200-a7cd-03fb32493a3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/835a0eb9-fd97-4e36-8df2-8ec83935e141.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e33d2aad-ab4c-49a3-afe1-465e298f8680.jpg?width=720"
+      ]
+    },
+    "Chapitre 54 - Chapitre 54Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/54",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/152f7abe-8939-44b0-9b9b-ee8a0e003cf8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8016baff-d77f-4257-be83-4a22e1d2e43d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/540d897d-0dc7-463f-9580-f4e8a0036cdb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/95bcaa04-420f-4085-b12d-e2d539a78301.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/92ecbfbb-3e73-450c-b397-9f24f0886797.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d51465eb-c703-4ba1-9892-e7ff16b0d1dd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8751bee1-45a0-4b14-ab98-bf82e411764c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bfb13b15-932e-40e4-9458-f6b41fd3177e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/28584de7-5007-4e94-8023-7ba5153be7ba.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/601cee3c-7b2b-44d5-9cba-6d2a2008c65e.jpg?width=720"
+      ]
+    },
+    "Chapitre 55 - Chapitre 55Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/55",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/26774fad-ea31-4be7-8490-686e3b384c84.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/db2729bc-75d6-47dd-ba73-274981af1253.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/32572e83-5ff6-485d-b190-3ec99623e32b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/50a068c2-7dd0-46bb-a6f6-3c9a94e2bf32.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bd580f99-b8a7-47a9-99fd-22adf75b5ba7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f9a2789b-0052-4157-8a13-5dbb11fbced0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b856aa9c-36e7-407a-a6ae-108e8df66a3d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/58337023-cc6b-4c24-9e84-29f2e278aef5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9799e2c5-8260-4f17-b51a-b7cbec718e25.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0a2a8020-d27c-4de7-b029-52289492ae59.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f7aa2e04-92f5-411e-9147-3279e83c7c41.jpg?width=720"
+      ]
+    },
+    "Chapitre 56 - Chapitre 56Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/56",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8ff5e27f-9645-4833-bf99-a3130cef18cb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/16548fe4-8c70-402b-87df-ac0d861e0604.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/52a0dc12-f5c4-4e74-8c2c-d246b8a425c0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d7b921bf-fe44-4b8f-8ec7-2bccb2ddf3d0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5b28e607-96d6-4ac0-aa08-3b6542990d41.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/125dd08b-0a6b-45b2-8eff-3dce6d32430a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fa36658e-3d0e-40c2-8ba2-2f5ef5e7152e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bc732a08-a244-4aa4-97b9-f7988f6e43e0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/574f9f6e-8161-4c39-8dd2-55c3a8af23dd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/911eb1bd-7a37-4424-9404-ed7e39e530c5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bd13990f-ffec-4112-b47a-e4cbe43ac3df.jpg?width=720"
+      ]
+    },
+    "Chapitre 57 - Chapitre 57Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/57",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3b5d135b-b32a-41b3-a859-ab4d80cfbae6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/773260b3-de5e-41bd-b41c-1c4d50c179c0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8165a3e4-32b1-4c7e-96b7-9632ea987dda.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/26660e73-369e-4b92-a6e0-6de8c9d4b094.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0e32f9c3-fcb1-4d8d-9e0c-e5835cc3b2f7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1fb9de50-3c2b-42fa-ae91-d8441111fb46.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3f9e3603-be78-4cc8-97cd-fc67f30354fc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3c275680-d487-4f01-a1f0-0bd9b69e4a97.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9eedca41-1bc7-4a71-aad8-61dd82f7adff.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ae71aee8-58ba-4207-b5eb-f90f97502255.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fb4f0a0b-0236-42c8-a4cb-8291f8a2fb64.jpg?width=720"
+      ]
+    },
+    "Chapitre 58 - Chapitre 58Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/58",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/874d557b-8d5c-4131-9a46-3e4048024db6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/58361410-7790-4b17-82b7-4bdfca3e324f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f1945c0f-70ca-432a-a128-616488ed25d9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4b73c4b2-b8c0-48ec-b42f-b3577adcb291.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a7c64295-f7b9-4c62-a5dc-eb2a9b8e18e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6bac998f-be15-4214-b605-2461248a5d2d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c6111059-15e0-49c8-9f7b-e94a3d0fb06c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/591650f9-f75b-4f92-b392-f5d49ae7f063.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/34073f9f-b300-42cc-8ef0-15accab5b0d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/73251fb9-9817-427d-a640-b46b246bf85b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1200e0c0-4769-4ff6-acc3-5d9f6cf6c2e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4d63e7ab-0d43-4379-999b-e3ee2733a90d.jpg?width=720"
+      ]
+    },
+    "Chapitre 59 - Chapitre 59Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/59",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/84910f1b-c631-44f2-a02e-5743998cc7e2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/edee6f0a-046e-4186-a8f9-c0bb895432fc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0f07ddea-c198-40c8-8028-744d7bc210a0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/292addde-e846-4679-827a-42a537a5f946.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4270da6d-3b85-4432-8138-595cd49cf989.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2d19da58-14e0-4eb0-a84b-b18915a6e69c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c2254d7b-58af-412e-b198-cb134f65873a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/94e7828e-7452-4bd4-9858-d30ee3cc9d70.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6b6843cc-44bc-4ba8-b10d-0f820362fed7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2695c223-556a-4c38-96d7-ef6237997288.jpg?width=720"
+      ]
+    },
+    "Chapitre 60 - Chapitre 60Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/60",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/952b51d3-d9ec-44ea-8acb-77231543df28.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ecab357c-dfa0-4ea9-a5b4-e952c2ed9f60.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/665736b7-579a-4ba5-afdf-f2a941b7121e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1c4e48da-3d7c-4708-9edb-db51913dad15.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d770d392-56fa-4b74-a5c9-c49cf9be24b6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9c0436e4-80ae-4441-a45e-3dcb345d3394.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5831718b-2a91-438c-bbf9-3e8b05a3100e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c4ded1b3-825f-4e73-8da3-974bf0c88f4a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/199ed12d-1354-4794-823b-c1de4ab68348.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6c64bea8-b856-4338-83ce-76cf0d4a9f64.jpg?width=720"
+      ]
+    },
+    "Chapitre 61 - Chapitre 61Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/61",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a9b34420-4dfc-4b01-a8a4-1adc3a07a19e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/15016280-7319-4e55-b353-3a9daa560041.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/56a32696-4c8d-4172-9cd4-08b2b0d5c588.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/81244019-9e4c-469d-9fee-c06a1b389dcb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a6152902-a30f-4449-9bc8-260a77bfa21a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f64473ac-55c3-4a39-bdef-728a0a7259e7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9ed4b6c0-130c-4583-a6ea-b2d92ad2edb2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/db7671e5-6252-40a3-bbed-49397fcd5a08.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8bdfd9f8-2cc1-43b0-a08f-ba6f759e295f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/df5f671e-9e08-40a6-9979-6a9eeeb55611.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b580f7dc-531d-4b68-abc5-90057d0a6cd0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/93a1a10f-3914-4c47-92cc-e78531664b9b.jpg?width=720"
+      ]
+    },
+    "Chapitre 62 - Chapitre 62Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/62",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/631d5dd9-94bc-46d2-89fe-204fbec242f5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8fd4164e-a6ca-4c23-ac93-9f0657b56343.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/27a0cb31-766d-4a82-b3f1-507aab3e539b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9acb1bf2-cac3-4486-8458-a116f76ffd90.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cf27106e-0152-4726-942d-b4dfc54f3714.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/081625dd-cace-4794-963b-567585e33231.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4ac5cabe-fe9e-46a1-b623-0cf3114b7bf3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e86e5d34-3f94-456d-beae-776acff4e5cf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/99038421-e25c-4fe9-937c-76777d05ed61.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9f62a906-09d5-42d2-be10-f227c0222d89.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/656f906d-27e6-4d52-96f9-2460c0b7a8a4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ebdf03ac-842d-4311-b4a9-2988d2000fc5.jpg?width=720"
+      ]
+    },
+    "Chapitre 63 - Chapitre 63Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/63",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2f04d9b1-d4ce-46b3-b0c8-cc580d54dde5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1d8ed286-ac3a-400e-b2ed-a35850bae47d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6109ddd9-23fd-4336-b370-9124b5c1f746.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c1b4b2eb-ae34-4663-8839-e70a3ad35957.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/474cb84e-d7b6-4f51-8dc3-ecd8f6f39e93.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1de28d81-8e7e-45ec-994c-a86e7d08e55b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c5afc8de-d1b6-45c1-ac76-862e8776d346.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d1d904ae-cf4c-444c-bde7-ca52d35c87a8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/146fa515-c29f-4f43-96da-121ae9b5842f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d5c38bbc-3162-43d9-a9dc-865c30c547fc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/78d77a4f-0a90-4a76-b19e-f069c5e0e65c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/764feb7a-ff0b-40d7-882d-88f4590fb6bc.jpg?width=720"
+      ]
+    },
+    "Chapitre 64 - Chapitre 64Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/64",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/90cb36ac-8bbc-49fa-84ab-98da097c646d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/723741d1-38a4-48e5-afb2-b185958e9013.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/462d20a6-e3aa-449c-8e64-bd37cc5d6ff3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/998d6662-b785-417d-985f-1a45a0e64614.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e2451a02-9bc9-404c-812e-efc4ea6336db.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/78cbce4b-e9eb-4131-a2d1-cf14171556f6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8fc4f69d-a08f-4ff7-a76e-47a66963b2a6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/04e426d6-278c-436e-9bad-f2683a1b4cb9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/93ee9dbe-f072-44e6-be41-bb82d715b52e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9cf5379d-acef-4dd1-853e-37ef67807d70.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/91a9b34b-0f4e-46a2-a4b3-04418c2cc3b2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/adca8603-d6ce-41ee-98bf-7b4923dab5ef.jpg?width=720"
+      ]
+    },
+    "Chapitre 65 - Chapitre 65Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/65",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9b235bed-0218-4757-8296-3d353cbc1a50.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/52eddf08-7bf4-4fe0-aa9d-f67741c9b348.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b91ef3b2-b835-4c74-b71b-ef30841f749a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3b816396-849f-4c51-8899-3d5be10ecfff.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a44dcacd-419d-4b82-bc55-dc218d750316.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ccb236a1-4295-410d-8ee7-18f677da3d9c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7e3c00c1-80cd-4d22-aa65-e4eae7139fba.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/82533965-55c6-4b95-a4cc-cd1a40e6a949.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e30ff1ea-fe89-415a-8a84-d68a3a2dbfee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/97cd876f-1685-48dd-8aa8-60d7d626287e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/73f3c517-15b8-4942-a4be-82b395fdf910.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/af03d507-b394-4312-a13b-76ca99bc7b60.jpg?width=720"
+      ]
+    },
+    "Chapitre 66 - Chapitre 66Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/66",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6c35c1f7-1fe5-489d-8801-1ec5d5578993.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fd8f6e7e-234e-4951-8ba2-e8b9acddd666.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/46f9f2b0-03ab-437d-8f43-7914140079e5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e75339de-ddfe-4044-9193-0765297e6327.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/44a44df7-ea81-4493-8b3e-88d7e4de2aee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a42c8634-224d-4136-80b7-2c8fecb6fd23.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3e8a44a3-d273-4e15-b838-e6d144c3ad60.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8af6e045-cf65-40d5-81f5-b92fffdb942c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7a1b6aeb-a891-4ac0-a3d7-b556af1fe289.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dc5ae8eb-81ba-4429-b953-fc2be98ee470.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e03be5ca-82fe-4ac9-bc56-bcf00398564d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/516f3af6-a650-4092-84c3-7369c8ce7f32.jpg?width=720"
+      ]
+    },
+    "Chapitre 67 - Chapitre 67Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/67",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e3713516-4548-4d32-aea6-5a454bc08f2d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/04184f0e-2865-4fca-951f-b28253404a5b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1384174c-eba4-4604-9630-dab34410539c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4d271270-1c0b-4e32-a33e-adaeac37e0c6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d72706f8-61e0-4f73-9789-aa776bd1e2a4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/52c2bcbe-9038-4cf2-8762-327adaa4155d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/db8b2ba9-39b5-45b7-ad6c-b60b6693106b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/01051e71-d74e-4e8a-a5b7-782eb580243e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/27499b7a-50a4-4b6c-83d6-a3fd47215a57.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/52f53cbe-35e9-448a-bfa3-77f7f74c739d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b5c9dd34-4e4b-461c-a8f9-2b868590ddc8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/52858fae-f6bd-44ee-b44c-61fd8ac2cfbf.jpg?width=720"
+      ]
+    },
+    "Chapitre 68 - Chapitre 68Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/68",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3bba072f-aca6-4a88-843d-376d0e6841e9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7386c489-cbc0-405a-933b-f1a7a2e603de.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e739ab71-d370-451a-85fc-c188c2d64532.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/75b194f8-4e1f-40ba-a18b-c956ccc87b0b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/06c25b51-a8b0-4fe1-b2a2-17b9cce2482a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4c398ddd-671d-4093-9254-2b5c556eea2c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d6e2738e-3fc3-4a72-b305-fcd006dd61cf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/274d7f74-173b-4cbc-b4a4-0befa7c38fd6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6c790326-5650-4c04-91f1-d1e512a7fa72.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/090d9244-2da8-4df2-b345-d5513b8436e8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c279e775-4d15-4cf6-8ea0-800d6d242e99.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cb9eda62-cad0-477e-9673-90eb1d1548a0.jpg?width=720"
+      ]
+    },
+    "Chapitre 69 - Chapitre 69Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/69",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2420fc58-2501-4dcd-ac4c-7a1f83a77937.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dc9c238a-4bb0-4ce5-ba71-740bae7242a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f755b517-96dd-4858-a62a-5068e989685e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4c99ce7a-e0e4-4c2c-8cdb-7c80c506833d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b877ab10-ba0c-4894-949d-a5f92ea8ac54.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d7401801-992d-42c6-8bc6-7cf95b90fa05.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/46a5fcd3-3aae-406f-8360-0e00121f0851.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6d1d9c6c-dd3d-45ee-9042-6178a14b8700.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9e34ec59-65d8-4628-91ed-867417449de2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/42f953a0-5dfb-4add-bfe9-d51ee05aef5c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7d2ff3c8-9c9c-4855-9c73-98e377fe2ec9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cb59974e-aefa-45b5-9c22-728a83bcef65.jpg?width=720"
+      ]
+    },
+    "Chapitre 70 - Chapitre 70Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/70",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ac937d1b-b83a-496a-8e1e-173c070e3094.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5c1dacbf-cbf0-4969-b59c-7ecb7058dffb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/51a24e9e-5329-4ea6-bef2-f9bf98f8b590.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f72aa23e-f88d-4765-91bb-7521dcd98fbe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8b883932-1d24-4438-917b-52da39c35a09.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7acf424f-f2e6-49e8-b900-b9f89ce56430.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/24c11ccc-4b53-4b47-aad9-d12ccb40eaa1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d0f39fd8-be30-45c6-b78a-8afd91574210.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/070e19ca-ca9a-4dd6-a0ed-25befa089612.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/71069335-0ff8-4a15-ba6c-458aed5e6497.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e2fee712-d369-420b-92a4-44c8fc57d352.jpg?width=720"
+      ]
+    },
+    "Chapitre 71 - Chapitre 71Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/71",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f51ca627-1469-4066-a7c7-8984197e8f09.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8766bf09-834e-48b5-b571-73271da376a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/867b5c7d-2be7-4301-9e5e-6b6cc26638ea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a4aaddd0-86e3-4a4d-a4b4-493ad4245c5d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/69bd298c-5555-4dd3-ab52-1f49b92e6516.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/144ca0b4-2374-46ae-9b9a-b8d94efbd391.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/01da0561-3ae8-4fdc-89cd-04fdc3c06373.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bf49a534-c9c8-488f-aa26-20ca30f3624a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/16a8039d-6f80-4355-9f08-bec33de51349.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/730e1796-7392-4451-8b66-19487aef8632.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5c53a57b-7134-4e12-96c5-a194968172d4.jpg?width=720"
+      ]
+    },
+    "Chapitre 72 - Chapitre 72Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/72",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f8fa2dd7-ea56-4850-a4b2-6af0a04b3089.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9d2edfab-3133-4dba-903a-7aa743dbb100.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/37a4c0c8-f553-481a-889c-bd9e86fddd7a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cf30aefc-30ee-4082-acd8-15ae4abbd311.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4ce3f741-9994-4a7d-8cab-47a89eaa6f59.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a8021905-e4b7-4551-97a3-11fc4f2d1373.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/53063a23-8829-4db3-8d7d-366c390e6f17.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/49edb0b2-e6e0-4b28-8be7-86298f753cb0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1ecbea50-d651-41dc-a052-c289bd0c638a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/403f9ca3-8ca4-4d65-af1e-ccd834d5c231.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/870c573c-ba00-4583-b8b4-1034da013739.jpg?width=720"
+      ]
+    },
+    "Chapitre 73 - Chapitre 73Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/73",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/921ccbfd-6682-4eec-a9b9-67dcb078000f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8633970d-e3b7-49a0-b96c-c35cdf91bff3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/91cca861-588d-44bb-84e2-6bf82699a2c2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/438f9816-1d2b-43dc-829f-f078750241fa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6a7274c2-0771-4c4a-bf20-b61be8ba06bc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/39d24925-8e1c-4a5d-bf37-bddfe252e05d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/359950c6-2e58-4252-ad52-4d4cd7b8cc85.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a3dcacd3-cd78-48a4-a1c6-fd57b2eec3cb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9aa927c8-a835-453e-8f36-0c0a1ffe2e5a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/68f7d3e4-e189-44d3-bc29-79a96471d1d4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7af58ef3-b510-445d-b691-13acd7958bfb.jpg?width=720"
+      ]
+    },
+    "Chapitre 74 - Chapitre 74Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/74",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/38f7d1ec-a227-4b8e-a4c3-6e1984b5e457.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e7dd6243-4aed-4e1c-b7ae-416731fa491c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9cdb7abb-2cf2-44bd-9ee5-06e84d7300d0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c447093d-63c0-4b28-bd8f-16d3be2e8905.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c553e781-737e-4415-9b9f-f2744e2a3633.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dd919962-05e4-456a-b828-c364970bfcc8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/25a7cbe7-c772-4cc3-b1fa-d04ee79759ae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0a736ab1-6410-4564-a482-9eca05cbb6f8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4b3c22ab-6620-492a-b219-aa78a96b7e43.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/292fe050-55e9-45d6-b5ed-26bb9b9d6a81.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3ac97558-4489-40c9-88d4-fe31f9c33bfc.jpg?width=720"
+      ]
+    },
+    "Chapitre 75 - Chapitre 75Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/75",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b74f24bd-5ae0-4751-8d22-65b49c9a566a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b3d61835-e64d-4aa0-a55a-76db4edab6d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4c5eb1cb-ad95-4c75-b974-4c581d9bd4fb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/22f972f9-057e-490f-b76d-5bcb314519c2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d40d3a08-4602-4297-9b20-36056707a199.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2e2b5bce-1f46-49dc-9704-bca79423bfc2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dc05eb24-69aa-4828-8d1d-7bafdcfb2451.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/db0b10f0-5ee9-411d-8bf5-cf1433556b24.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c1267344-a556-458c-a6b6-50466f600ac8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fc807be6-7003-4630-8928-ec8310341835.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/daceddf0-7c1a-4262-83e7-5f89b9cfb8af.jpg?width=720"
+      ]
+    },
+    "Chapitre 76 - Chapitre 76Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/76",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/278848de-4cba-4329-aa10-eb071d5ab225.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e5d845fe-7db3-4167-8bc4-39a6650d0d2e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b61dcf4e-81aa-4885-9d0c-560b565231f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2bc8fdf4-02da-4da4-8554-5efd445c3232.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f62bf541-dfa8-4d74-91a1-77bc05e36473.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/69984333-42aa-453f-ad6a-9fcc7289ca35.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0b5dbcb1-3499-429b-8b70-7c35727edb71.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e53ef123-08b0-40ec-a44b-f0ea870c838a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9764b8ec-4194-4088-9dde-5d60705d98e5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8f43c94f-7f70-4cd1-ad8c-94ab4c58452b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/02691fdd-c102-469e-ab11-9d16fbe55492.jpg?width=720"
+      ]
+    },
+    "Chapitre 77 - Chapitre 77Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/77",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/78b8135b-d5cc-45fb-96fa-adac163b5568.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2d27f9ed-eeac-4129-8f38-cacf01176456.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7af9ac4f-8b91-4957-aabb-5b9bcdd62d82.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dc754892-8b12-4754-9fc9-7403f407fce0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9aefbc0d-fc53-4761-b3e6-4fb08af256e0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1667d3ff-bd50-4380-ae9c-fcbebb058c06.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4d4f9777-bfd9-4961-9031-932a91c779e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b158b09a-2739-4269-b892-8ea8c9fcfaa4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2da2875e-c616-4901-a92c-0bc1ed50965d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/08a55ccf-b3e3-42fe-95a1-213ee77c10f4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2a2213d8-d13e-49e6-9828-d24d2a6ccffe.jpg?width=720"
+      ]
+    },
+    "Chapitre 78 - Chapitre 78Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/78",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/31173900-0aad-4d45-a7dd-4669cad2ef14.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1feffed2-7c63-436f-b62e-7798297b8032.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c98df9bb-35bc-4953-b662-1215a9b5ea8b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c06f4b10-7e5a-4d60-a1ec-2dc21c572acb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a3a2dc61-f212-4f08-9557-fd87c09ef6c3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b48fc640-2689-4021-b321-4524482bd8f3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a0429c08-3b60-4d85-8131-f1ee7825fc6e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/be8c50ae-d40c-4cf0-a464-93824393b0f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9a4a5f8e-17f5-4476-ac04-311de2607c4c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c4cde5b3-21fe-4573-a511-ac5ade8f65f8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ec3dbca6-2400-4458-af31-2304fe403f1a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/edeb6926-f9c6-4122-882f-d94daaeb9de6.jpg?width=720"
+      ]
+    },
+    "Chapitre 79 - Chapitre 79Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/79",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5984df28-07e8-452a-a028-2497de3e01bd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b522820e-694c-457f-8b32-9596aa82fc49.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/31a5a8b2-6553-42ca-b093-32a5695ab418.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/da048bb7-0992-4e20-b0b1-b4ade0de5f83.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/77e09d65-2bf0-493f-8b22-50d6ea5dd370.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e83043df-a488-445c-b9f7-d01554233aaf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8b93cf13-1095-4e71-a1a3-ba98282cd5f0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f0f0f183-dec8-4d88-b902-d0a343569f4e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1b577d23-b9af-45c9-b0a0-f3b5faff8ed6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9f981ac9-78b7-49f0-b44d-0a5d3e0aadbe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9d2ca04f-7a03-4ce4-9693-3dc199d802c6.jpg?width=720"
+      ]
+    },
+    "Chapitre 80 - Chapitre 80Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/80",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3b8468d2-8fc3-491b-be67-2412b5798b84.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8624069c-8975-408d-ba81-fd8c0212e311.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/409f8f6f-0282-4966-966c-49e2637e3625.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/477a7904-f730-42f2-8238-a1ffa2d7fc78.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9583113c-fd69-4b85-ab32-767f8e839ff2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7b9afd23-f733-4c2d-981f-9e2f8aa6ef15.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6807bb2c-e8aa-4717-90b3-d9d218b6c8b2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/21dd4384-c602-4139-853b-0a7e54acdc91.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/88d00de5-2cef-464b-9055-4ebd9afd6cc5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d21d0fbf-3a10-4e7f-9855-734d2a0ea40a.jpg?width=720"
+      ]
+    },
+    "Chapitre 81 - Chapitre 81Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/81",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/97bb5861-096d-46f0-ab32-afce35f9bcfa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b7f915da-d005-447f-aa15-818516f3227b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3d10fc5b-632a-4baa-8cee-01f9aea75b90.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/08ae2bed-8f71-4869-ad7c-d13f3c3bafc7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9d512c43-48f4-4bb9-837b-33ed54a7b258.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5c4ea970-8f44-475f-a3d4-b8343074cb40.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/26ac1cfc-3c28-4662-989f-8fe870387aed.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0ef9a494-a84b-491b-8d3c-ebca9426b4fb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a62e56d1-ee2e-4888-a853-d45b88b124e7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1e2cafe6-3983-452a-a265-e9cb20197828.jpg?width=720"
+      ]
+    },
+    "Chapitre 82 - Chapitre 82Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/82",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2705d19a-5aed-45b2-bcb7-c40f3e738cb7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/59e71dc3-f336-4db8-a40d-3132ab8e81c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/78390b06-e280-4e60-9b72-5e6972ed983d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9e50b7d2-528d-40a4-ab31-d52e08e73aae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ea7cdd54-4c40-4cc2-8100-c3426a879dd8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/faeb6d9d-7e91-447b-acfb-87d8b79d330a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/15bc1998-dd77-4fa5-9d7f-9e7460a2350b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d41c5ebe-53cd-4ab9-a8c9-737f25d4d9f5.jpg?width=720"
+      ]
+    },
+    "Chapitre 83 - Chapitre 83Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/83",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9ad2873d-ab92-475b-9b11-0177917ad66c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/542dc013-cb87-4602-be4b-dae8aa404188.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/26979cd5-4fad-4229-87d7-4d5e59ce1a01.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fce717ae-7c21-4890-b70d-187b01e42a36.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c2b03151-5f59-4d61-9485-468850c40080.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7f44f1d1-f63c-4dfc-85db-a4d4aa50c7a3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/606e2d2c-a27f-481f-b4e1-6ffccc97541e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ffcb1e2e-c42a-4d9e-a270-6f76459320e4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/aa022056-49c4-41fc-832c-fb7c64437ea8.jpg?width=720"
+      ]
+    },
+    "Chapitre 84 - Chapitre 84Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/84",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/08e0605e-d5e2-4fe4-bd23-57bd6a0bbd9a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ea83d37c-cf43-49cc-ba3a-7a4a7bb5ba3b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/41e1d47c-59cc-400e-bc18-974166754cae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b15cd0f9-6391-4405-ad43-f768fcc2b0c0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/85ca0fca-48ad-410a-9b6f-ed646efc205c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/057be8a1-5a47-48fe-8e37-f95312ac9473.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/db87f7e3-5395-44e8-8448-68405c8a7738.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/de0ae88f-d949-4a6f-b5cf-152fa6dcddce.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8b9f0d2b-797b-49fa-9292-9b3a987c765a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dc9c61a4-9fdd-4c45-9ac5-8acaba412909.jpg?width=720"
+      ]
+    },
+    "Chapitre 85 - Chapitre 85Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/85",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f3b8bb73-4cb6-4dcf-932a-a80902d59d12.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d265ec35-610e-47d9-ab4a-b6adc0b32e2f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a9579d26-a411-4a21-bed0-cf880cfa90e6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/323c8450-41c1-4257-9457-1d3444159b28.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e1a00268-4e6a-4a94-a4f1-8562f79de740.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bd79883a-738a-4bf4-aecd-8c1b5ad8bf2c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c3cf9b6f-75b7-4606-831d-36100e0b411d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/236159fc-fd56-428f-9003-4afbc2cd4bd9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2e4d3ae8-dbb3-432d-bf4f-5ce920efb4fe.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/65b58a65-06f8-4d54-a6fe-649eac0b4019.jpg?width=720"
+      ]
+    },
+    "Chapitre 86 - Chapitre 86Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/86",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/85402a69-4023-4139-88a7-8c759635f866.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/894505ab-bcdb-4ae5-a409-121a5301327b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0447392d-76f0-4fb0-a270-3554c10668b7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5f18f677-4090-46e3-898a-00c1a433be26.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fb7055ce-1084-4de3-816e-27cf26051668.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a433930a-9447-4cad-b11c-44d290476212.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/06f30d10-9c3b-46af-b902-67cb11e316fa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/de215ad8-3198-49cf-aaf6-467c872d55eb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bc3f644b-fb69-447c-ad5c-03dd196c5937.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4e655fd0-833b-4fb2-9cf7-ee2c2239ad90.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f74698bd-edba-4f96-b739-7e0f83257a53.jpg?width=720"
+      ]
+    },
+    "Chapitre 87 - Chapitre 87Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/87",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a7524987-d03b-4e00-86e4-7d53a53e36cc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e0a0b673-6479-4317-abe0-37a2543ca1cb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6e1f1f1f-dadf-49bd-8f6d-4fbbaf4cc65b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a5430af8-6e69-4b03-b7e5-8190bf1def1b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a5f814ed-1c63-462f-a57c-d4788c97741b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/94a9ec39-12cb-457a-87b6-56c915ed00d8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/42bdec20-2afe-4cf7-b76f-36427192f1f7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/03c9ea04-53ab-46aa-a6fd-3021aa75f442.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4c812c48-a242-4c3b-9d9f-8b635f0b26c2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/15d1f28e-b814-4858-9f79-6261633068d2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d458f5c6-630c-4d82-85af-b82801b1bb87.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4b518e25-d7d3-46d9-a255-d8b09612ebdd.jpg?width=720"
+      ]
+    },
+    "Chapitre 88 - Chapitre 88Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/88",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/92b11cf2-705f-4e37-8fa4-ca0a44e2dfa1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ce8bfea3-f5b9-4c6d-86b7-7ff54009c11f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a287cd77-3e92-4972-8d82-d26ef2c1d14e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fa7978c0-b080-4bff-9c55-ff8a1b56b9a0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/71e1cda7-1f1f-40d2-9778-70afc1fe4d3e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/154236ce-46f7-4a70-b458-034ef2ffee0e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e411f6e0-fc40-4a84-802e-152829e96940.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b8857111-f557-4bec-8d75-0a8d714804ae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e1bfa7bc-63b2-4700-ada3-258070893f5e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1b169f65-48d0-41cc-bf91-338610f9ed50.jpg?width=720"
+      ]
+    },
+    "Chapitre 89 - Chapitre 89Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/89",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2aa48f55-6784-415d-afbd-49c75058d322.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6f5b9eb1-98ec-410a-ac97-cf045f19f944.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9666dba6-1104-4878-ab1d-d30a45d2aa6e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/68e7958f-2ad9-4b53-af34-04866178a2f2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b02336f2-16bf-4bac-bca3-e8549bccfde5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fe4eed3b-7af8-4c31-acbf-881ead2ef310.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/20b95187-5521-4556-b0e6-0498807ac92d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/65bcad8e-295b-4db3-ae8a-eff0b492b8fc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4f4ff901-5af8-49ad-ace4-312ed78dc61f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0ad8244f-f20b-4888-8a3a-c3ea6de5f55d.jpg?width=720"
+      ]
+    },
+    "Chapitre 90 - Chapitre 90Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/90",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dc947431-0026-40c6-ba47-239b860804ea.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7b40dc21-865b-4d92-946e-c713be756b53.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/af7d2fc6-4ab0-43b0-812e-9c00bc2272e5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/17193c06-5832-4ecf-b756-78cda5f0a951.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ede65965-5d9c-4506-8c59-4883f31308ee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f5e5ae07-5e98-4447-abdf-c12d2fa5223c.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1e3a3a66-9bba-4843-b592-0565f7d0b211.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2182ad94-289a-4172-883a-58a29959bb05.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8b8a3273-f2b0-4afb-871f-5916e4991919.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f90e348d-0dd5-4718-88d0-619e134f9269.jpg?width=720"
+      ]
+    },
+    "Chapitre 91 - Chapitre 91Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/91",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ea630ec8-bc29-43b8-9868-81c3b04c4276.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/35557045-c9a3-42ac-84a6-7a7c5f81f879.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5592c8ce-0cc6-4960-bc07-14ee76f53748.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9888f022-66b5-46d9-9f83-762fae45579a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ea40256e-f1c0-44fa-9042-2990e8cf8959.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dcd158f0-2fe7-4454-8511-50ce79572275.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1a33df8d-3b36-4b2f-a608-85702f708373.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c7f8f166-92f1-4364-a879-d1ea37186ad5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b0dc3e3b-fc89-4844-9551-6f47edfd9335.jpg?width=720"
+      ]
+    },
+    "Chapitre 92 - Chapitre 92Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/92",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cf6a8eb9-d710-4c34-a1a4-c66eb01d46a7.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9bfc00ec-d75c-4d90-b059-eaf4aab3e0a2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/adcd1b2d-fa26-4beb-af07-51c88f0d820d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fb937998-480e-4720-8304-c92c9b23fceb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/40b9f9c9-68f4-460b-a586-e511734e82f2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ef8618cd-8a48-43f4-a535-84e1e8216d99.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eecbbe48-b734-4fa8-bd21-ca2ec20ac1ad.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/084775b9-adfc-46b0-a227-b3a569f7d37a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/892f1744-672d-4c1f-be6f-0f1011754b3a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eff9b473-2de4-406c-a81f-2f611f948da2.jpg?width=720"
+      ]
+    },
+    "Chapitre 93 - Chapitre 93Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/93",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9f2328fa-c025-4f48-ad51-da1a5a09fd60.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/31c8f0ef-ba58-4160-a95c-23be412ab85b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bc071824-46e5-4b07-a8d3-793d0a0dfb09.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fbba6fe2-41de-4b71-bd34-517069fde539.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a23f3fa1-ec26-49d6-a89b-ee3a5d0aa6c9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2e156d11-6abc-41ee-8a9e-323c89cde44e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2df96a5b-46aa-4471-9a87-36b1f7db7788.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f150cc9a-2fa5-460f-9073-1b0f66cb3c0e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c997e794-3950-45a5-aecf-6bfc6aa47c2e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/16d41ac3-16d5-4bde-81a4-ec67c62720f1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/107a18f5-3f8c-4b5d-b4f2-5d874a5515c2.jpg?width=720"
+      ]
+    },
+    "Chapitre 94 - Chapitre 94Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/94",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/711e175c-c559-415b-b1b6-2aef1752456e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/86091095-1d5c-4ed9-9714-2ac87a6a7e33.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d77417fc-014e-41cf-a27e-304f6bb6f80a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dee28118-f11e-48cb-bf96-a0e5097aff60.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8c10775e-01b8-4b81-9129-4a8f90f520db.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/39893ce2-82ea-4828-bc8d-928445732c8b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f9d5693f-3450-4ebd-8a0c-60cffec1ed61.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2b8a77ae-9e43-43ab-acc9-90540a756afc.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e57b2092-d2b3-418b-9eaa-20d0430a52a1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5663f5a7-a428-4e60-9c52-8b4322351b25.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c7317271-91f5-4260-9628-f450b40bc4b9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f6f42702-1f3e-4ee0-8fe6-2c1135edd4bc.jpg?width=720"
+      ]
+    },
+    "Chapitre 95 - Chapitre 95Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/95",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e1a51d19-e3a3-4d69-a787-935b9005384e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0d3a5e1a-f1de-4b49-977c-621e48e2215a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d4af65ec-5460-4538-adff-7074f4ed0e79.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dfc2e1d2-2956-4b1d-89bc-e32d88a41af5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ad24b4e6-77e8-4ce1-9d90-3c6aebd3eb7e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5fa35bba-6b08-46c7-b8cc-77fbfddeaeab.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f3ae0508-d3ed-41d8-9f9f-137e44efb4b9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/02804d04-5b9c-45aa-a991-b23112c06bba.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/eb20d183-ac55-4d83-a938-3e7449b5bb95.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b1559957-02ea-4842-b1cf-8ecae621303e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ccd40136-da1f-4e7b-9718-76d5a340227b.jpg?width=720"
+      ]
+    },
+    "Chapitre 96 - Chapitre 96Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/96",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/708ac436-f832-4d8b-89aa-4c329ec0982b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/70cb40d5-478a-41f5-892b-23ee7cd318a0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8df20a95-21c5-4413-8cf8-bf4281ab5426.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/422ec8a3-9b3c-4f82-9375-4384b60bac73.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cc9cf88c-e584-4fa9-a434-4c908d92b8da.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/ff83af24-1b4c-4f1f-b00c-84a9fb080cb9.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/5809e036-4286-448f-94d1-d047bc56688f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9da31d08-09dc-42d6-9e09-c50c15e6c593.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c4a5a2bc-5214-40b6-904c-b34f527dc32a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/905961c2-ee7f-4124-8bbd-31fc913c7570.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3202f471-7672-4345-a130-e0ed37034169.jpg?width=720"
+      ]
+    },
+    "Chapitre 97 - Chapitre 97Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/97",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/82293c83-768a-44b7-a009-ae4a5b822e8b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/828089f4-15e4-456c-84f7-7a1005318ffb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9f0fc603-5f1b-4d07-a20b-7ea2deb954c3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/00ce4fe6-b922-4f5e-aef7-036154315e52.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8fcae7c1-43a4-4d85-b406-30ee3f70b5b4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c6bf3e4a-bbe4-472d-a6bc-783d11137c1f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/952f8150-faa3-4ea3-9cb4-84ab472cc0c1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/664f3daf-90ef-4c77-8cbf-1c8ca7f1cef4.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/bcc3550a-fb6a-4478-97c3-25b8aeab5f06.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/0c3077fe-661c-4a10-9f67-3942718d88d5.jpg?width=720"
+      ]
+    },
+    "Chapitre 98 - Chapitre 98Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/98",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/345dfebe-bd3d-4268-bf10-4775da3d5f6d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d617fbdd-8f62-4414-b8f2-784f5c34c46b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3646921e-7e42-46fc-96f4-75349c9ed0d3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/c0d986d5-40ad-435d-b9b2-d4ff02010bc0.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/7e534506-ee44-43b5-b31a-1b918d5ef7a6.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/39820b1c-85ff-476f-850a-1aa527bc1c7d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/deccf580-866e-46f1-8716-b68d55f4ebbf.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/35b3c807-75a1-4ec6-be33-42dbfb41f49d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4de18f86-b94a-4889-8f37-42162fb8744b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4b2a7642-3209-41a4-98ae-77ef2cbec463.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e2afc644-e6c6-4098-b973-3bb46cd6bec5.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e73c9d26-939a-46be-a102-9e783995e54d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/209781b2-f483-4f13-8c5b-57f880f16ac7.jpg?width=720"
+      ]
+    },
+    "Chapitre 99 - Chapitre 99Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/99",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/6c25fbe3-14cd-45f3-ac17-f2c44ff99c54.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8a13fabe-2227-4d28-abb9-8bea51fbcc90.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cf2ff8c0-6c5f-481a-9e07-7c3a349a22ae.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/98531e06-28e8-49a6-9170-96a0584e3951.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/174d874f-a3b0-45f1-953c-3ae41ef2197d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/f9503e41-c7c4-42dd-a71f-971351385ba2.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b544e115-3dd4-4e7c-bd5b-91abed7be897.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/899389ba-075b-42d6-a8b8-2c4d74cc1ac1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/a0845814-1750-43aa-8b34-cb5561aba218.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b9076bd9-bb0d-49c0-9905-8b171e8dea3a.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/29b5b85b-e18d-40a7-bd9d-60514432c811.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e86e3839-bd90-4282-980c-5db35e735f7b.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/1f0b20e8-c7fc-4ae4-8304-cf92207cb1ec.jpg?width=720"
+      ]
+    },
+    "Chapitre 100 - Chapitre 100Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/100",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/2f63c802-3f97-429a-bd7b-e47ea03d98ba.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9f9ba44d-3cb7-4627-84a9-415b1e6012c8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9161a61e-8565-4fba-a13c-c5087ea41efb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/3f59be10-cb66-4f6d-903b-03d09775bf6d.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/da76127a-6b19-4ef4-99e4-c6bdf52d4ffb.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/fb3c9659-c8d5-498d-bc96-ff11c0228379.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cb33244e-260c-42e9-9d46-e8873c9563c3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/dd4fab49-acd7-461f-bba0-a60f0f744ef3.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4eed0729-6838-4584-876e-36e9e7729004.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/314f3dfd-a287-4ca6-b3fe-910295c10b47.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/32a8addb-05ae-4688-a531-9f1947bcca3f.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/064427dc-b0c0-4ef0-9c86-9f5a3f987e11.jpg?width=720"
+      ]
+    },
+    "Chapitre 101 - Chapitre 101Il y a 4 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/101",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/980e827b-fa65-42c1-8120-0d887cda1eee.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/e7c3bbef-2042-4bea-89e7-4015d2230677.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/235c4a24-6943-4577-bfe6-5a1071093c47.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/8fffc2e0-4b45-423c-bade-c78411bf3ffa.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/9960df0b-4a78-4abe-bbfb-c4cdea3fe9b1.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/37fc6bdb-da66-4e2f-8a0f-765652ec9d84.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/b1305671-0584-43e8-9aed-7812364b2eda.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/122a7976-171e-4ea2-bcff-2e7cf06e9dcd.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/4351f1f6-51cf-46f1-b86e-5f0e9792a21e.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/d641198d-ae61-4536-a8c0-89a5f4665cbf.jpg?width=720"
+      ]
+    },
+    "Chapitre 101.6 - Chapitre 101.6Il y a 5 mois": {
+      "url": "https://phenix-scans.com/manga/reincarnation-of-the-suicidal-battle-god/chapitre/101.6",
+      "images": [
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/cde552d3-4ec9-4cb8-8289-9eaeca299a14.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/057018d1-55d8-4268-8051-ce79936625a8.jpg?width=720",
+        "https://phenix-scans.com/api/uploads/manga/67bd56bdae810159afa295a9/250c6a10-d40b-4d63-8d8a-7481a825cda3.jpg?width=720"
+      ]
+    }
+  }
+}

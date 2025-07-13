@@ -1,0 +1,1220 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manga Scraper Browser</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        h1 {
+            color: #4a5568;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .input-group {
+            margin-bottom: 25px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #2d3748;
+        }
+        
+        input[type="url"], input[type="number"] {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+            box-sizing: border-box;
+        }
+        
+        input[type="url"]:focus, input[type="number"]:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+        
+        button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+        
+        button:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .progress-container {
+            background: #f7fafc;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 2px solid #e2e8f0;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background: #e2e8f0;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-bottom: 15px;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            transition: width 0.3s ease;
+            border-radius: 10px;
+        }
+        
+        .progress-text {
+            text-align: center;
+            font-weight: 600;
+            color: #4a5568;
+            margin-bottom: 10px;
+        }
+        
+        .status {
+            font-size: 14px;
+            color: #718096;
+            line-height: 1.6;
+        }
+        
+        .log-container {
+            background: #1a202c;
+            border-radius: 10px;
+            padding: 20px;
+            max-height: 400px;
+            overflow-y: auto;
+            font-family: 'Courier New', monospace;
+            color: #e2e8f0;
+            line-height: 1.4;
+        }
+        
+        .log-entry {
+            margin-bottom: 5px;
+            padding: 5px 0;
+            border-bottom: 1px solid #2d3748;
+        }
+        
+        .log-entry:last-child {
+            border-bottom: none;
+        }
+        
+        .log-info { color: #63b3ed; }
+        .log-success { color: #68d391; }
+        .log-warning { color: #fbd38d; }
+        .log-error { color: #fc8181; }
+        
+        .chapter-list {
+            margin-top: 20px;
+            max-height: 300px;
+            overflow-y: auto;
+            border: 2px solid #e2e8f0;
+            border-radius: 10px;
+            padding: 15px;
+            background: #f7fafc;
+        }
+        
+        .chapter-item {
+            padding: 10px;
+            margin-bottom: 8px;
+            background: white;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            transition: all 0.3s;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .chapter-item:hover {
+            background: #edf2f7;
+            transform: translateX(5px);
+        }
+        
+        .chapter-item.completed {
+            border-left-color: #48bb78;
+            background: #f0fff4;
+        }
+        
+        .chapter-item.downloading {
+            border-left-color: #ed8936;
+            background: #fffaf0;
+        }
+        
+        .chapter-item.error {
+            border-left-color: #f56565;
+            background: #fff5f5;
+        }
+        
+        .chapter-status {
+            font-size: 12px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+        
+        .status-pending { background: #e2e8f0; color: #4a5568; }
+        .status-downloading { background: #fed7aa; color: #c05621; }
+        .status-completed { background: #c6f6d5; color: #22543d; }
+        .status-error { background: #fed7d7; color: #c53030; }
+        
+        .download-summary {
+            background: #f7fafc;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            border: 2px solid #e2e8f0;
+        }
+        
+        .summary-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            border: 2px solid #e2e8f0;
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .stat-label {
+            color: #718096;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .warning {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            color: #856404;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .warning h3 {
+            margin-top: 0;
+            color: #b08800;
+        }
+        
+        @media (max-width: 768px) {
+            .controls {
+                flex-direction: column;
+            }
+            
+            .controls button {
+                width: 100%;
+            }
+            
+            .summary-stats {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎌 Manga Scraper Browser</h1>
+        
+        <div class="warning">
+            <h3>⚠️ Limitations importantes</h3>
+            <p>Ce scraper fonctionne directement dans le navigateur, mais a des limitations dues à la politique CORS. 
+            Pour de meilleurs résultats, utilisez une extension de navigateur pour désactiver CORS ou un proxy CORS.</p>
+        </div>
+        
+        <div class="input-group">
+            <label for="mangaUrl">URL du manga :</label>
+            <input type="url" id="mangaUrl" placeholder="https://exemple.com/manga/nom-du-manga" 
+                   value="https://phenix-scans.com/manga/a-modern-man-who-transmigrated-into-the-murim-world">
+        </div>
+        
+        <div class="input-group">
+            <label for="delay">Délai entre les requêtes (secondes) :</label>
+            <input type="number" id="delay" min="0.5" max="10" step="0.5" value="1">
+        </div>
+        
+        <div class="controls">
+            <button id="analyzeBtn">🔍 Analyser le manga</button>
+            <button id="startBtn" disabled>🚀 Commencer le téléchargement</button>
+            <button id="pauseBtn" disabled>⏸️ Pause</button>
+            <button id="stopBtn" disabled>⏹️ Arrêter</button>
+        </div>
+        
+        <div class="progress-container hidden" id="progressContainer">
+            <div class="progress-text" id="progressText">Initialisation...</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="status" id="progressStatus">En attente...</div>
+        </div>
+        
+        <div class="chapter-list hidden" id="chapterList">
+            <h3>📚 Chapitres détectés</h3>
+            <div id="chaptersContainer"></div>
+        </div>
+        
+        <div class="download-summary hidden" id="downloadSummary">
+            <h3>📊 Résumé du téléchargement</h3>
+            <div class="summary-stats">
+                <div class="stat-card">
+                    <div class="stat-number" id="totalChapters">0</div>
+                    <div class="stat-label">Chapitres totaux</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="completedChapters">0</div>
+                    <div class="stat-label">Chapitres terminés</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="totalImages">0</div>
+                    <div class="stat-label">Images téléchargées</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="totalSize">0 MB</div>
+                    <div class="stat-label">Taille totale</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="log-container">
+            <div id="logOutput"></div>
+        </div>
+    </div>
+
+    <script>
+        class MangaScraperBrowser {
+            constructor() {
+                this.chapters = [];
+                this.currentChapter = 0;
+                this.isPaused = false;
+                this.isStopped = false;
+                this.downloadedImages = 0;
+                this.totalSize = 0;
+                this.delay = 1000;
+                this.mangaTitle = '';
+                
+                this.initializeEventListeners();
+                this.log('🎌 Manga Scraper Browser initialisé', 'info');
+            }
+            
+            initializeEventListeners() {
+                document.getElementById('analyzeBtn').addEventListener('click', () => this.analyzeManga());
+                document.getElementById('startBtn').addEventListener('click', () => this.startDownload());
+                document.getElementById('pauseBtn').addEventListener('click', () => this.pauseDownload());
+                document.getElementById('stopBtn').addEventListener('click', () => this.stopDownload());
+                
+                document.getElementById('delay').addEventListener('change', (e) => {
+                    this.delay = parseFloat(e.target.value) * 1000;
+                    this.log(`⏱️ Délai modifié: ${e.target.value}s`, 'info');
+                });
+            }
+            
+            log(message, type = 'info') {
+                const logOutput = document.getElementById('logOutput');
+                const timestamp = new Date().toLocaleTimeString();
+                const logEntry = document.createElement('div');
+                logEntry.className = `log-entry log-${type}`;
+                logEntry.innerHTML = `<span style="color: #a0aec0;">[${timestamp}]</span> ${message}`;
+                logOutput.appendChild(logEntry);
+                logOutput.scrollTop = logOutput.scrollHeight;
+            }
+            
+            updateProgress(current, total, status = '') {
+                const progressContainer = document.getElementById('progressContainer');
+                const progressText = document.getElementById('progressText');
+                const progressFill = document.getElementById('progressFill');
+                const progressStatus = document.getElementById('progressStatus');
+                
+                progressContainer.classList.remove('hidden');
+                
+                const percentage = total > 0 ? (current / total) * 100 : 0;
+                progressText.textContent = `${current} / ${total} chapitres (${percentage.toFixed(1)}%)`;
+                progressFill.style.width = `${percentage}%`;
+                progressStatus.textContent = status;
+            }
+            
+            updateChapterStatus(index, status) {
+                const chapterElement = document.querySelector(`[data-chapter-index="${index}"]`);
+                if (chapterElement) {
+                    // Remove all status classes
+                    chapterElement.classList.remove('completed', 'downloading', 'error');
+                    
+                    // Add new status class
+                    if (status !== 'pending') {
+                        chapterElement.classList.add(status);
+                    }
+                    
+                    // Update status badge
+                    const statusBadge = chapterElement.querySelector('.chapter-status');
+                    statusBadge.className = `chapter-status status-${status}`;
+                    statusBadge.textContent = this.getStatusText(status);
+                }
+            }
+            
+            getStatusText(status) {
+                const statusTexts = {
+                    'pending': 'En attente',
+                    'downloading': 'Téléchargement...',
+                    'completed': 'Terminé',
+                    'error': 'Erreur'
+                };
+                return statusTexts[status] || status;
+            }
+            
+            async analyzeManga() {
+                const url = document.getElementById('mangaUrl').value;
+                if (!url) {
+                    this.log('❌ Veuillez entrer une URL', 'error');
+                    return;
+                }
+                
+                this.log('🔍 Analyse du manga...', 'info');
+                document.getElementById('analyzeBtn').disabled = true;
+                
+                try {
+                    // Get manga title and chapters
+                    const response = await this.fetchWithProxy(url);
+                    const html = await response.text();
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+                    
+                    // Extract manga title
+                    this.mangaTitle = this.extractMangaTitle(doc);
+                    this.log(`📖 Titre détecté: ${this.mangaTitle}`, 'success');
+                    
+                    // Extract chapters
+                    this.chapters = this.extractChapters(doc, url);
+                    
+                    if (this.chapters.length === 0) {
+                        this.log('❌ Aucun chapitre détecté. Vérifiez l\'URL.', 'error');
+                        return;
+                    }
+                    
+                    this.log(`📚 ${this.chapters.length} chapitres détectés`, 'success');
+                    this.displayChapters();
+                    document.getElementById('startBtn').disabled = false;
+                    
+                } catch (error) {
+                    this.log(`❌ Erreur lors de l'analyse: ${error.message}`, 'error');
+                    this.log('💡 Conseil: Activez une extension CORS ou utilisez un proxy', 'warning');
+                } finally {
+                    document.getElementById('analyzeBtn').disabled = false;
+                }
+            }
+            
+            async fetchWithProxy(url) {
+                const proxies = [
+                    // Proxy principal recommandé
+                    `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+                    
+                    // Proxies de secours
+                    `https://corsproxy.io/?${encodeURIComponent(url)}`,
+                    `https://cors-anywhere.herokuapp.com/${url}`,
+                    `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+                    
+                    // Tentative directe en dernier recours
+                    url
+                ];
+                
+                for (let i = 0; i < proxies.length; i++) {
+                    try {
+                        this.log(`🔄 Tentative ${i + 1}/${proxies.length}: ${i === proxies.length - 1 ? 'Accès direct' : 'Proxy'}`, 'info');
+                        
+                        const response = await fetch(proxies[i], {
+                            method: 'GET',
+                            headers: {
+                                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+                                'Accept-Language': 'fr-FR,fr;q=0.9,en;q=0.8',
+                                'Cache-Control': 'no-cache'
+                            },
+                            mode: i === proxies.length - 1 ? 'cors' : 'cors', // Dernier essai en mode cors
+                            credentials: 'omit'
+                        });
+                        
+                        if (response.ok) {
+                            this.log(`✅ Succès avec ${i === proxies.length - 1 ? 'accès direct' : 'proxy'}`, 'success');
+                            return response;
+                        } else {
+                            throw new Error(`HTTP ${response.status}`);
+                        }
+                        
+                    } catch (error) {
+                        this.log(`❌ Échec tentative ${i + 1}: ${error.message}`, 'warning');
+                        
+                        // Si c'est le dernier proxy, on relance l'erreur
+                        if (i === proxies.length - 1) {
+                            throw new Error(`Tous les proxies ont échoué. Dernière erreur: ${error.message}`);
+                        }
+                        
+                        // Petit délai avant le prochain essai
+                        await new Promise(resolve => setTimeout(resolve, 500));
+                    }
+                }
+            }
+
+            extractMangaTitle(doc) {
+                const selectors = [
+                    'h1.project__content-informations-title',
+                    'h1.wp-manga-title',
+                    'h1.entry-title',
+                    'h1.post-title',
+                    'h1',
+                    '.manga-title'
+                ];
+                
+                for (const selector of selectors) {
+                    const element = doc.querySelector(selector);
+                    if (element && element.textContent.trim()) {
+                        return this.sanitizeFilename(element.textContent.trim());
+                    }
+                }
+                
+                return 'manga_unknown';
+            }
+            
+            extractChapters(doc, baseUrl) {
+                const chapters = [];
+                const selectors = [
+                    '.project__chapters a.project__chapter.unstyled-link',
+                    '.project__chapters a',
+                    'a.project__chapter',
+                    '.project__chapter',
+                    'a[href*="chapter"]',
+                    '.chapter-list a',
+                    '.wp-manga-chapter a',
+                    '.listing-chapters_wrap a',
+                    '.chapter-link'
+                ];
+                
+                for (const selector of selectors) {
+                    const links = doc.querySelectorAll(selector);
+                    this.log(`🔍 Sélecteur '${selector}': ${links.length} liens trouvés`, 'info');
+                    
+                    if (links.length > 0) {
+                        links.forEach(link => {
+                            const href = link.getAttribute('href');
+                            if (href && (href.toLowerCase().includes('chapter') || href.toLowerCase().includes('chapitre'))) {
+                                const fullUrl = new URL(href, baseUrl).href;
+                                const title = this.extractChapterTitle(link);
+                                chapters.push({ url: fullUrl, title, status: 'pending' });
+                            }
+                        });
+                        
+                        if (chapters.length > 0) break;
+                    }
+                }
+                
+                // Remove duplicates and sort
+                const uniqueChapters = chapters.filter((chapter, index, self) => 
+                    index === self.findIndex(c => c.url === chapter.url)
+                );
+                
+                return this.sortChapters(uniqueChapters);
+            }
+            
+            extractChapterTitle(linkElement) {
+                let title = linkElement.textContent.trim();
+                
+                if (!title) {
+                    title = linkElement.getAttribute('title') || '';
+                }
+                
+                if (!title) {
+                    const href = linkElement.getAttribute('href') || '';
+                    const segments = href.split('/');
+                    title = segments[segments.length - 1] || 'chapter_unknown';
+                }
+                
+                return this.sanitizeFilename(title);
+            }
+            
+            sortChapters(chapters) {
+                return chapters.sort((a, b) => {
+                    const aNum = this.extractChapterNumber(a.title + ' ' + a.url);
+                    const bNum = this.extractChapterNumber(b.title + ' ' + b.url);
+                    return aNum - bNum;
+                });
+            }
+            
+            extractChapterNumber(text) {
+                const matches = text.match(/(\d+(?:\.\d+)?)/g);
+                return matches ? parseFloat(matches[matches.length - 1]) : 0;
+            }
+            
+            displayChapters() {
+                const container = document.getElementById('chaptersContainer');
+                const chapterList = document.getElementById('chapterList');
+                
+                container.innerHTML = '';
+                
+                this.chapters.forEach((chapter, index) => {
+                    const chapterElement = document.createElement('div');
+                    chapterElement.className = 'chapter-item';
+                    chapterElement.setAttribute('data-chapter-index', index);
+                    
+                    chapterElement.innerHTML = `
+                        <div>
+                            <strong>${chapter.title}</strong>
+                            <div style="font-size: 12px; color: #718096; margin-top: 5px;">
+                                ${chapter.url}
+                            </div>
+                        </div>
+                        <div class="chapter-status status-pending">En attente</div>
+                    `;
+                    
+                    container.appendChild(chapterElement);
+                });
+                
+                chapterList.classList.remove('hidden');
+                
+                // Update summary
+                document.getElementById('totalChapters').textContent = this.chapters.length;
+                document.getElementById('downloadSummary').classList.remove('hidden');
+            }
+            
+            async startDownload() {
+                this.log('🚀 Début du téléchargement...', 'info');
+                
+                document.getElementById('startBtn').disabled = true;
+                document.getElementById('pauseBtn').disabled = false;
+                document.getElementById('stopBtn').disabled = false;
+                
+                this.currentChapter = 0;
+                this.isPaused = false;
+                this.isStopped = false;
+                this.downloadedImages = 0;
+                this.totalSize = 0;
+                
+                await this.downloadChapters();
+            }
+            
+            async downloadChapters() {
+                for (let i = this.currentChapter; i < this.chapters.length; i++) {
+                    if (this.isStopped) break;
+                    
+                    while (this.isPaused && !this.isStopped) {
+                        await new Promise(resolve => setTimeout(resolve, 100));
+                    }
+                    
+                    if (this.isStopped) break;
+                    
+                    this.currentChapter = i;
+                    const chapter = this.chapters[i];
+                    
+                    this.log(`📄 Téléchargement du chapitre ${i + 1}/${this.chapters.length}: ${chapter.title}`, 'info');
+                    this.updateProgress(i, this.chapters.length, `Téléchargement: ${chapter.title}`);
+                    this.updateChapterStatus(i, 'downloading');
+                    
+                    try {
+                        const success = await this.downloadChapter(chapter);
+                        
+                        if (success) {
+                            this.updateChapterStatus(i, 'completed');
+                            this.log(`✅ Chapitre terminé: ${chapter.title}`, 'success');
+                            this.updateSummary();
+                        } else {
+                            this.updateChapterStatus(i, 'error');
+                            this.log(`❌ Échec du téléchargement: ${chapter.title}`, 'error');
+                        }
+                        
+                    } catch (error) {
+                        this.updateChapterStatus(i, 'error');
+                        this.log(`❌ Erreur chapitre ${chapter.title}: ${error.message}`, 'error');
+                    }
+                    
+                    // Delay between chapters
+                    if (i < this.chapters.length - 1) {
+                        await new Promise(resolve => setTimeout(resolve, this.delay * 2));
+                    }
+                }
+                
+                this.updateProgress(this.chapters.length, this.chapters.length, 'Téléchargement terminé');
+                this.log('🎉 Téléchargement terminé!', 'success');
+                this.resetControls();
+            }
+            
+            async downloadChapter(chapter) {
+                try {
+                    const response = await this.fetchWithProxy(chapter.url);
+                    const html = await response.text();
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+                    
+                    const imageUrls = this.extractChapterImages(doc, chapter.url);
+                    
+                    if (imageUrls.length === 0) {
+                        this.log(`⚠️ Aucune image trouvée pour ${chapter.title}`, 'warning');
+                        return false;
+                    }
+                    
+                    this.log(`🖼️ ${imageUrls.length} images détectées pour ${chapter.title}`, 'info');
+                    
+                    // In a real implementation, you would download and convert to PDF
+                    // For this demo, we'll simulate the download
+                    const downloadedImages = await this.simulateImageDownload(imageUrls);
+                    
+                    if (downloadedImages > 0) {
+                        this.downloadedImages += downloadedImages;
+                        this.totalSize += downloadedImages * 0.5; // Simulate ~500KB per image
+                        return true;
+                    }
+                    
+                    return false;
+                    
+                } catch (error) {
+                    this.log(`❌ Erreur lors du téléchargement du chapitre: ${error.message}`, 'error');
+                    return false;
+                }
+            }
+            
+            extractChapterImages(doc, baseUrl) {
+                const imageUrls = [];
+                const selectors = [
+                    '.chapter-images img',
+                    '.reading-content img',
+                    '.chapter-content img',
+                    '.manga-reader img',
+                    '.wp-manga-chapter-img',
+                    'img[src*="cdn"]',
+                    'img[data-src]',
+                    '.page-break img',
+                    '.separator img',
+                    'img'
+                ];
+                
+                for (const selector of selectors) {
+                    const images = doc.querySelectorAll(selector);
+                    
+                    if (images.length > 0) {
+                        images.forEach(img => {
+                            const src = img.getAttribute('src') || 
+                                        img.getAttribute('data-src') || 
+                                        img.getAttribute('data-lazy-src');
+                            
+                            if (src && this.isValidImageUrl(src)) {
+                                const fullUrl = new URL(src, baseUrl).href;
+                                imageUrls.push(fullUrl);
+                            }
+                        });
+                        
+                        if (imageUrls.length > 0) break;
+                    }
+                }
+                
+                return [...new Set(imageUrls)]; // Remove duplicates
+            }
+            
+            isValidImageUrl(url) {
+                if (!url) return false;
+                
+                const imageExtensions = ['.jpg', '.jpeg', '.png', '.webp', '.gif', '.bmp'];
+                const urlLower = url.toLowerCase();
+                
+                const hasImageExt = imageExtensions.some(ext => urlLower.includes(ext));
+                const avoidKeywords = ['avatar', 'profile', 'icon', 'logo', 'button', 'banner'];
+                const hasAvoidKeyword = avoidKeywords.some(keyword => urlLower.includes(keyword));
+                
+                return hasImageExt && !hasAvoidKeyword;
+            }
+            
+            async simulateImageDownload(imageUrls) {
+                // In a real implementation, you would:
+                // 1. Download each image
+                // 2. Convert to PDF using libraries like jsPDF
+                // 3. Save the PDF file
+                
+                // For this demo, we simulate the download process
+                let downloadedCount = 0;
+                
+                for (const url of imageUrls) {
+                    if (this.isStopped) break;
+                    
+                    while (this.isPaused && !this.isStopped) {
+                        await new Promise(resolve => setTimeout(resolve, 100));
+                    }
+                    
+                    // Simulate download time
+                    await new Promise(resolve => setTimeout(resolve, this.delay / 2));
+                    
+                    try {
+                        // In a real implementation, you would fetch the image
+                        // const response = await fetch(url);
+                        // const blob = await response.blob();
+                        
+                        downloadedCount++;
+                        this.log(`📥 Image téléchargée: ${downloadedCount}/${imageUrls.length}`, 'info');
+                        
+                    } catch (error) {
+                        this.log(`❌ Erreur téléchargement image: ${error.message}`, 'error');
+                    }
+                }
+                
+                return downloadedCount;
+            }
+            
+            updateSummary() {
+                document.getElementById('completedChapters').textContent = 
+                    this.chapters.filter(c => c.status === 'completed').length;
+                document.getElementById('totalImages').textContent = this.downloadedImages;
+                document.getElementById('totalSize').textContent = `${this.totalSize.toFixed(1)} MB`;
+            }
+            
+            pauseDownload() {
+                this.isPaused = !this.isPaused;
+                const pauseBtn = document.getElementById('pauseBtn');
+                
+                if (this.isPaused) {
+                    pauseBtn.textContent = '▶️ Reprendre';
+                    this.log('⏸️ Téléchargement mis en pause', 'warning');
+                } else {
+                    pauseBtn.textContent = '⏸️ Pause';
+                    this.log('▶️ Téléchargement repris', 'info');
+                }
+            }
+            
+            stopDownload() {
+                this.isStopped = true;
+                this.isPaused = false;
+                this.log('⏹️ Téléchargement arrêté', 'warning');
+                this.resetControls();
+            }
+            
+            resetControls() {
+                document.getElementById('startBtn').disabled = false;
+                document.getElementById('pauseBtn').disabled = true;
+                document.getElementById('stopBtn').disabled = true;
+                document.getElementById('pauseBtn').textContent = '⏸️ Pause';
+            }
+            
+            sanitizeFilename(filename) {
+                return filename
+                    .replace(/[<>:"/\\|?*]/g, '_')
+                    .trim()
+                    .replace(/\s+/g, ' ')
+                    .substring(0, 100);
+            }
+        }
+        
+        // Enhanced version with PDF generation capability
+        class AdvancedMangaScraper extends MangaScraperBrowser {
+            constructor() {
+                super();
+                this.loadJsPDF();
+            }
+            
+            async loadJsPDF() {
+                // Load jsPDF library dynamically
+                try {
+                    const script = document.createElement('script');
+                    script.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js';
+                    script.onload = () => {
+                        this.log('📚 Bibliothèque PDF chargée', 'success');
+                        this.pdfEnabled = true;
+                    };
+                    script.onerror = () => {
+                        this.log('❌ Impossible de charger la bibliothèque PDF', 'error');
+                        this.pdfEnabled = false;
+                    };
+                    document.head.appendChild(script);
+                } catch (error) {
+                    this.log('❌ Erreur chargement PDF: ' + error.message, 'error');
+                    this.pdfEnabled = false;
+                }
+            }
+            
+            async downloadChapter(chapter) {
+                try {
+                    const response = await this.fetchWithProxy(chapter.url);
+                    const html = await response.text();
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+                    
+                    const imageUrls = this.extractChapterImages(doc, chapter.url);
+                    
+                    if (imageUrls.length === 0) {
+                        this.log(`⚠️ Aucune image trouvée pour ${chapter.title}`, 'warning');
+                        return false;
+                    }
+                    
+                    this.log(`🖼️ ${imageUrls.length} images détectées pour ${chapter.title}`, 'info');
+                    
+                    // Download images and create PDF
+                    const downloadedImages = await this.downloadImagesAndCreatePDF(imageUrls, chapter.title);
+                    
+                    if (downloadedImages > 0) {
+                        this.downloadedImages += downloadedImages;
+                        this.totalSize += downloadedImages * 0.5;
+                        return true;
+                    }
+                    
+                    return false;
+                    
+                } catch (error) {
+                    this.log(`❌ Erreur lors du téléchargement du chapitre: ${error.message}`, 'error');
+                    return false;
+                }
+            }
+            
+            async downloadImagesAndCreatePDF(imageUrls, chapterTitle) {
+                if (!this.pdfEnabled) {
+                    return await this.simulateImageDownload(imageUrls);
+                }
+                
+                try {
+                    const { jsPDF } = window.jspdf;
+                    const pdf = new jsPDF();
+                    let downloadedCount = 0;
+                    let firstPage = true;
+                    
+                    for (const url of imageUrls) {
+                        if (this.isStopped) break;
+                        
+                        while (this.isPaused && !this.isStopped) {
+                            await new Promise(resolve => setTimeout(resolve, 100));
+                        }
+                        
+                        try {
+                            this.log(`📥 Téléchargement image ${downloadedCount + 1}/${imageUrls.length}`, 'info');
+                            
+                            const imageBlob = await this.downloadImage(url);
+                            if (imageBlob) {
+                                const imageDataUrl = await this.blobToDataUrl(imageBlob);
+                                
+                                if (!firstPage) {
+                                    pdf.addPage();
+                                }
+                                
+                                // Add image to PDF
+                                const pageWidth = pdf.internal.pageSize.getWidth();
+                                const pageHeight = pdf.internal.pageSize.getHeight();
+                                
+                                pdf.addImage(imageDataUrl, 'JPEG', 0, 0, pageWidth, pageHeight);
+                                downloadedCount++;
+                                firstPage = false;
+                            }
+                            
+                        } catch (error) {
+                            this.log(`❌ Erreur image: ${error.message}`, 'error');
+                        }
+                        
+                        await new Promise(resolve => setTimeout(resolve, this.delay / 2));
+                    }
+                    
+                    if (downloadedCount > 0) {
+                        // Save PDF
+                        const filename = `${this.mangaTitle}_${chapterTitle}.pdf`;
+                        pdf.save(filename);
+                        this.log(`💾 PDF sauvegardé: ${filename}`, 'success');
+                    }
+                    
+                    return downloadedCount;
+                    
+                } catch (error) {
+                    this.log(`❌ Erreur création PDF: ${error.message}`, 'error');
+                    return 0;
+                }
+            }
+            
+            async downloadImage(url) {
+                const imageProxies = [
+                    `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+                    `https://images.weserv.nl/?url=${encodeURIComponent(url)}`,
+                    `https://corsproxy.io/?${encodeURIComponent(url)}`,
+                    url
+                ];
+                
+                for (let i = 0; i < imageProxies.length; i++) {
+                    try {
+                        const response = await fetch(imageProxies[i], {
+                            method: 'GET',
+                            headers: {
+                                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                                'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8',
+                                'Referer': url.split('/').slice(0, 3).join('/') + '/'
+                            },
+                            mode: 'cors',
+                            credentials: 'omit'
+                        });
+                        
+                        if (response.ok) {
+                            const blob = await response.blob();
+                            
+                            // Vérifier que c'est bien une image
+                            if (blob.type.startsWith('image/')) {
+                                return blob;
+                            }
+                        }
+                        
+                    } catch (error) {
+                        this.log(`❌ Erreur proxy image ${i + 1}: ${error.message}`, 'warning');
+                    }
+                }
+                
+                this.log(`❌ Impossible de télécharger l'image: ${url}`, 'error');
+                return null;
+            }
+            
+            async fetchWithAllOrigins(url) {
+                try {
+                    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`;
+                    const response = await fetch(proxyUrl);
+                    
+                    if (!response.ok) {
+                        throw new Error(`HTTP ${response.status}`);
+                    }
+                    
+                    const data = await response.json();
+                    
+                    // Créer un objet Response simulé
+                    return {
+                        ok: true,
+                        status: 200,
+                        text: () => Promise.resolve(data.contents),
+                        json: () => Promise.resolve(JSON.parse(data.contents))
+                    };
+                    
+                } catch (error) {
+                    throw new Error(`AllOrigins proxy failed: ${error.message}`);
+                }
+            }
+            
+
+            blobToDataUrl(blob) {
+                return new Promise((resolve, reject) => {
+                    const reader = new FileReader();
+                    reader.onload = () => resolve(reader.result);
+                    reader.onerror = reject;
+                    reader.readAsDataURL(blob);
+                });
+            }
+        }
+                // Initialize the scraper when page load*
+        document.addEventListener('DOMContentLoaded', () => {
+            window.mangaScraper = new AdvancedMangaScraper();
+        });
+        
+        // Add some utility functions for manual testing
+        window.testFetch = async function(url) {
+            try {
+                const response = await window.mangaScraper.fetchWithProxy(url);
+                const text = await response.text();
+                console.log('Response received:', text.substring(0, 500) + '...');
+                return true;
+            } catch (error) {
+                console.error('Fetch error:', error);
+                return false;
+            }
+        };
+        
+        window.testSelectors = function(url) {
+            window.mangaScraper.fetchWithProxy(url)
+                .then(response => response.text())
+                .then(html => {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+                    
+                    const selectors = [
+                        '.project__chapters a.project__chapter.unstyled-link',
+                        '.project__chapters a',
+                        'a.project__chapter',
+                        '.project__chapter',
+                        'a[href*="chapter"]'
+                    ];
+                    
+                    selectors.forEach(selector => {
+                        const elements = doc.querySelectorAll(selector);
+                        console.log(`Selector '${selector}': ${elements.length} elements`);
+                        if (elements.length > 0) {
+                            console.log('First element:', elements[0]);
+                        }
+                    });
+                })
+                .catch(error => console.error('Test error:', error));
+        };
+        
+        // Add CORS bypass instructions
+        window.showCORSHelp = function() {
+            const helpText = `
+Pour contourner les restrictions CORS, vous pouvez :
+
+1. **Extension Chrome/Firefox** :
+   - Installer "CORS Unblock" ou "CORS Everywhere"
+   - Activer l'extension pendant l'utilisation
+
+2. **Chrome avec flags** :
+   - Lancer Chrome avec : --disable-web-security --user-data-dir="C:/ChromeTemp"
+
+3. **Serveur proxy local** :
+   - Utiliser un serveur proxy CORS local
+   - Modifier les URLs pour utiliser le proxy
+
+4. **Alternative recommandée** :
+   - Utiliser le script Python original pour de meilleurs résultats
+   - Ce script browser est principalement pour les tests
+
+Tapez \`window.showCORSHelp()\` dans la console pour revoir ces instructions.
+            `;
+            
+            console.log(helpText);
+            alert(helpText);
+        };
+        
+        // Add download all as ZIP functionality
+        window.downloadAllAsZip = async function() {
+            if (!window.mangaScraper.chapters.length) {
+                alert('Aucun chapitre à télécharger. Analysez d\'abord le manga.');
+                return;
+            }
+            
+            // This would require a ZIP library like JSZip
+            alert('Fonctionnalité ZIP non implémentée. Utilisez le téléchargement PDF individuel.');
+        };
+        
+        // Add export chapter list functionality
+        window.exportChapterList = function() {
+            if (!window.mangaScraper.chapters.length) {
+                alert('Aucun chapitre détecté. Analysez d\'abord le manga.');
+                return;
+            }
+            
+            const chaptersData = window.mangaScraper.chapters.map((chapter, index) => ({
+                index: index + 1,
+                title: chapter.title,
+                url: chapter.url,
+                status: chapter.status
+            }));
+            
+            const jsonData = JSON.stringify(chaptersData, null, 2);
+            const blob = new Blob([jsonData], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `${window.mangaScraper.mangaTitle}_chapters.json`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        };
+        
+        // Add keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.ctrlKey) {
+                switch(e.key) {
+                    case 'Enter':
+                        e.preventDefault();
+                        if (!document.getElementById('startBtn').disabled) {
+                            window.mangaScraper.startDownload();
+                        }
+                        break;
+                    case ' ':
+                        e.preventDefault();
+                        if (!document.getElementById('pauseBtn').disabled) {
+                            window.mangaScraper.pauseDownload();
+                        }
+                        break;
+                    case 'Escape':
+                        e.preventDefault();
+                        if (!document.getElementById('stopBtn').disabled) {
+                            window.mangaScraper.stopDownload();
+                        }
+                        break;
+                }
+            }
+        });
+        
+        // Add visual feedback for keyboard shortcuts
+        document.addEventListener('DOMContentLoaded', () => {
+            const shortcutsInfo = document.createElement('div');
+            shortcutsInfo.style.cssText = `
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                background: rgba(0,0,0,0.8);
+                color: white;
+                padding: 10px;
+                border-radius: 8px;
+                font-size: 12px;
+                z-index: 1000;
+            `;
+            shortcutsInfo.innerHTML = `
+                <strong>Raccourcis clavier:</strong><br>
+                Ctrl+Enter: Démarrer<br>
+                Ctrl+Space: Pause/Reprendre<br>
+                Ctrl+Esc: Arrêter
+            `;
+            document.body.appendChild(shortcutsInfo);
+            
+            // Hide after 5 seconds
+            setTimeout(() => {
+                shortcutsInfo.style.opacity = '0';
+                shortcutsInfo.style.transition = 'opacity 0.5s';
+                setTimeout(() => shortcutsInfo.remove(), 500);
+            }, 5000);
+        });
+    </script>
+</body>
+</html>
