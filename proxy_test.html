@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure Manga Scraper Proxy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .control-panel {
+            margin: 20px 0;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        #proxyContainer {
+            width: 100%;
+            height: 700px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            position: relative;
+        }
+        #proxyFrame {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        .url-input {
+            width: 70%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-right: 10px;
+        }
+        .btn {
+            padding: 10px 20px;
+            background: #4a6fa5;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background: #3a5a8a;
+        }
+        .status {
+            margin-top: 15px;
+            padding: 12px;
+            border-radius: 4px;
+            display: none;
+        }
+        .status.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            display: block;
+        }
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            display: block;
+        }
+        .loading-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255,255,255,0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 100;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Secure Manga Scraper Proxy</h1>
+        
+        <div class="control-panel">
+            <input type="text" class="url-input" id="targetUrl" 
+                   placeholder="Enter manga URL" 
+                   value="https://phenix-scans.com/manga/a-modern-man-who-transmigrated-into-the-murim-world">
+            <button class="btn" onclick="loadContent()">Load Content</button>
+            <div id="status" class="status"></div>
+        </div>
+        
+        <div id="proxyContainer">
+            <div id="loadingOverlay" class="loading-overlay" style="display: none;">
+                <div>Loading content through proxy...</div>
+            </div>
+            <iframe id="proxyFrame" sandbox="allow-same-origin"></iframe>
+        </div>
+    </div>
+
+    <script>
+        // Enhanced proxy URL construction
+        function getProxyUrl(targetUrl) {
+            // Encode the URL component and handle protocol
+            const encodedUrl = encodeURIComponent(targetUrl);
+            return `http://localhost:5000/proxy-content?url=${encodedUrl}`;
+        }
+
+        // Alternative content loading method
+        async function fetchAndDisplay() {
+            const targetUrl = document.getElementById('targetUrl').value.trim();
+            const statusElement = document.getElementById('status');
+            const loadingOverlay = document.getElementById('loadingOverlay');
+            
+            if (!targetUrl) {
+                showStatus("Please enter a valid URL", "error");
+                return;
+            }
+
+            try {
+                loadingOverlay.style.display = 'flex';
+                showStatus("Fetching content through proxy...", "info");
+                
+                const proxyUrl = getProxyUrl(targetUrl);
+                const response = await fetch(proxyUrl);
+                
+                if (!response.ok) {
+                    throw new Error(`Proxy error: ${response.status} ${response.statusText}`);
+                }
+                
+                const html = await response.text();
+                
+                // Create a new document in the iframe
+                const iframe = document.getElementById('proxyFrame');
+                iframe.srcdoc = html;
+                
+                showStatus("Content loaded successfully", "info");
+            } catch (error) {
+                console.error("Proxy fetch error:", error);
+                showStatus(`Error: ${error.message}`, "error");
+            } finally {
+                loadingOverlay.style.display = 'none';
+            }
+        }
+
+        function showStatus(message, type) {
+            const statusElement = document.getElementById('status');
+            statusElement.textContent = message;
+            statusElement.className = `status ${type}`;
+        }
+
+        // Main load function with fallback
+        async function loadContent() {
+            try {
+                await fetchAndDisplay();
+            } catch (error) {
+                console.error("Content loading failed:", error);
+                showStatus(`Failed to load content: ${error.message}`, "error");
+            }
+        }
+
+        // Initialize with default URL
+        window.addEventListener('DOMContentLoaded', () => {
+            loadContent();
+        });
+    </script>
+</body>
+</html>

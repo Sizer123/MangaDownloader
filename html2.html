@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manga Scraper</title>
+    <style>
+        /* (Keep all your existing styles) */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Manga Scraper</h1>
+        
+        <div class="form-group">
+            <label for="mangaUrl">Manga URL:</label>
+            <input type="text" id="mangaUrl" value="https://phenix-scans.com/manga/a-modern-man-who-transmigrated-into-the-murim-world">
+        </div>
+        
+        <div class="controls">
+            <button id="startBtn">Start Scraping</button>
+            <button id="stopBtn" disabled>Stop</button>
+            <button id="downloadBtn" disabled>Download JSON</button>
+        </div>
+        
+        <div class="iframe-container">
+            <iframe id="scraperFrame" sandbox="allow-same-origin allow-scripts"></iframe>
+        </div>
+        
+        <div class="status" id="status">Ready</div>
+        <progress id="progressBar" value="0" max="100"></progress>
+        <div id="progressText">0%</div>
+        
+        <div id="log"></div>
+    </div>
+
+    <script>
+        class MangaScraper {
+            constructor(baseUrl, delay = 1000, updateCallback) {
+                this.baseUrl = baseUrl;
+                this.delay = delay;
+                this.updateCallback = updateCallback;
+                this.shouldStop = false;
+                this.result = {
+                    mangaTitle: "",
+                    chapters: [],
+                    totalImages: 0,
+                    createdAt: new Date().toISOString()
+                };
+                this.iframe = document.getElementById('scraperFrame');
+            }
+
+            log(message, level = 'info') {
+                const timestamp = new Date().toISOString();
+                const logLine = `${timestamp} - ${level.toUpperCase()} - ${message}`;
+                console.log(logLine);
+                this.updateCallback('log', { message, level });
+            }
+
+            async navigateTo(url) {
+                return new Promise((resolve) => {
+                    this.iframe.src = url;
+                    this.iframe.onload = () => {
+                        setTimeout(resolve, this.delay);
+                    };
+                });
+            }
+
+            async executeInFrame(code) {
+                return new Promise((resolve) => {
+                    const listener = (event) => {
+                        if (event.data.type === 'result') {
+                            window.removeEventListener('message', listener);
+                            resolve(event.data.result);
+                        }
+                    };
+                    window.addEventListener('message', listener);
+                    
+                    this.iframe.contentWindow.postMessage({
+                        type: 'execute',
+                        code: code
+                    }, '*');
+                });
+            }
+
+            async getPageContent() {
+                try {
+                    const doc = await this.executeInFrame(`
+                        (function() {
+                            return {
+                                title: document.title,
+                                html: document.documentElement.outerHTML,
+                                url: window.location.href
+                            };
+                        })();
+                    `);
+                    return doc;
+                } catch (error) {
+                    this.log(`Failed to get page content: ${error}`, 'error');
+                    return null;
+                }
+            }
+
+            sanitizeFilename(filename) {
+                return filename.replace(/[<>:"/\\|?*]/g, '_')
+                    .trim()
+                    .replace(/\s+/g, ' ')
+                    .substring(0, 100);
+            }
+
+            async getMangaTitle() {
+                try {
+                    await this.navigateTo(this.baseUrl);
+                    const doc = await this.getPageContent();
+                    
+                    const title = this.sanitizeFilename(doc.title);
+                    this.result.mangaTitle = title;
+                    this.log(`Found title: ${title}`);
+                    return title;
+                } catch (error) {
+                    this.log(`Error getting title: ${error}`, 'error');
+                    return "manga_unknown";
+                }
+            }
+
+            async getChapterLinks() {
+                try {
+                    await this.navigateTo(this.baseUrl);
+                    const result = await this.executeInFrame(`
+                        (function() {
+                            const selectors = [
+                                'a.project__chapter.unstyled-link',
+                            ];
+                            
+                            const links = [];
+                            for (const selector of selectors) {
+                                const elements = document.querySelectorAll(selector);
+                                if (elements.length > 0) {
+                                    elements.forEach(el => {
+                                        const href = el.href;
+                                        if (href && (href.includes('chapter') || href.includes('chapitre'))) {
+                                            let title = el.textContent.trim() || el.title || '';
+                                            if (!title) {
+                                                const segments = href.split('/');
+                                                title = segments[segments.length - 1];
+                                            }
+                                            links.push({
+                                                url: href,
+                                                title: title
+                                            });
+                                        }
+                                    });
+                                    break;
+                                }
+                            }
+                            return links;
+                        })();
+                    `);
+                    
+                    // Remove duplicates
+                    const uniqueLinks = [];
+                    const seenUrls = new Set();
+                    for (const chapter of result) {
+                        if (!seenUrls.has(chapter.url)) {
+                            uniqueLinks.push({
+                                url: chapter.url,
+                                title: this.sanitizeFilename(chapter.title)
+                            });
+                            seenUrls.add(chapter.url);
+                        }
+                    }
+                    
+                    // Sort chapters
+                    const sortedChapters = this.sortChapters(uniqueLinks);
+                    this.log(`Found ${sortedChapters.length} chapters`);
+                    return sortedChapters;
+                } catch (error) {
+                    this.log(`Error getting chapter links: ${error}`, 'error');
+                    return [];
+                }
+            }
+
+            sortChapters(chapters) {
+                return chapters.sort((a, b) => {
+                    const numA = this.extractChapterNumber(a.title);
+                    const numB = this.extractChapterNumber(b.title);
+                    return numA - numB;
+                });
+            }
+
+            extractChapterNumber(text) {
+                const matches = text.match(/(\d+(?:\.\d+)?)/);
+                return matches ? parseFloat(matches[0]) : 0;
+            }
+
+            async getChapterImages(chapterUrl) {
+                try {
+                    await this.navigateTo(chapterUrl);
+                    const result = await this.executeInFrame(`
+                        (function() {
+                            const selectors = [
+                                'img.chapter-image',
+                                
+                            ];
+                            
+                            const images = [];
+                            for (const selector of selectors) {
+                                const elements = document.querySelectorAll(selector);
+                                if (elements.length > 0) {
+                                    elements.forEach(img => {
+                                        const src = img.src || img.dataset.src || img.dataset.lazySrc;
+                                        if (src && !src.includes('avatar') && !src.includes('logo')) {
+                                            images.push(src);
+                                        }
+                                    });
+                                    break;
+                                }
+                            }
+                            return images;
+                        })();
+                    `);
+                    
+                    this.log(`Found ${result.length} images for chapter`);
+                    return result;
+                } catch (error) {
+                    this.log(`Error getting chapter images: ${error}`, 'error');
+                    return [];
+                }
+            }
+
+            stop() {
+                this.shouldStop = true;
+                this.log("Stopping scraper...", 'warn');
+            }
+
+            async scrapeManga() {
+                this.log("Starting manga scraping...");
+                
+                // Get manga title
+                await this.getMangaTitle();
+                this.updateCallback('status', `Scraping: ${this.result.mangaTitle}`);
+                
+                // Get chapters
+                const chapters = await this.getChapterLinks();
+                if (chapters.length === 0) {
+                    this.log("No chapters found", 'error');
+                    return;
+                }
+                
+                // Process each chapter
+                for (let i = 0; i < chapters.length; i++) {
+                    if (this.shouldStop) break;
+                    
+                    const chapter = chapters[i];
+                    this.log(`Processing chapter ${i+1}/${chapters.length}: ${chapter.title}`);
+                    this.updateCallback('progress', {
+                        value: (i / chapters.length) * 100,
+                        text: `Chapter ${i+1}/${chapters.length}`
+                    });
+                    
+                    const images = await this.getChapterImages(chapter.url);
+                    this.result.chapters.push({
+                        title: chapter.title,
+                        url: chapter.url,
+                        images: images,
+                        pageCount: images.length
+                    });
+                    this.result.totalImages += images.length;
+                    
+                    await new Promise(resolve => setTimeout(resolve, this.delay));
+                }
+                
+                this.log("Scraping complete!", 'success');
+                this.updateCallback('complete', this.result);
+            }
+        }
+
+        // UI Controller
+        document.addEventListener('DOMContentLoaded', function() {
+            const startBtn = document.getElementById('startBtn');
+            const stopBtn = document.getElementById('stopBtn');
+            const downloadBtn = document.getElementById('downloadBtn');
+            const logElement = document.getElementById('log');
+            const progressBar = document.getElementById('progressBar');
+            const progressText = document.getElementById('progressText');
+            const statusElement = document.getElementById('status');
+            
+            let scraper = null;
+            let resultData = null;
+            
+            function addLogEntry(message, level = 'info') {
+                const entry = document.createElement('div');
+                entry.className = `log-entry log-${level}`;
+                entry.textContent = message;
+                logElement.appendChild(entry);
+                logElement.scrollTop = logElement.scrollHeight;
+            }
+            
+            function clearLog() {
+                logElement.innerHTML = '';
+            }
+            
+            startBtn.addEventListener('click', async function() {
+                const mangaUrl = document.getElementById('mangaUrl').value.trim();
+                if (!mangaUrl) return alert('Please enter a URL');
+                
+                clearLog();
+                startBtn.disabled = true;
+                stopBtn.disabled = false;
+                downloadBtn.disabled = true;
+                
+                scraper = new MangaScraper(mangaUrl, 1000, (type, data) => {
+                    switch(type) {
+                        case 'log':
+                            addLogEntry(data.message, data.level);
+                            break;
+                        case 'status':
+                            statusElement.textContent = data;
+                            break;
+                        case 'progress':
+                            progressBar.value = data.value;
+                            progressText.textContent = `${Math.round(data.value)}% - ${data.text}`;
+                            break;
+                        case 'complete':
+                            resultData = data;
+                            downloadBtn.disabled = false;
+                            statusElement.textContent = `Complete! ${data.chapters.length} chapters, ${data.totalImages} images`;
+                            break;
+                    }
+                });
+                
+                try {
+                    await scraper.scrapeManga();
+                } catch (error) {
+                    addLogEntry(`Error: ${error.message}`, 'error');
+                } finally {
+                    startBtn.disabled = false;
+                    stopBtn.disabled = true;
+                }
+            });
+            
+            stopBtn.addEventListener('click', function() {
+                if (scraper) scraper.stop();
+            });
+            
+            downloadBtn.addEventListener('click', function() {
+                if (!resultData) return;
+                
+                const blob = new Blob([JSON.stringify(resultData, null, 2)], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `${resultData.mangaTitle || 'manga'}_data.json`;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+            });
+        });
+
+        // Iframe communication handler
+        window.addEventListener('message', (event) => {
+            const iframe = document.getElementById('scraperFrame');
+            if (event.source !== iframe.contentWindow) return;
+            
+            if (event.data.type === 'execute') {
+                try {
+                    const result = new Function(event.data.code)();
+                    iframe.contentWindow.postMessage({
+                        type: 'result',
+                        result: result
+                    }, '*');
+                } catch (error) {
+                    iframe.contentWindow.postMessage({
+                        type: 'error',
+                        error: error.message
+                    }, '*');
+                }
+            }
+        });
+    </script>
+</body>
+</html>
