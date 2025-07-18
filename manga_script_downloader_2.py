@@ -65,7 +65,7 @@ def create_cbr_from_folder(folder_path, output_path):
 
 def main():
     # Chemin vers le fichier JSON
-    json_file = 'manga_script_json.txt'  # Remplacez par le chemin de votre fichier
+    json_file = 'manga_script_json_infinite_mage.txt'  # Remplacez par le chemin de votre fichier
     
     try:
         # Lecture du fichier JSON

@@ -1,2 +1,6 @@
 manga_downloads
 reincarnation_of_the_suicidal_battle_god
+.DS_Store
+*.log
+*.tmp
+*.csv
