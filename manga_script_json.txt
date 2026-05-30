@@ -1,1164 +1,1027 @@
 {
-  "Chapitre 0 - Chapitre 0Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/0",
-    "images": [
-      "https://phenix-scans.com/api/uploads/a9f795792f834ad898e80355ead35ae5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bc780e1532ce49f98b1f7723a932621f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dc2de2f79b604e49955844ea072b6120.jpg?width=720"
-    ]
-  },
-  "Chapitre 1 - Chapitre 1Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/1",
-    "images": [
-      "https://phenix-scans.com/api/uploads/b4a6de74129a470d9e225d7134ee0d04.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a4ec6f845e7c4770af89a31423b02097.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/be9c6cfb219f43b89278da0766c03c86.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1ff89f071a384e77b2584a883ec8ed93.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7e4af8f122054cc194f71e3fd52dea09.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1117ee06d83947f8817dd2561f322fac.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bce8e6941a674e7496e9629d1e11fda2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e0445578f2564de3b50286818fddbfe8.jpg?width=720"
-    ]
-  },
-  "Chapitre 2 - Chapitre 2Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/2",
-    "images": [
-      "https://phenix-scans.com/api/uploads/984fb387b9514bfeb4c7e5f32743c5de.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ae95ba90fa294f2081ddb2765fb5333e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d5b62934a16c4563877d07e3314bf736.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/36f06198041e4a2b8977ef2beac3068d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/92d5da8d2a5b4cc9af9c3de5098d98c3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c991c06ae70f494c9d44822e9903a166.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/00a824aed818403587c6d3d34fcf20a1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4f017275336a440a9af93832545eab29.jpg?width=720"
-    ]
-  },
-  "Chapitre 3 - Chapitre 3Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/3",
-    "images": [
-      "https://phenix-scans.com/api/uploads/797792b6ad744d5db29522d4e93ddeb5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a1fb57c4dd2c4424a2077ca8b1ab45e8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f9b09e754da84ea9a228d83b27110314.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9904611b67aa4961a05574152a6c611c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/18eff4ff46d2465ca0c8f852cac369a1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0104e0ebce36443196dc8172b9d91357.jpg?width=720"
-    ]
-  },
-  "Chapitre 4 - Chapitre 4Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/4",
-    "images": [
-      "https://phenix-scans.com/api/uploads/cbe8f332627b4a4496aa81776ad6a351.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f2bce51a4c564dbda0fa51a5bef5d948.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/52c9254d913c41df87dfa566d3a523c1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/77093ccd8e01461db6ca78a9c3b46f73.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/24fd485ec1214dd2824e6a3f7ccf12fc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d4d5924144894650a6a1b4c7eccc82b3.jpg?width=720"
-    ]
-  },
-  "Chapitre 5 - Chapitre 5Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/5",
-    "images": [
-      "https://phenix-scans.com/api/uploads/c844cff6945b47d693c4f376901e5526.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9d6bd91bd0e945e79433744a5c977226.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/94f6f88d7bf54d1baec84243be899de9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2c043b28cbe74ecea6ac3512aad1a739.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1906d91499434ed99f75bbf8cc594f43.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f2f2750bdb424f359f802741ccacb0ba.jpg?width=720"
-    ]
-  },
-  "Chapitre 6 - Chapitre 6Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/6",
-    "images": [
-      "https://phenix-scans.com/api/uploads/b2eb478a5bf6444f9c400b0fd88c3673.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e49be4a1d11b4ccea19ae0281f2336a6.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c3fb7f9ff68f43aaa6eee827e13b686d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/6e5bd5e630ff479688e5e859d6ea6883.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/01daded9f62a4593a8b9ba9e90f44695.jpg?width=720"
-    ]
-  },
-  "Chapitre 7 - Chapitre 7Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/7",
-    "images": [
-      "https://phenix-scans.com/api/uploads/1d145b7528e74c649359fb11b717111e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dd0ad136d9474739b9f5de78d8866201.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/96f7b0c498674a649cf9eb0623d1bd17.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8722b7fea5e44ffa970acad071588447.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0ef0de77d5c544b0a9197bb8d5fc0614.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a1a3700da21a4228bd832b47fed9dae6.jpg?width=720"
-    ]
-  },
-  "Chapitre 8 - Chapitre 8Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/8",
-    "images": [
-      "https://phenix-scans.com/api/uploads/7aa789f1da5f428bbaabce261664e40d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b80f460189bd421ea5cb6dfeada1d710.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/6b9165d720364e35a00bc5db279de4e4.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4838747381f9477a81cd2c05a1e42fc5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4e8f85f2eee5448e8b07ee83988e718d.jpg?width=720"
-    ]
-  },
-  "Chapitre 9 - Chapitre 9Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/9",
-    "images": [
-      "https://phenix-scans.com/api/uploads/2a1372d2ea0f41a9a8f9eae9c79c48db.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f06233fcbbd34aedbf99d8d8357ce782.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ffb003e20fd141af920db51ec4913a06.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c5ad0bd3f3b64da48804ffdd0f4596e7.jpg?width=720"
-    ]
-  },
-  "Chapitre 10 - Chapitre 10Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/10",
-    "images": [
-      "https://phenix-scans.com/api/uploads/381071b5be3c4120a89ae0276fca3524.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5502867e3de14128a87016bd1a9daa97.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3c20fff3f6074bb6aa7abce425c066b2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/35af8bc7d6ee46fcb1f72e01bf067449.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5a2324efbd9743ba9e7931cf88870f1b.jpg?width=720"
-    ]
-  },
-  "Chapitre 11 - Chapitre 11Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/11",
-    "images": [
-      "https://phenix-scans.com/api/uploads/e530c35fd7c84df79c32af295ffbf621.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7e4049205d674910a834c46444892f35.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fbdce46bc76243508ac230fc9b2f87d9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0cc7aa9905b44efeb55047aaa3cb6cb9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/856210baef4d4e849aad665ca3e075e1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/222aeac08f31429198b607bb88181c7f.jpg?width=720"
-    ]
-  },
-  "Chapitre 12 - Chapitre 12Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/12",
-    "images": [
-      "https://phenix-scans.com/api/uploads/29be5c687b90441da8aff7ee7266258b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/96eb848a14c04edcbc72158470d52fdf.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c9ca2630c75440879bc9c59d6839a4cd.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/128ab0718a684dbb80bbac88615556f8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c0467f7e399d498b890cab8ecf90f61f.jpg?width=720"
-    ]
-  },
-  "Chapitre 13 - Chapitre 13Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/13",
-    "images": [
-      "https://phenix-scans.com/api/uploads/b6a1fa84a87e4832bdb9170a29c5a421.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/53c7786b03ec4d78a2e0fe1eb0f992b4.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/526baf5019c64cfc9674708ec8bac391.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/74a5fae3e67a411fb0427ccc595e0e0b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f2103ec9867f4e70b4f268088cf7a678.jpg?width=720"
-    ]
-  },
-  "Chapitre 14 - Chapitre 14Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/14",
-    "images": [
-      "https://phenix-scans.com/api/uploads/e1ca701e3a1f4dcb92cdae1844cee5dc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ed9b8a811ec446c48d8f96ad269484fc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4415dab5ab094070a6701d49091bf7e3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/341b4deb55294c97b772372411f7e2b5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2ddb4e79527c48fc9c24f0d83dccf0f8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/40c7e9b5cae9416ca9e8a482f28fe901.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c35a7f2dd4bd4bff9443df1d3db1f173.jpg?width=720"
-    ]
-  },
-  "Chapitre 15 - Chapitre 15Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/15",
-    "images": [
-      "https://phenix-scans.com/api/uploads/a687b3b42a134fe1b797bb7cfdb5c262.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3129dceee72c4ab1bb7f9bb97e6ce9fe.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/be5278e94bc9476f9d51351a91e2dbdf.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/60be02688cbe4ba696fa7310c8a292be.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/861b3ad639cb48759487512178530f43.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f61101297bf24f0e8039b7aa76573ae7.jpg?width=720"
-    ]
-  },
-  "Chapitre 16 - Chapitre 16Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/16",
-    "images": [
-      "https://phenix-scans.com/api/uploads/15f4cf1a0b3f4b0cbfc8795a8ac30d04.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/917a2d414732431bb9e19c5ac2526d53.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9ebe4874d8144f2ab92fa60dbb781d69.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/aa72e0e9ba444acc89f560729bf570f2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4b8b5ecf0fc149a29fe6c982c2b841d8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f73c977f70374550a11cf7bd8fd93e07.jpg?width=720"
-    ]
-  },
-  "Chapitre 17 - Chapitre 17Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/17",
-    "images": [
-      "https://phenix-scans.com/api/uploads/d350295285e74e929a810f28ccb72822.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1ffe21ae22824019a7f24f0877bc7275.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e9e5504b616844639eadae273d7b3eeb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c7787fddefd6472caa618fedaee47b00.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bce13e7c4be041fb94168da8f86b568c.jpg?width=720"
-    ]
-  },
-  "Chapitre 18 - Chapitre 18Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/18",
-    "images": [
-      "https://phenix-scans.com/api/uploads/481342ece70649299ff184d59abf47d3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fc3cb4e337e24e9787251301d90c7ad5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e42c80f8f55b457b8cb7e2444afa9743.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b7699fdf65a74046a6def5588ed8ab77.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2264fe950ea7432e868e7b009b51e3d3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3ac4ecc7b81240eca7728f35960e6e34.jpg?width=720"
-    ]
-  },
-  "Chapitre 19 - Chapitre 19Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/19",
-    "images": [
-      "https://phenix-scans.com/api/uploads/8cb64e17f98f434a8824730010a8add9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2fd8913b8b854d56943656bf51d92a8b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f9ed7bf8182243ddb6dd9d4b1600502a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7c707d3d61e845549635fb52d5def2a2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/60308783b4824f12ad0a9cc18148cc2a.jpg?width=720"
-    ]
-  },
-  "Chapitre 20 - Chapitre 20Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/20",
-    "images": [
-      "https://phenix-scans.com/api/uploads/b0b95c6fb1b741678b530fc6276c5486.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/42e0a5a8415f46e49b2102de32c5683c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1a8e45e2f15d49d4ae1270faf149d619.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f10f036a0e594b9ea69d68cb1e2e2a61.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/db11efdb9ead4de0a0c7c5b43c0d94a5.jpg?width=720"
-    ]
-  },
-  "Chapitre 21 - Chapitre 21Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/21",
-    "images": [
-      "https://phenix-scans.com/api/uploads/52eaee9084ab4f2b96d7d013a2e033b8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a2d590fd16674b7bbe2aed297cdf433f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0bf3951594e346fe977b780f5750f3ef.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/86432fee38f742479dbc49e9268a28ac.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1327837840c4489bb933df61c3ed53fc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9b1f69b0c3cd475bbd7c412904ec638b.jpg?width=720"
-    ]
-  },
-  "Chapitre 22 - Chapitre 22Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/22",
-    "images": [
-      "https://phenix-scans.com/api/uploads/cbd01ff754414ee38d558734be039a18.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/774d947f5ce341c3a29fb8e9b2775712.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e73eb6937b14470cb2104888dda12ab8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/05c148234a054a3b951cf2859607bdb3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9f01310ca63d47819a1ae3216fd14ce8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f28c9bce0e604978bfb76980dc348fff.jpg?width=720"
-    ]
-  },
-  "Chapitre 23 - Chapitre 23Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/23",
-    "images": [
-      "https://phenix-scans.com/api/uploads/e166d7c7de164678b1ad8d8c0d4fe066.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/37e414b711f349658de0f1e5e5460813.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4bce1d97d98c4039b7a417255ac0af25.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8fb8306a10ff4aaf9de3bfb58df6f553.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bcd8e68ba9284deb973ada8447e2d8b3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3fb601d2b983456496411e601d49cbec.jpg?width=720"
-    ]
-  },
-  "Chapitre 24 - Chapitre 24Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/24",
-    "images": [
-      "https://phenix-scans.com/api/uploads/c3abe8360d53458ea3ad87a0a6dd3ec4.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8599a2cfaa7444c593f1032691339298.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1cc0e257ec984a46888a0525820ac94d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/54dfb198eb9b4a44bddf4b44f5a8aedd.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ce656c67ba894aa289d8a56406b9242e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f87c4223d12147229c6652a3ca445e44.jpg?width=720"
-    ]
-  },
-  "Chapitre 25 - Chapitre 25Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/25",
-    "images": [
-      "https://phenix-scans.com/api/uploads/99694b77df1b4f87aba294ef0ece7927.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/871dbea47bbe461585ad7c569d93c2ee.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d773a32058b140d483d1cdc92b82d00a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9c7a0f72cca34b268b29dd783df43be1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bb2abf7453674e9495d9d83b18fc2ad8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dc092bb8bee24c4aa46dd8974fe93535.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/70a3dfa2d2674e06af43cd6eec481bd4.jpg?width=720"
-    ]
-  },
-  "Chapitre 26 - Chapitre 26Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/26",
-    "images": [
-      "https://phenix-scans.com/api/uploads/5b909c86acdc41099779304d075062aa.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4c1dd287bc894e01a086ce502d892435.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/57fa67a2609247b48a6edda19b8c3f42.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c1a4bae44ec641b3b216a056ae7976b9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/178e1e47d1dc41258473d331a7cb6d5e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a4aa39d90f4a4223a6c29521be590ee9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a7013ef1c8f3420ea74c4f326a623ccf.jpg?width=720"
-    ]
-  },
-  "Chapitre 27 - Chapitre 27Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/27",
-    "images": [
-      "https://phenix-scans.com/api/uploads/c9559352a0e0441caf4f3b26fd8f18e1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5689fd9853c843fbaa94a64fcbc603ab.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9d62a6582aac4bfa866d56cb87714cde.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dd4c09224144499fb01dfe6466efffcc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e6a2218e5c8a4abdb01957b8728676ca.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4443d8dbadc748c4bbfe631b2b5e08b1.jpg?width=720"
-    ]
-  },
-  "Chapitre 28 - Chapitre 28Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/28",
-    "images": [
-      "https://phenix-scans.com/api/uploads/673f86335d1948899cea13de10201043.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/944e8d153ca34dedad48ee57cd14817c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5c4125c65311480cb8bbd10a852ae506.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1c63ffdedfca408db9a50bb567b427dc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2f79e99e683a457da66007c4bfcbc510.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/73161665a1cf4dcf88f605d4d52b1974.jpg?width=720"
-    ]
-  },
-  "Chapitre 29 - Chapitre 29Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/29",
-    "images": [
-      "https://phenix-scans.com/api/uploads/93cf73224c344b4e8c5bc86f901329a2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d7b1fc74199f4210aab11d05f536045e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f1d0dda7fb4042a0bab864620b88a927.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0a405e0b86f94c97a6e9b5fdd8267748.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c3ae2af40a4e468b90167300820bb1b1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/57a7a589a85f433ca96bbf39b3cd4f67.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c0bb1295575345efb1695a574f278d6f.jpg?width=720"
-    ]
-  },
-  "Chapitre 30 - Chapitre 30Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/30",
-    "images": [
-      "https://phenix-scans.com/api/uploads/a389ead4f7d64ba4a38193a108aaab2d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f6606ab7ea9949af84f75a5b63839ee1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fc0a247bfdd64e1896524000d97238f7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/aef3474154424d508ed8a24ba130eaf5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4ad9f6826fd04d89b7bb558a30439e81.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4916156166f84e6cbacefaec6a624bdc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2f50faa3668642688f076258e494739d.jpg?width=720"
-    ]
-  },
-  "Chapitre 31 - Chapitre 31Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/31",
-    "images": [
-      "https://phenix-scans.com/api/uploads/f63f3d7e953a4ec199e1f209c02b7913.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/255817d446734a7e9f906af24cec61a1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/90b94d7e7e5c4c1ca92fd602135cc6aa.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7239187ae24246b6a430813716ce2de6.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/36721dc9d5cf4ad29baedfdaed633be2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ffe0a40d226247c9aca59a3f8f54ebe8.jpg?width=720"
-    ]
-  },
-  "Chapitre 32 - Chapitre 32Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/32",
-    "images": [
-      "https://phenix-scans.com/api/uploads/a44395fa4e1449d7896cf5254f132c76.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bcdb586bfc4844e3a74bfec90b2404ca.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d972875af3794e35924d1bb4542f47db.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/011be81f05964f72afdf76b5c73cbbe9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/07dd6bfc528f4a80aee1c99238eae051.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7075057c3c5b4659a45cee9f1f89523a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1d72aadfde9b4f6d9f9eaec56fe4baf1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/acbb190304b745a9a0cbdd052a5f646c.jpg?width=720"
-    ]
-  },
-  "Chapitre 33 - Chapitre 33Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/33",
-    "images": [
-      "https://phenix-scans.com/api/uploads/d2716cbb5a874f929adcd2c5b621c814.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/74881bc58bb142eb8b9976eb7e7c7860.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d595cecb644b424883a5e208e5c989a6.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/41380174654e4b2fb11b53c8130a6b6f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/84638cc08d694c198a9e5fbf295b6708.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d630961a7e1b4cf49b0688a8341644b0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/665c21284e87459da1f94d0c6d6e0393.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9d0ec0c2a1e14a9a93a0ccabf0fdf46d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c3e4ccb1c79a445bab71cd1b327e5a31.jpg?width=720"
-    ]
-  },
-  "Chapitre 34 - Chapitre 34Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/34",
-    "images": [
-      "https://phenix-scans.com/api/uploads/b9005f8552394131b0460dd4874505eb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ab6f695641fb4aaeb9c98ec2f68d7d1d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fd98f68740fe4d4e8b987cb5b9b03216.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d1c5fda4a932445082b4224b75550359.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e0472399afb14ee0835d901f9fe4a0d9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/edf4acac84c1450da298fedd787ef607.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3b208aeb4f124e8f969bd89714b108eb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3d1767ef0167443eaa5f9b9d682551bf.jpg?width=720"
-    ]
-  },
-  "Chapitre 35 - Chapitre 35Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/35",
-    "images": [
-      "https://phenix-scans.com/api/uploads/2a5e364da88e4247abf6f5a2b152d49b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b67073f0a4da4cdda2bd4a5e4d39f011.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/648eb610a69848fbab79c825d6e0813c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/31a053a173b143429c449bc7a7bb70cc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fec8314db8d345e18ff7f055950418e8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0bf161719c3546d0ba1b03062082f302.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0e23017584f644f69ed18f427c730d6c.jpg?width=720"
-    ]
-  },
-  "Chapitre 36 - Chapitre 36Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/36",
-    "images": [
-      "https://phenix-scans.com/api/uploads/9aac944596344606a68de095025b72f5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0ea69d98ee1d4c458b13d59d8995f494.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/027f44e116cb47469a8b9293088a9eeb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9f86d97b30894a83b93e39cc20b8f41c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/620b821dd8604e84a89f6c2f3d6699e2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/98f431659d4f4b81a57ed96bdbe13c74.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/785c72c2c02c427e9593cfe973aa1061.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9b5b068bc7b84ed89f3e430196d7e7db.jpg?width=720"
-    ]
-  },
-  "Chapitre 37 - Chapitre 37Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/37",
-    "images": [
-      "https://phenix-scans.com/api/uploads/842a59920ee24856acd6d02984a38866.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c6d8c9ed18544672ad553c12d2c4524c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/69aa547f50a7475790ac133f2a9f19f7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a8a10bdbe66044148a637b25a740259a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dfdcc89a6732432ca26453c2e86fffae.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ca598c82576446b4bb8cc90c5f517bcf.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0af9cf0fb8e94318a3c42856054b18dd.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8701b9619f7647ec89365600a57553d7.jpg?width=720"
-    ]
-  },
-  "Chapitre 38 - Chapitre 38Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/38",
-    "images": [
-      "https://phenix-scans.com/api/uploads/2878a307a48649f98ed563af4bfa84c9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5cc07b03aef84dfcb0da3972968c2d3b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/38f132065aea4c0ca2f9f8a7a76ac50e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c7b82f08a41d46a19eed42957f224269.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fe5c20a7ab6b4f95a4cfbf7f2655598f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b8ada59dbf724b7b9eea71aa1a6a0cfc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b4b11379821c434fb69e58e83257adf1.jpg?width=720"
-    ]
-  },
-  "Chapitre 39 - Chapitre 39Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/39",
-    "images": [
-      "https://phenix-scans.com/api/uploads/173ee63f211a49609d2aec9474e83b2b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/444a2d94b3f245a199d6faadbb867283.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e1770b440ec64e16a97d4243acb0e2e5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/47c4ce4eb425466ab7ea9167aa0aa5e9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/af0458f0685942bd8f3e1d5d632d93db.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4eae33f2392a4ecd9592161dd7fc563f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9668c4090d5f4e239edc365277992508.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/991e9a01bb3642f28ac751ec5a12cdf2.jpg?width=720"
-    ]
-  },
-  "Chapitre 40 - Chapitre 40Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/40",
-    "images": [
-      "https://phenix-scans.com/api/uploads/1a6f4e8ab908442f8de32f0f7b4b3fd3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/befb2c061f7e4fd098e5cdd69963368a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d95814e349c6419d81bc748f8891cc4c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c6ebd0e8a9274b25b74165dba5a54272.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4d78d94a8f7f4ee9bcc00c9acef47c13.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f40d95c3d75e45aaac66af61a3731733.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/515c857049fc4d5f8cdec5b20ffd796f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/6e85634402e04e578c36c958be7e8fe2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/723c4b9e97a3497ca43704139ba8f577.jpg?width=720"
-    ]
-  },
-  "Chapitre 41 - Chapitre 41Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/41",
-    "images": [
-      "https://phenix-scans.com/api/uploads/c673d1088ee846f9b9f7a471398d73db.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bf43e1199a9a41c1a192bd122cc97c54.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/29ce137e37d042cea1b6f16002fdc949.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d6add2c5fc234a3ca23d02e39d1d958e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2c2a09983bdf460e84697cd9a4894442.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8f40049a0237476a986be4f91a27efa0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e19b074b66c24a4ab178d1506e3f7bb0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b4e592bf16e34fc481fd218ada508c61.jpg?width=720"
-    ]
-  },
-  "Chapitre 42 - Chapitre 42Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/42",
-    "images": [
-      "https://phenix-scans.com/api/uploads/df36a314f94645138fbf83051da0e797.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1bb258efb3a54581817d755bd05a7f78.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/86c633932ab647bc95266557458eee23.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ef06af567f564b979a4322c7b28036a2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d6d880e6f37a4758934da7b56715788e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0e78af6eb3104f01a147de4fbc7340d9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/cfb2c8d3075a471cb44c31ce7de9f1eb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bc466067c3d343c3801439dd76e70e5a.jpg?width=720"
-    ]
-  },
-  "Chapitre 43 - Chapitre 43Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/43",
-    "images": [
-      "https://phenix-scans.com/api/uploads/9bf791fb04aa442bac628649ae9a3a40.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5371b07e15754ed389b4098d0a98e224.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/10dfea81907e461fb52398e39e9172d0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/37f8cd9f0b4a4ec1a04b4209be7f5827.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/69eded443e164e13b70bb6aabfe92978.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/55bc38b34d4b47e4b50a1dde5d7622a0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1ba36436410c4e788c24f1b06a722930.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/83c441d77f80461b9330adb918a0fb3f.jpg?width=720"
-    ]
-  },
-  "Chapitre 44 - Chapitre 44Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/44",
-    "images": [
-      "https://phenix-scans.com/api/uploads/8dc8c4ceff854a47973ec9d34af73622.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bd606763b0c844c989934d045698de7a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/377cffe453ac49658f06522c364fc0f5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7a8dfb566aaf416bace9da70ecf2f990.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c82b90e5f61a4871beabe6735f5a34e3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0479ec686f2c4198932760e177f1026c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c0450c44a14248039212bf0fdf979dc0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/81b452df580a4667a6b8239c97dd496c.jpg?width=720"
-    ]
-  },
-  "Chapitre 45 - Chapitre 45Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/45",
-    "images": [
-      "https://phenix-scans.com/api/uploads/23b23b6d75064985a71d56eb9fb2dcb4.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/35eeb3159bfa40d89bdc7f5fd32927b3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/aec1650d59094612839989606e88d530.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8f3beb0b411f4784b624f528e99f6b41.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b0ad702c1f964e72ab2c7e5dd7257297.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/cb97d21a8c7a47c29e5c636b002cddab.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/01e412dba05a4a40a503df71a2126175.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5e70d84b173848358d7a33be06605259.jpg?width=720"
-    ]
-  },
-  "Chapitre 46 - Chapitre 46Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/46",
-    "images": [
-      "https://phenix-scans.com/api/uploads/f0e7d0c9f9eb4c619da4504f0e41aff3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8d05545e63af4e12af668937ec2547b1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/79d43d9a9a174b9aa205d2bbd70f86e0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8ff05b757d70400cb376a01af42563dd.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c46b10b2ad99493aa7852667f8886dc3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9cf522701384429aab38066fa29a26a1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b11edaa8fa8a4846974c69f39a76c262.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/633b123ead2b42e7b8cc170eebae3f63.jpg?width=720"
-    ]
-  },
-  "Chapitre 47 - Chapitre 47Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/47",
-    "images": [
-      "https://phenix-scans.com/api/uploads/0f8dc6d6edb34c0f989d33ed107d4306.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5c53f1bc25eb402e80b11fdd92d60b77.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/39c299c39f1643f2a2d07f92c53ae377.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b6d2a4d02cc246438a6b31af899c4a15.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/13fc5de73fd44db6b35f35058daa5425.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/63904702ddf94e8a9bafa2bddc2c8625.jpg?width=720"
-    ]
-  },
-  "Chapitre 48 - Chapitre 48Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/48",
-    "images": [
-      "https://phenix-scans.com/api/uploads/2a355baf8e2e4358be5ac0861836b31f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1bb4871a5fd4403387c6e6148fff3463.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/03765e349703433e852b152c09e4e41a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d38fbb0bc97d43a18b52e8c001fded83.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bd71fe2b072143c68a02e4dc64dda606.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b0cb595e63e54a89b79913d6d25216d6.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/51a2ff72e6324180b267bd4b506f23fc.jpg?width=720"
-    ]
-  },
-  "Chapitre 49 - Chapitre 49Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/49",
-    "images": [
-      "https://phenix-scans.com/api/uploads/7b9bae71a0fa425e9df7603d300fc1a2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/75403962bc304adba13be2ddcef866e0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f9a2f225fd204fd3af0f14e29edbfda1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b89b856c10fd4551ab1c6211a6bbbf36.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/10aa1cda8a6e453f8541d08941dc0605.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/121627ea23604fd297fe6e03a397e0ed.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b0f11a905660466c857b7c42e5aab045.jpg?width=720"
-    ]
-  },
-  "Chapitre 50 - Chapitre 50Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/50",
-    "images": [
-      "https://phenix-scans.com/api/uploads/5f1ce86bd411444bbd2cb1485a010ee7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dd425a58da464f6f90839cebae9681e9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a767c608a7d6473f8d3e99837f22fd76.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/59d4ea641db546f09d2210d99d540077.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/87b73739f8f844a59e82a761647226b3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fca02bc4139543c48102b327c8a9da7e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5b6e50c7364a4832898eea0b3df25ff0.jpg?width=720"
-    ]
-  },
-  "Chapitre 51 - Chapitre 51Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/51",
-    "images": [
-      "https://phenix-scans.com/api/uploads/9769ba7e2bdd453f8890898e58a776db.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/43ce2ab9da104422b38b1a3ab885c023.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/61d39129bf994e19af1a07c8a603515f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8d5a2d7f17e240b7a80bc22f9168738b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b9b2aaf0a55e48d6b784b026dfece641.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8fb0d48eb0614ed49c2f09ecf1fe48a8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dce673613b9e4a12a26c3f1c9b7b930d.jpg?width=720"
-    ]
-  },
-  "Chapitre 52 - Chapitre 52Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/52",
-    "images": [
-      "https://phenix-scans.com/api/uploads/ceff6900e6f1445c9be0c695f1978c8a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a9b64625225f40809a8a2b0aa91e2920.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fabed394fe3c4f59aaa7e59bcd13b89a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9d9601638d2c403d86ff790e815de38a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d5adbc8fb7cf4148b23e96acaa275126.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7d615fda408942888987531aeb45ea3f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/cc93eeda4f34435cbfae458bea81222a.jpg?width=720"
-    ]
-  },
-  "Chapitre 53 - Chapitre 53Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/53",
-    "images": [
-      "https://phenix-scans.com/api/uploads/506d6138a79f407e9c3b35d26ae292d0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9895f0bd14e64651b5016939ec4d1403.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/47c6e39e7bc04922983a2883186fb419.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1af8c9d2747247a9b048eabb884e7598.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/62a7308dec7f43a49e44ba954b21defc.jpg?width=720"
-    ]
-  },
-  "Chapitre 54 - Chapitre 54Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/54",
-    "images": [
-      "https://phenix-scans.com/api/uploads/1ff5dc7fcff842878bef8cedf4135dce.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e69c044e56a649d398b5b759c9c5e34a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d5a51ed7d8064de9a4c835a66c4670f2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8bd4b17bdbd54e7ead860adf36577fb1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a690841ffe7c4ab9a16aa0a35c0d9ddc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/6047f12a9fe34802a8f2ef30e291dd2e.jpg?width=720"
-    ]
-  },
-  "Chapitre 55 - Chapitre 55Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/55",
-    "images": [
-      "https://phenix-scans.com/api/uploads/acacd53ef15045aa83953f29985341d4.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d34549a025ef4067ac31794d9657eabc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8390ffd519ee4864b2a1b0acb42e3330.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0f6bfca1a64d42748e2a3cb8e6a2854b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/474d81ab095e4fe28b67bf64bace2648.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3ba6aa8ee220478cb0560469268f09d7.jpg?width=720"
-    ]
-  },
-  "Chapitre 56 - Chapitre 56Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/56",
-    "images": [
-      "https://phenix-scans.com/api/uploads/3544895a62d241b190accdf2686a38e5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/40c2486ddfd04bc89ccb9340f59b46dc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f54999013aa844b28601b49cdd978f2e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/43b0dc3c135841a5a36ad1e0604e5a10.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7c9fd33d59dd4514adb59399585137f5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3b8641b50ebc4486b57529fb004564da.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bdb8fd73592046c7b0ed87407a116aad.jpg?width=720"
-    ]
-  },
-  "Chapitre 57 - Chapitre 57Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/57",
-    "images": [
-      "https://phenix-scans.com/api/uploads/1c7f2e7b4a7a499089e4534fd137a79a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/6193153feb4849349518927263122412.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e3cb70737a994fa79772f786629f5862.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b5b47955a25c42848eea74695e4b01ed.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8098a0fccc3245cd9918e374e1da9f90.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/845bf92606394ed5add0869374c050ff.jpg?width=720"
-    ]
-  },
-  "Chapitre 58 - Chapitre 58Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/58",
-    "images": [
-      "https://phenix-scans.com/api/uploads/422abee27a474651ae7bb40aceb0f8ec.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/37619a58631d43f0ac0ba00aef7b80a4.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e3289df735a84a9f8f1576876bda92d5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5acaf893725d4015b58e6077d525d22b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/45734efd27554980a66ad9f37d3b082a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/aca3eb9877c54b7c8aab7ba5b67e8a15.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/90372747c24f4f58be9f957e693961e9.jpg?width=720"
-    ]
-  },
-  "Chapitre 59 - Chapitre 59Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/59",
-    "images": [
-      "https://phenix-scans.com/api/uploads/d09ab7a3c5354848bb6b2ee07491ba32.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c1d1918d1d8f4dcfbf9b8749d9c94d08.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/704ae4fa9a3a44c591a303b6dce84b7d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a88dc1fb990045d78986053a1ebb37b7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/6da6e0bff86d4e5fad9f474b29a7d46f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b6c93d36515a4c059c9428b920b24e5f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4f2ddc339a9f48e4bd2ab88a620cbc82.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b819d8df4b2342428e55749bafb8f980.jpg?width=720"
-    ]
-  },
-  "Chapitre 60 - Chapitre 60Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/60",
-    "images": [
-      "https://phenix-scans.com/api/uploads/159375b1a4ac4801a3020ff80222cb3a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1df3697b410c49d9ada35b3644d1aba6.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a0408c1b29ee41ebbe4830c894d863cf.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d9bf22f15be947009ab5975dd3deca2c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/854fd443b4ef4f78a5edc580ac17605e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fccc0f563840445bad4c1544f80ba8e6.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/80f8ca01b635438b97ef09d58d784548.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/79c56f53fb294dab93d51c486e7f92ce.jpg?width=720"
-    ]
-  },
-  "Chapitre 61 - Chapitre 61Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/61",
-    "images": [
-      "https://phenix-scans.com/api/uploads/15e1f3db23d94d77a62beda28c6ea231.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a11eac413a2a46f9b7f8b8cb9ac688cb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/02c3cd1f7c2943cb9ad8b2ec6523aec2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8022b35619bf414eb694a360582f8e69.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/6200a51b68634910843229dbe5058ee8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/48db0093292f42c9bcb18cc5a4d3162f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a7343cde1fe14300af7ac89cb558a678.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/695fb610e9754eabad2b8d56c87cfbaf.jpg?width=720"
-    ]
-  },
-  "Chapitre 62 - Chapitre 62Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/62",
-    "images": [
-      "https://phenix-scans.com/api/uploads/9a09a83761414b979887d900635a2e75.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/83402e2df8ac410aa097b17c322a6096.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9f93d02e0274439ab8776ac6a9998deb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ffe7bf83190b4dc39e9a9836863900c6.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/79d6fa64ec2e479f9f2683f4826a31e7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f16d8f34788d46c284264e681ee9fa79.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/38ae3052c20d466eb3ee139b01024ef2.jpg?width=720"
-    ]
-  },
-  "Chapitre 63 - Chapitre 63Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/63",
-    "images": [
-      "https://phenix-scans.com/api/uploads/5f2c8beb0d2d4cf4850cfab57ee919be.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f6aa04f8c850460db730a5b0ffe08450.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4fa32610658840e8a4b6b11f00e4ed33.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9cb962396e3242ac940baf44879db247.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5ab6a80699ce4d5dad7c3ab62b431b3b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/74602e4383ff43d0879db777b9f018b2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ecb7dc524ca64dcb9f8d69e8ea3e3920.jpg?width=720"
-    ]
-  },
-  "Chapitre 64 - Chapitre 64Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/64",
-    "images": [
-      "https://phenix-scans.com/api/uploads/d7584e61f56942ce904083e162eed697.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1671b70ffdec449a9a587ea353310ded.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a0e056e36a054751a8582341588cb0f2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a037f99f56454a09b0c7befb3821027f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/97748a32bded4e4fbb2e8394ce502acf.jpg?width=720"
-    ]
-  },
-  "Chapitre 65 - Chapitre 65Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/65",
-    "images": [
-      "https://phenix-scans.com/api/uploads/0b4d077b9be24a58b9701e4899f40bdc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2cd4cd94b58f40b99e5e087d25f10e54.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f10da91affd0401994b303771afd1d13.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/6a2cf51302bd4073a79897e3082c2418.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3904e6848ac8428ca6eda498a5d78535.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/834f1dc5655f437a8ca4a8863f13d7ed.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2057c86610b5479e97e3670a8fd4a905.jpg?width=720"
-    ]
-  },
-  "Chapitre 66 - Chapitre 66Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/66",
-    "images": [
-      "https://phenix-scans.com/api/uploads/ef9b9783e00f4865bc86d357385e4461.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d00f1c83042a4bc1be7c44666ad3550a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/88fe7e0cdcb442b8aedb9e0bc72d70ba.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0376e21990874a14bc3d25df9e397586.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/31c3cec6e5c8404dbb4ecabf154dadcd.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7c014689bc8346fa87ce3a192e5a0abc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9ead2887361e4787acb7933716e2c435.jpg?width=720"
-    ]
-  },
-  "Chapitre 67 - Chapitre 67Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/67",
-    "images": [
-      "https://phenix-scans.com/api/uploads/cfabc41cba8f401db6914ef85a7fddcf.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fed2c65adc59457aa5ba866d2b0dd51b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/13752abdb13342c392edba30138789a2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/db4f587976e84ac68e0c506e5bbcdcd1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3196bb4700f943cd8f2c0f540fd57510.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/71db7f7604b5474ca42c4d88ede81f43.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/02fc05e15d2b4fe2b1e131f0b68560c1.jpg?width=720"
-    ]
-  },
-  "Chapitre 68 - Chapitre 68Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/68",
-    "images": [
-      "https://phenix-scans.com/api/uploads/e1b6b61121dd48a49488d4c53492ecf7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/17cb0c86e0a645c7938de109e3b77341.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/149a695b58534729b47b004468e4febe.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a6f2ced1946c43b4b5f7ed074af6a5c3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e8b2ba3be14a4022bbddb11c7c273753.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8680262e37e04f80bb58141b927b30a4.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/081bab6ff10647e18a25d57ae3487d1a.jpg?width=720"
-    ]
-  },
-  "Chapitre 69 - Chapitre 69Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/69",
-    "images": [
-      "https://phenix-scans.com/api/uploads/63af9bd2ea6a4657b4eff5016e6e5241.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/09e3bf2c191f40df918ae5f978c59bf3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/534badbf2ebd45fba9d982500953c07a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/45d35c135d4a479eb21eb7783a4d370f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7ae142967bf548be81644fc96a397885.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/91a5f7b667ca4e77a2e9ba13f642b35d.jpg?width=720"
-    ]
-  },
-  "Chapitre 70 - Chapitre 70Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/70",
-    "images": [
-      "https://phenix-scans.com/api/uploads/bdbe1f54960e468fa051381dc7913a81.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f1ec94913dcc47f093ae74abe5e149ad.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/460796ee84f74ae79b252eb1475886f8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9e7df067daef4fe39a1b13b80dcede8e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/de5b848529bd496c8047b7c19894def3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9e71023b2b3245cda210edc61bd6f162.jpg?width=720"
-    ]
-  },
-  "Chapitre 71 - Chapitre 71Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/71",
-    "images": [
-      "https://phenix-scans.com/api/uploads/d646decf26274718a561cbdf8046751b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ab90336761a64779b79abbc07f78e8df.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/130d84f272074ad5b28a9b9126bd4549.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a4bed28b61e14f19bcfbedb5005526ed.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5179a5ae78d3428abaac88a4b6b58260.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8d3ab52098394a23a7f5f895e64f3708.jpg?width=720"
-    ]
-  },
-  "Chapitre 72 - Chapitre 72Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/72",
-    "images": [
-      "https://phenix-scans.com/api/uploads/bf72a0a48dec4783a40b72586835ac6c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e805c0f4c7f54fd5b34dcababcec0f57.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3a56a01f46bd4f2183bbfd09d2c9c4da.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7ce9644f9ac64fdf907e8599a4a0961b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9b9f385992834c968c671b5c8c20edb3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9c852f3b371d467db0b7d9e73cd5c7b1.jpg?width=720"
-    ]
-  },
-  "Chapitre 73 - Chapitre 73Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/73",
-    "images": [
-      "https://phenix-scans.com/api/uploads/e541ee44944c46f9b7efffbdc832f00f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/157779d073e24f28a78b4cb38933d989.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/245893ae84f94cd8b109a61dcd31b3d2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2dbd63333a2b4c6ba0f8c984555428e9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/997b76bac07b494e85be070cbbbaa05f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7be7dd7766344759bd188d22952f61f1.jpg?width=720"
-    ]
-  },
-  "Chapitre 74 - Chapitre 74Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/74",
-    "images": [
-      "https://phenix-scans.com/api/uploads/62cad477a7d641ef82716a3052ecc9bc.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/96a250c9bd284ba8ade997079d0a55ba.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/65e0c359e5034be281e7db860da1cd10.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f437325ee874429d81b0b207b7405824.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7668019e7a0b4b60a51c6d6747cdc977.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4b4ad68bde754f7ebd646c88723c9a41.jpg?width=720"
-    ]
-  },
-  "Chapitre 75 - Chapitre 75Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/75",
-    "images": [
-      "https://phenix-scans.com/api/uploads/f17bb4241db64659a9b4a5cb3b8fd6f2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/aaa5309acb2e4a87a1cf92800fd61043.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4b381874ef0f4cf2992519f93d9ca208.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/eba9ddf983184c32b0198f526c0330b5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/496f351c65a5414b9f69eff2ca0c3555.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b60d01cb23f14b7b91f723a52349130f.jpg?width=720"
-    ]
-  },
-  "Chapitre 76 - Chapitre 76Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/76",
-    "images": [
-      "https://phenix-scans.com/api/uploads/d38d8125afa742e0b900bd5b41301a4e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9ef9ce2298b44d7db4d21c0f759bae86.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fd2a0be3636b40afb93b24a1358b8013.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7347534e80854db7ad45b7317ccb5321.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8f72e794cfd54c5d908bbb981cd10722.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e113a4d6f71145588801d5b79adf7201.jpg?width=720"
-    ]
-  },
-  "Chapitre 77 - Chapitre 77Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/77",
-    "images": [
-      "https://phenix-scans.com/api/uploads/ff245b176ac543849889ed3d24136d59.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/56331185e5114f02ade956c05012520c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/69b5155832b3494982bb8fe3f480ecfb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a1835a569c3443b6925bfe315fefe425.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1cadb309a7ef4a4cba27e08922757114.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e9690e0ec0fe4521bfb33f9cdae6200e.jpg?width=720"
-    ]
-  },
-  "Chapitre 78 - Chapitre 78Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/78",
-    "images": [
-      "https://phenix-scans.com/api/uploads/0a27da62ea5843ed867d252f21dff1e1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c0519f7c2f6642b68dbca9396919b14c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c8876b6b9dd0431e9631ec854482a788.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/eb32fc74181f46cba4d283a7dd555f90.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/af2f083e777f441aa9f298645b1f076c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/687b49f17c1941e09d50d9f9a35a7c6a.jpg?width=720"
-    ]
-  },
-  "Chapitre 79 - Chapitre 79Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/79",
-    "images": [
-      "https://phenix-scans.com/api/uploads/c5f9b817dfb54d36b0aa571f1539991a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d6f09c8e772d4db495ff34e645481bb1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1ed7d174705f46c9ac249a0aae3a6c29.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5c5f4d5283a74b69a78564781a196bfb.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9e68988deaf941f7be980d9b7b13e572.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/db88f2a06f2d4e15b0b555e8471ef991.jpg?width=720"
-    ]
-  },
-  "Chapitre 80 - Chapitre 80Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/80",
-    "images": [
-      "https://phenix-scans.com/api/uploads/b201841d446d4900809df53a99e46a55.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/12b09835a56544a9a4124cdf86aa60d8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fca3389d2e2a4d1fbe5c9ab9e196c828.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fbf0e0a6c6a94028826dcb8cf08c059b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3719a311cb584eb6b1a645f8083c3a6c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0917a15d26474b0ebd8f824d4d134204.jpg?width=720"
-    ]
-  },
-  "Chapitre 81 - Chapitre 81Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/81",
-    "images": [
-      "https://phenix-scans.com/api/uploads/259c14868f2d42149cb834d0be3f83a0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/c076176115894bef90f6a32bed430681.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/79d0bd36171247b782db1af2e4b308a3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1cccfcecdc8f4c5196ce1ada4f6fa22b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/63a6458a70864528b2417a79612ba47a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/967481e2258f432eb4595b8d1f00cef4.jpg?width=720"
-    ]
-  },
-  "Chapitre 82 - Chapitre 82Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/82",
-    "images": [
-      "https://phenix-scans.com/api/uploads/2cce445f520e49df89cdd90633c5c474.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/409b48a1e39a4673a1a4fc7d5aae0e13.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/e0c6a44896ca46ffb8c243eb1e90b8a2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/69744e6817c74cc0943def2d4374ba9b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/336c40c936ee495590bf4090c1383141.jpg?width=720"
-    ]
-  },
-  "Chapitre 83 - Chapitre 83Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/83",
-    "images": [
-      "https://phenix-scans.com/api/uploads/877bfd1397174d8bb7e277e9a4cd1bd7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/344a50b777824dac847a4153ccda9227.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f91fd51a26534faf85b1c462bc36bbd2.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d260796307724277aff14c496cbac7f8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4f7160ce506545b2b3d9fac8fc42ac80.jpg?width=720"
-    ]
-  },
-  "Chapitre 84 - Chapitre 84Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/84",
-    "images": [
-      "https://phenix-scans.com/api/uploads/c2df341d91ee4d3ea508f5d3a370e54f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7d4c8be8eef5407da3a956e679ad8728.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9f17014298ad457dae16bb7179c9c0df.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/22f3483bafd54138981ec0347b49fb5d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5cd03910f7334a03bceb09c5bd594af3.jpg?width=720"
-    ]
-  },
-  "Chapitre 85 - Chapitre 85Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/85",
-    "images": [
-      "https://phenix-scans.com/api/uploads/12e0d900c0cc44239d9ce94ed2f3e428.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b541c044e7004808904c8011218ee1be.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/de8ad187280e454fb029fa5f6ef6b4d7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ff1ef254cea04e66afbde282f369cd87.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0301122d3dab43169928567819df4d9a.jpg?width=720"
-    ]
-  },
-  "Chapitre 86 - Chapitre 86Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/86",
-    "images": [
-      "https://phenix-scans.com/api/uploads/be9521c9e50341588a39943c2d1e9f28.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0a721e59d99c42138a8c6dfc6098e023.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b4b680c178db4880b569f347924a593d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/331deb80ca4a406cac1349321aa0e6e3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/040260a3fae44005980b5c28b5bbe07d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/221e7ecfa10540d5945fb0c4c28907f7.jpg?width=720"
-    ]
-  },
-  "Chapitre 87 - Chapitre 87Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/87",
-    "images": [
-      "https://phenix-scans.com/api/uploads/7cbe2af9e79a4453a061883cdf19c9d5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a2bed896bbde434183614ecc69c5c2d1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/365bca8d52004ae290794b5f4c1663ae.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ef56567f0a38449e919cf13066f1c599.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/aeecffae0a9741638d551435ad760b7e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7156bd0fc58f43518850d10e6c2849d4.jpg?width=720"
-    ]
-  },
-  "Chapitre 88 - Chapitre 88Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/88",
-    "images": [
-      "https://phenix-scans.com/api/uploads/8b9f703dce20443fa37f82667088d1d3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/cea3f156c2414c40b25c3587237a3403.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b7a680f53cd3490f8aa6e123e263f8e8.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/cee822568c294158a239e382f79bb5cd.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a95f25cee3b84fec985f405e108af381.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8113e3d3773f4e15b98c7a0f3a90d2c5.jpg?width=720"
-    ]
-  },
-  "Chapitre 89 - Chapitre 89Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/89",
-    "images": [
-      "https://phenix-scans.com/api/uploads/93d6fe6622dc46dcaa56ba588ff61aa3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f3f1349a157e4c7c99cd02ed9c3caaae.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/caa94a7fc9ba43d8926a1181e9d73f6a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0deb0a5d724c473eb428857de5433099.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/ca4b56ed5fd849699e89db88d926ce71.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/bdca95d605c74d6a8c34674fb7d749a0.jpg?width=720"
-    ]
-  },
-  "Chapitre 90 - Chapitre 90Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/90",
-    "images": [
-      "https://phenix-scans.com/api/uploads/45038b17b4034451bea3a9a65262174d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d6d12801e84e4d278477ac5f41d53e2a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/4dca76b07a114fa19d2966b853276406.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dae9eca2d11f4efd95708bb5b22b126f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/00a8825562a741c286ed4d2c0ea15395.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5975fd525c43403aa54786a352ae5256.jpg?width=720"
-    ]
-  },
-  "Chapitre 91 - Chapitre 91Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/91",
-    "images": [
-      "https://phenix-scans.com/api/uploads/d1a3978cff9b45c0b50a4213a326efc5.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/cf0fbfb865ce487a8a5e4d581ef347ed.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7fa79f31420e47c8ac652829caa77033.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5b605e7241c847d2940a1775afe0f574.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b602a26c896c4ca3a48c56bfeafd9855.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7f95a4d71ff343eab22613688f8d33ea.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b49674e60f1740c6bb5e6ad98e732ed1.jpg?width=720"
-    ]
-  },
-  "Chapitre 92 - Chapitre 92Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/92",
-    "images": [
-      "https://phenix-scans.com/api/uploads/92c762e627a0429eafef9d438b5f1440.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/769cbfd4a0ef4981b0cbd154eb895fad.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/dee99e618d284207b66b4bc609d85330.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/9646af02966245ee957b4a92ec19fd38.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/581c0667ce8f4bedb6a28c5b1751cfa7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2e9a01e49bcc411580c2c6b0a40327de.jpg?width=720"
-    ]
-  },
-  "Chapitre 93 - Chapitre 93Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/93",
-    "images": [
-      "https://phenix-scans.com/api/uploads/28dde80bb42b4c93b5adeea5c7575e8a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/549260b4ca6b4161a63833b8a70e644e.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3b5e712421d6498fac9258d659429a51.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2096bdc0efb2473bb4082b0e5839d09f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8a14f512efed4e2ca0adeae200d23cef.jpg?width=720"
-    ]
-  },
-  "Chapitre 94 - Chapitre 94Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/94",
-    "images": [
-      "https://phenix-scans.com/api/uploads/43812aa3be0d44d982d0516c22023bd0.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/f5d9e12b183b4813979456f38017619a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/111f424c5a2e41b7a9ce5305ed9f6314.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/59d458137d9f4cf7ad082525e13e16ca.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/de0473e5662742e6928377337ef9bb25.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/fb870c124a544f24b82c1ec4538dd892.jpg?width=720"
-    ]
-  },
-  "Chapitre 95 - Chapitre 95Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/95",
-    "images": [
-      "https://phenix-scans.com/api/uploads/4c9155e6b3b746928bdf66749de1f54b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/74671e50a5374c5aac5d9f2d8316390f.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/b93865841a8b4ee2b71a1ba5ab9d2da3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8a0a5d08c6f8495d8d63ae4e02237b1c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/52965b8b043f4cb4a9d6d73b9c383fa5.jpg?width=720"
-    ]
-  },
-  "Chapitre 96 - Chapitre 96Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/96",
-    "images": [
-      "https://phenix-scans.com/api/uploads/b006591b67e845a0a9d5f54cfb624578.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/2935d6ac71a44e03b9299d474331d2c3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1546d71bd5564bda854503ce1e067c9d.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/3d3286f4eb2e43bd9a2f36ba940ce784.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/045d307de37e4ee0bfa5a8769c7bae00.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/1b5e9831039a4aa390fa0d8c1ecc840a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7448f44b195049c2a476d14c5f73f77b.jpg?width=720"
-    ]
-  },
-  "Chapitre 97 - Chapitre 97Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/97",
-    "images": [
-      "https://phenix-scans.com/api/uploads/c0dfff37968948eea543bfa049a6406b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/a1f6bf93fa2840dbbe76ad1a19aac623.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/5d54f7a46aa547598fd48f51fd5954b7.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/15ccc4f9afd04041bcc9f54e39e0ac2b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/8a5d431c10f540dca268a16510b389a9.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/df695ddd93a54752a2bfa09d20b58dcc.jpg?width=720"
-    ]
-  },
-  "Chapitre 98 - Chapitre 98Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/98",
-    "images": [
-      "https://phenix-scans.com/api/uploads/f1082f421cf64de9afe783b6e82921a1.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0b512402372d4ddc92609ae2ba8b9a5c.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/0274a0b8983849e6b9f5d03dde3d665a.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/17376c12767d4d8aa877b72dcc93f4af.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/d325f11c2a0b45f1a555bd778505803b.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/697cb0f45fab4695952179c4a2751ff3.jpg?width=720",
-      "https://phenix-scans.com/api/uploads/7318a3bfad7e489da9ec294e3784b1b9.jpg?width=720"
-    ]
-  },
-  "Chapitre 99 - Chapitre 99Il y a 3 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/99",
-    "images": [
-      "https://phenix-scans.com/api/uploads/3f25d87f11934ceea23c536f66245c2a.webp?width=720",
-      "https://phenix-scans.com/api/uploads/041c8ef4f4364deb808d3aaef0028be6.webp?width=720",
-      "https://phenix-scans.com/api/uploads/c534964d1b86441e8b64d83769718db9.webp?width=720",
-      "https://phenix-scans.com/api/uploads/1857b970020747498610a2320f42fec3.webp?width=720",
-      "https://phenix-scans.com/api/uploads/2fbaa16f17fa42d7b74ab1829329e516.webp?width=720",
-      "https://phenix-scans.com/api/uploads/a9ec474aa262488f9d159a3aeea07421.webp?width=720",
-      "https://phenix-scans.com/api/uploads/e7f0c6fc7a8d455b809e7c4aa2f7a8f8.webp?width=720",
-      "https://phenix-scans.com/api/uploads/a15aaba36ab64a7b8daf9e3c3171051b.webp?width=720",
-      "https://phenix-scans.com/api/uploads/edc493293f4d4dcb81c9a40138a2da72.webp?width=720",
-      "https://phenix-scans.com/api/uploads/a262e664e07046efb15538a2b2f77c5c.webp?width=720",
-      "https://phenix-scans.com/api/uploads/2f511f87de4546a9b4df8255961415c9.webp?width=720"
-    ]
-  },
-  "Chapitre 100 - Chapitre 100Il y a 2 mois": {
-    "url": "https://phenix-scans.com/manga/your-talent-is-mine/chapitre/100",
-    "images": [
-      "https://phenix-scans.com/api/uploads/24b0ce1d4f17431098d393798695c7fd.webp?width=720",
-      "https://phenix-scans.com/api/uploads/1fcb5bfa7b5f46cb968171cad3980c9c.webp?width=720",
-      "https://phenix-scans.com/api/uploads/f15cc5cb7774410d8fad3a5343b0fc62.webp?width=720",
-      "https://phenix-scans.com/api/uploads/1b9e1004119044368ca85cfe46343fb6.webp?width=720",
-      "https://phenix-scans.com/api/uploads/8029336f0ea24058ad54f46f1c35aa5b.webp?width=720",
-      "https://phenix-scans.com/api/uploads/cf7916b7c4f6444595c3c3e992b46167.webp?width=720",
-      "https://phenix-scans.com/api/uploads/7a369d0b8dff493e83048dff3078bd68.webp?width=720",
-      "https://phenix-scans.com/api/uploads/1dbbc7546ab64170959c756059bef6cc.webp?width=720",
-      "https://phenix-scans.com/api/uploads/ea1268d1cd4346b9a0f9fe86bc9030bc.webp?width=720",
-      "https://phenix-scans.com/api/uploads/3e4e44fa18dd415a880d1f1eaca3f98c.webp?width=720",
-      "https://phenix-scans.com/api/uploads/f2a7a456cd074eedbc508ac32db8b2b2.webp?width=720",
-      "https://phenix-scans.com/api/uploads/b8e06de4a46e42d59820c97c9f0a26d6.webp?width=720"
+  "projectName": "Hero Killer",
+  "chapters": 
+    {
+  "Chapitre 0 - Chapitre 0Il y a 5 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/0",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fd2f7fd6-cb70-451b-8346-294a2e968b08.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/590851e1-e48d-460a-a8e1-666389281f97.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4258082e-55f8-4c3d-b7e1-611afd5dc1f4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bc0570ff-6a21-41a6-8e22-920d19fbd984.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/86164da2-3a49-4c63-95b5-bd40ae62cb74.jpg?width=720"
+    ]
+  },
+  "Chapitre 1 - Chapitre 1Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/1",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/293252ca-3399-4243-8baa-c838a3f8fca2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7b3044c5-efe8-461c-bb35-7e34184485cd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0cd13594-d9e1-4e5e-a9f8-105b93688c40.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/24cc3f46-cdc5-48da-a23a-1121a87bdf7b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4da24093-6f85-4619-a91b-da56990dae5b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/89ce3592-60cd-4efd-92f4-56ae3b54c077.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/270d5019-11d6-4bf8-89eb-84bbdc2a875c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a94685b9-2167-4b43-9d21-83267a3ac362.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cb4cb6d3-7212-4f6e-84db-138491189610.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a4dc618e-af2b-49f0-936b-2c268666fb96.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bbe221aa-00a5-4408-996e-92ac1dd9a507.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/51614118-c218-42f8-b385-6c3f25f918c0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2409a6b9-ed45-481d-84bb-8a60154a3748.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ed364aa2-8cbc-4130-86e4-92777090c420.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a724774a-a68f-4b38-9211-60e286507fde.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/49858451-62dc-4e34-ae73-4e84605913ce.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ea17a45d-39de-40b1-b663-51030645ac5d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a0bb49bf-82c5-48e0-a868-aa351e2d4636.jpg?width=720"
+    ]
+  },
+  "Chapitre 2 - Chapitre 2Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/2",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/53cddae7-c7ad-4eaf-b559-f9413e993a81.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/31a90e73-7fe8-4db7-bf77-d8aeccb58cda.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/70da1133-7110-40bd-a708-e05cd0a578ee.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fa49ea74-60c9-4e0a-b1a5-0a8760a9bbdf.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2c7f718b-ea13-4558-9fc3-5c7db45069e6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c2accba9-3778-4f28-b0a5-fc27304121d6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/877ee909-7850-4f57-9bd2-996b15dd5673.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/57b645a3-72d6-4651-a94d-44d3a469e0b8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8ec971cd-ad71-4bcf-998e-cb8878bde67b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2e6817c9-da4a-469c-98c4-f8adffbc3119.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6f1378a1-7a06-4b33-90c4-ac2051f98394.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7c4c8975-683c-4f52-9766-4eb993347808.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/84547e08-3797-45e5-9db3-9638f2ce53ad.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4a90e925-bc98-43f7-a935-053a3b1b1c50.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8502aeb0-cc65-4c6a-83ef-1403657d7dba.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/70242d17-7974-4f4b-a0db-443373e00c3e.jpg?width=720"
+    ]
+  },
+  "Chapitre 3 - Chapitre 3Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/3",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5b0b2dfa-676f-4179-bdde-c22633b43dfd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/481084ee-cc57-4db1-befc-a9fb74cdfa9a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/70deee51-18a8-447b-be31-706817efc7b4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b3ae87d0-9fb5-48ca-b571-0402830ebf15.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/55247a08-2789-4854-9c56-0ee537519b3b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c4cd3ac2-06d1-4a10-8b9e-ca8dfc98d7e3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f228052d-53d4-40b7-b1a1-c48d03abd116.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/72afb2c8-af34-4723-a156-fa71b4e9f242.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5b235fc9-9b93-4d05-a13c-bbdeb14f7ea0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/64c138f3-ac02-46a3-bf3b-082ac6ee956d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a9799d27-838a-4e05-bdb6-27cc54cafaca.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7620353f-cc3d-4b98-a16b-8d3b11833d79.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d4accea2-0fe0-4c72-af0d-fa22415179d9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/01cfca08-e47f-4bd1-96e4-070edb7a3f51.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c2891a57-6ecf-407f-8917-ebf68f9f6a40.jpg?width=720"
+    ]
+  },
+  "Chapitre 4 - Chapitre 4Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/4",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/83bc7b73-b8f6-4613-a060-994d66335af0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0db8d341-a8da-4f14-abad-ad2560ec869f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c023b8a0-12f3-4e71-8ca2-e9b10dc1f555.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/573c6e93-1ac0-4e00-97ef-37bbac35ffb4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/dd89051e-0029-4717-8b16-fd95767839a0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9ec9d2ef-7965-4f5c-a2a5-0cac05d9acb2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/dcb940b9-1401-42e6-accc-8d6bd579c834.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0833cce5-6bf4-4b8b-aaa0-fbf4f8b03239.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ac3f4df4-96fc-425b-8a8c-6a66904855b1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1aa6d0d8-50ca-4e63-8eda-33916a2421cc.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/24aff8ff-9278-42a9-bfbc-aa48370ed019.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/de5b9427-f572-455a-bb17-e322e7ddb70d.jpg?width=720"
+    ]
+  },
+  "Chapitre 5 - Chapitre 5Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/5",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a985b725-dc7e-42aa-b6f0-775f07389c57.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/02e58376-acb2-42ad-b9e0-112edbd97848.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/03d4e255-248c-4778-b66c-5d74db6adeae.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/642363bd-623f-4fdf-8844-edcbd8e29982.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/87adf176-10a7-4a73-8cf7-1a188406efbd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9ec11e9e-13bc-4d85-b40e-b8d8ba2be5cf.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/aaaedbff-ea48-4da2-9e8b-30442e53a1a9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9208ff1e-71ce-40a4-bf0b-16b91707e879.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4a202ca9-75f9-4b35-aa29-3acaf76f6c6a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/45c729dd-b3e4-4ad8-9cbb-bef60307f02a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3febfb8a-b315-43a1-926c-af5695f2a1da.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/019e6beb-45eb-4ec0-91ae-ac0d6aa455a3.jpg?width=720"
+    ]
+  },
+  "Chapitre 6 - Chapitre 6Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/6",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2ba7cbc2-437f-4a44-94df-dcdbe6b14b1f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2434d028-64d4-4395-ab63-4a9807b3e885.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/86e7e8d5-d18d-4394-9095-e830b0a77660.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/13e0a3de-b754-4355-9931-88ce12c8a4f1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f2fc73e8-7216-43ef-939f-4942d460e76a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/115e3bb3-f665-4465-a3e1-e0aff24e0d17.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bfe38da2-7c37-4c4f-8c75-5f81a9e037cd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/16bec07b-d8f7-4d1a-87e6-37bc88910423.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f0849ecb-2dd5-4627-ba64-87c93b710fe8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b95e0adc-2a6e-43af-b260-c3212167a730.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f49b3f90-1f9c-4824-83d5-5d2ff9427da8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0597a74c-1952-4549-9734-23bcb0354204.jpg?width=720"
+    ]
+  },
+  "Chapitre 7 - Chapitre 7Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/7",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fdfca16a-615e-4f0e-a21e-e81f2155aa21.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ac85fa57-fc7a-4386-999c-04186c4a1725.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4d23d975-98f5-42a9-889f-79c5dc49229b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fed06ecf-eb5b-402c-8916-b664d0eaa6b6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cade4713-ea86-475b-9781-ec70f1622d27.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/584466e7-4835-4303-bf70-671a606425cd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0a4fee32-09b6-490b-a172-a7e5e092793b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/65c6732e-0b31-47fd-80c8-2371091fbb25.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5167d305-d4c9-4882-9ba6-71a573c7268e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6345a0da-4381-4c98-890c-09713add6b23.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2b07cfd5-b338-47c9-9c19-057550bebf4b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/09a6b74e-dde4-49ea-9a8d-1d9881151f5f.jpg?width=720"
+    ]
+  },
+  "Chapitre 8 - Chapitre 8Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/8",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ffe9ae78-ad58-4a16-829a-ce4bbdb60690.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fb346052-032d-44dd-9629-c9fcaebc23a9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3b399873-8e37-4226-a1a6-beafa886e7d5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/72370ca7-f7a3-4716-bbc7-c3a782236ee5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b85cf01c-0eea-4a1b-bf9b-6a0abf149ef3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b245ab7f-da6b-467e-bcb8-f06b045ad762.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/04e91467-436d-4f63-970a-b792024b5cc6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5eaff90f-7801-4aa6-a72e-dfa9b9cbcd54.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bb469306-1bf0-4e2d-9737-93c24a07b957.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/72d51d9f-da24-42a9-8c7e-01b1ea486bbe.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c90eb331-48a7-4b09-84f7-a717cf7a6f12.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/666c24ca-3784-460f-a25f-52d9ae0461d1.jpg?width=720"
+    ]
+  },
+  "Chapitre 9 - Chapitre 9Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/9",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ee55030d-bebf-46e9-81d4-b9a567e5438d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bfa0ad7c-3661-4cb0-acf1-45d7634fdd5e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/98d91b51-6497-4be8-9ff5-edf1d0241b1a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/25d0855f-b4e8-4628-b40f-6480ed8f1fc4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/73b4576a-d339-4685-a7ba-8c2e124fe502.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d667d750-653f-427d-a71d-8365c6a184de.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/13bfa64c-1272-4b60-bce3-2501a208152a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/60faaf12-1030-4042-a1a2-f2384326b823.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/62fc7860-5e9d-4078-9fbd-86e4642d2dc0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4b05682b-46fa-4c37-89ba-8da7d4191e02.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1d4bab44-4fe0-48ea-8e93-812deafbd83d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/01c1305f-08d4-4159-83c0-f65bd2405853.jpg?width=720"
+    ]
+  },
+  "Chapitre 10 - Chapitre 10Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/10",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5afe34a7-811f-46f9-ade4-0f5705f2ef4f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9257b228-da4e-46ca-bbe5-025898f317d1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a99576a0-ac9b-452c-8aaf-78f48f33b285.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e9912dae-f21f-457f-900a-357da313989e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/29168d0a-9047-43ae-9080-281925492cfb.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c6b4ad38-3011-42d9-bc1d-3b331e504f07.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1d603916-ce8e-4c59-bf6f-e8134beb96dd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/49b1a011-55ab-46d3-b053-12ad2230831c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0cd25885-3ac9-4798-8a0d-9f4ded780f57.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a5ec8323-34e5-47c4-82f6-04b2a90af4e0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/66908a41-f03d-40ba-85a1-c38095fb314c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b7119fea-f651-4ec2-89d4-9264c70fd1d7.jpg?width=720"
+    ]
+  },
+  "Chapitre 11 - Chapitre 11Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/11",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2681b358-423c-4846-bfda-a3451dcc5818.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8ed4b1e6-6c51-4afb-837a-8654b2cbf812.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/67720f27-bbdc-491f-9665-f79a5bf44cf5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d2a51641-a4af-493d-a764-b8f508c5a522.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a8757e4f-8e5b-47e5-b88b-9cb4a1bc2717.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/09538d23-fa4c-48d1-813d-c09252cc0cb3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/71869f4d-1ca5-4382-9a88-b3ca1d15d5be.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/42d33aba-127e-4763-8811-63062b7a79b1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7ca443b2-8934-40a9-b00a-7e3b7a85a9c2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fa82eddd-a653-4575-bc8b-e93998f00057.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2f39e6da-0fd7-4b1f-8843-bb8fd83dca68.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/80849763-3a17-4101-9a82-976fe0a9c430.jpg?width=720"
+    ]
+  },
+  "Chapitre 12 - Chapitre 12Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/12",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4a001431-0e6d-4b2d-bede-3b466e429ffd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c6814ff2-b864-4de2-a664-26d58e193717.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f884b26c-000f-45f0-945c-402134d48f58.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e12e4ec7-c603-45a1-89dc-751c80d3404c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6497f457-f154-4148-9dff-5da8c15d9af8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3b036fb1-6497-47fe-88b6-84e66ef15677.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ff19d52e-2cb6-4d2e-ab82-539c7d2035fe.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a6ef85af-72e1-4da3-8035-6b29298d0543.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/816f7ae8-6c60-4222-8434-6d66becdea2a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bbbf1d18-6f56-42db-810f-8398ce30f988.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/68c32afb-622c-48c5-b8a7-7890c282e8e5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bf4a460f-5526-4bf5-bc5b-e2d4e0dba018.jpg?width=720"
+    ]
+  },
+  "Chapitre 13 - Chapitre 13Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/13",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ff1143b4-22d2-421d-91fa-437589d9ba77.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e18ae4ba-4e47-4267-bb09-a0320313705f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/854e579a-c25a-4db0-b0bd-2285da38f9bc.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f76581fa-47d9-468b-aeb9-405613a03e1d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8c44d298-f4c0-4146-bc8b-1d48a02b2501.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/024b333e-ee0e-4751-ba35-f8d9e09dd214.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/98d3b7fd-0e3f-4cee-948e-7925d3469aea.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b07b7d1d-ab3e-4386-b284-3261d5c5425e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d887acd9-a615-4c1d-9c2f-8d4a3c372e5b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d4033e29-d16e-45a8-a051-fc7c579416bd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/78e3499b-9362-456b-8f68-4083569a44ed.jpg?width=720"
+    ]
+  },
+  "Chapitre 14 - Chapitre 14Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/14",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b9177af1-33b9-4ea7-a868-3fffe7bffa3f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5a858edf-8dcd-4277-ad7e-d87aa2faf3ae.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c33e9912-7940-4c6a-9d4e-5d97b57ca70d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/278b0ede-fe2d-4e0c-9630-a956d9bb7041.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/005a99c4-0b08-479d-aee9-873b309a71e8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/edfa0053-4b97-4390-9ded-84b4756df840.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6884a024-1ebf-4ae4-a0e6-38d1e29d2825.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cb603961-564d-4acc-8897-558331283160.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/746aa366-c590-4a9a-b2cc-619dd272a16a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4d480ee1-5ca8-4b19-b38d-79cdc32858d5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c14c4073-1ca0-4ddf-91d2-868a0c3bb56f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9d285bac-1fc5-4ae0-aa31-0d4c82d29a3b.jpg?width=720"
+    ]
+  },
+  "Chapitre 15 - Chapitre 15Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/15",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/11f777c7-ff19-488a-99a9-fed4b6147add.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/378538ca-64d3-4721-84f0-9c6d869b8fb6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f82e4563-ccfb-43fd-b0b6-492ff4fc3396.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/55405778-1a1d-491d-8d00-9f53d931cc9d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/187a1c89-29fc-4e68-b30d-1c623a347d2d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a0e74b0d-39c4-4eaf-af54-aa33997b5575.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c22b5ed0-a683-4e39-bf7e-b5fd2661ec54.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f176153a-25eb-4803-8157-0eb7b7aa97d7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/afb00a12-dfa1-4f79-ac0e-4c8959922f86.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0344ab3a-0fa6-4583-9a3d-21ee62ee9d73.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c3f46c8c-e2cc-4aaa-a7b3-baef468174f2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c8b6adc6-8de5-440e-82ef-e0cd724a7854.jpg?width=720"
+    ]
+  },
+  "Chapitre 16 - Chapitre 16Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/16",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7a5bfb3a-6728-4f2f-b3a6-d393ba56500f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ea263b79-20a7-4a7e-a8de-f93e89c2ef3d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e1145ad0-d35f-4531-9cec-07c05426a974.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/43caa4ca-4055-47d4-bf3d-9bba66c8cc5f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9f5837fa-422a-478b-9deb-eaddc1f9b950.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5fc7cd6e-f5bb-467f-83c1-5fd6ac2135e8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cb14c9ec-ae78-448a-9782-6d53ea40c65f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5345a88f-bd52-4fd8-bb47-5af71e527f41.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/159ab013-da46-4dd0-9d73-7269795faef9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d45f068c-a56a-4338-ac70-7edac36756d4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c2d4bd67-4b15-45f4-80b2-9e04c1d272d1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/307b2553-6580-4ed9-b397-857f46d5e089.jpg?width=720"
+    ]
+  },
+  "Chapitre 17 - Chapitre 17Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/17",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f7ba3d8a-a1c3-41dd-8727-bd302ac69d31.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/34825111-dfa2-43e3-87b5-dd0945020d26.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4b414fb0-f788-4583-ae9a-269bdcc642d9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/80b1720c-5d8a-4121-957a-426ac766b802.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/234bc79d-e333-4c47-a607-9e7484a7aa01.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/75065fb0-2672-4d92-be59-e334abd4afed.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/52cfba75-4c7d-45b3-b584-9f06432fcb9f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/078573d0-95de-4c84-8aad-0192968b86fa.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1b430b90-5cfb-477f-9122-a969f57c0922.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/814e846c-7156-44fc-aa90-5936141bb947.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/22df16e9-ccab-46fe-9347-a2403d878c8d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d37b26bd-97f0-45fc-828b-47173c1ca293.jpg?width=720"
+    ]
+  },
+  "Chapitre 18 - Chapitre 18Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/18",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7f4bfa0d-d6ff-46bd-807b-e46fbaab3173.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/77a634c8-5d4b-4af4-ac4d-05464b348e2e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b38ac7ad-79ef-431e-9345-beedc2ad5dc2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/33ceda62-af4d-4876-bdbf-7e762bd514f5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/268a0ca1-c9f2-43ef-9117-5364417534ea.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d22422b4-9ad3-4b99-9d27-a4f06f3727ed.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7b9e5fbf-16b2-4866-91d0-f151ec150963.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8e184a72-8417-4b43-99c1-1db48c03580a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f1697a21-432c-4be1-9230-34f936f31173.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bb51439b-7709-4c27-b30e-19b654e4d65d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7472c294-1b1d-44f4-a6c4-b19ee575e6ec.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d1207109-03f1-4c7c-a247-ce7017984e7c.jpg?width=720"
+    ]
+  },
+  "Chapitre 19 - Chapitre 19Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/19",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/23007c28-e36b-4f8c-870f-274975b62e32.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/363fee8a-7a7b-46a2-866d-9f2cbac524e3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9f3ad900-f99d-44e9-b87f-f1f6d0164432.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5fcbcb33-e33b-438f-b2ed-0b0a6b41c787.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f6a1fbf3-7aa0-4bf8-9f15-ac7b605fc004.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9803e4c5-f9ac-4fb8-bdfa-d586065da446.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/14022db7-69e3-4a2e-bef9-4ca3cabddfcc.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/863a46bc-404c-47dc-adfc-bd71ef6694c5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3e37c29c-1703-469a-a1a9-4059781d119f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6ad59e9b-b0b1-4539-9ea6-9aa1f345368e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3a39cb5b-62e0-431d-95d1-8120ab06ee91.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2e8c341b-f8e1-4cef-9ab1-52de03c53f5e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cc2e3a8e-e9b8-4005-b1a9-359c039b8842.jpg?width=720"
+    ]
+  },
+  "Chapitre 20 - Chapitre 20Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/20",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7327ed07-2423-4418-be98-9be2fcd24d9c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/23befa25-7262-4126-ada6-50ba94c5a686.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/47886647-b38f-46a1-b909-02237a20a75c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/63fbbf15-6fe3-440b-9ff1-9ab623e8e465.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8113f957-c4e3-471a-80d3-7596526525f7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/09fe6349-89a1-4e94-8ded-4b1e71157039.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1134eadb-29df-4c39-a388-3af9928fe64c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1e56580f-a686-466e-94fc-1fc16ec353dc.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/afc20f42-bce0-41dd-bfc5-0a5edf8cfdc4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a200b17d-bc83-4a29-86d9-a5a2fed299f2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f842a641-b5db-40b6-8d65-27f45194719a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/655749cc-fadb-4bcc-b4a3-677814008020.jpg?width=720"
+    ]
+  },
+  "Chapitre 21 - Chapitre 21Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/21",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c279e43b-1b3f-4b90-a9bc-e4e45e45170c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b78b09d5-ae2a-4d5f-b34e-6944b97e2c39.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/678e28ae-b7ec-45e0-910f-9069f57e4f5d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1d2e87f3-d8fe-4582-b7e9-315cd1d09c80.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/902bd7b7-533c-4db8-b044-b3b95cbe31ee.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/318c121f-8adc-47e5-a91a-83f235130a88.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c5ee8448-ff0b-4342-9594-c764fdf7d1d8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1f19479f-e3f3-461c-aaa1-479c43c1e86d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ce22887b-7585-4576-936b-c680d8ee0638.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/400a4ca1-4a98-4812-a8eb-27a696567ccc.jpg?width=720"
+    ]
+  },
+  "Chapitre 22 - Chapitre 22Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/22",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b003a788-81fc-4196-b35c-60da509a3bda.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e414b5b6-cf8a-4465-892e-4e27d69799e8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1c86a86f-c468-4a24-bd0b-b16bccc45e4f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/aef4528a-59cf-4143-aeb3-edd902b89587.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c273931b-596b-4424-be70-f5b7e7811f63.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4d8efff2-7aea-481c-bf96-df8225ff2835.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/40f60425-92fa-45c2-8c6a-b7d4a7d51dcd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0e6f87ee-1d83-409a-af80-9317a25a9f47.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/14ebdb53-ff95-4fce-ad6b-f4011cf7f198.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4a019614-9ad4-4b42-ba8f-ad0223e2f54b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fb15e7f4-bbd4-4963-8dd0-c1e754f81cd1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/93e40d12-aced-4ff4-9c99-8cd4b46f5777.jpg?width=720"
+    ]
+  },
+  "Chapitre 23 - Chapitre 23Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/23",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2c8080cb-81fb-4284-a68c-64e2b995a2eb.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4a478162-ac29-4a01-be84-54c6e5baa69d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2f8f4b41-e850-40e5-8116-33646a044b7d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/dfd7a8dd-1bda-48b2-b5e5-c7556d18723a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/34e24ae1-817a-48aa-95d6-04ac847c8e51.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7e294142-79ce-4103-aa93-0592de229c57.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5da99dcf-7209-4c24-a57c-1c26e66244da.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1bc6196c-5f4f-4503-98db-cf138a3f4e53.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/50f883b1-51b9-4083-978b-47b450fb2678.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/858e66fe-cf3a-4e76-be76-6bb18bb03251.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d57ba470-a147-46b2-82d9-95c1f381252a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2b1b167f-b04d-4ab1-b902-91c2ecd14a7c.jpg?width=720"
+    ]
+  },
+  "Chapitre 24 - Chapitre 24Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/24",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9fbc2eb3-6c3c-40a0-89c8-dc50d51e9156.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/107c5c57-7ed4-4fe2-8658-6b8cd2810502.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3ddac5c9-03d2-46e7-b176-005477c79047.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/406fb0ae-ea94-494d-ab98-da9caa96f2e6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/01dbe57a-7579-49e1-9f3e-255324d96d31.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/597bb716-494c-4204-bbe4-0e7f65f7fa1f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5ab4f85b-7dff-44df-b79a-6dea1708b1d5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/43dbf2fd-e4b8-4ecf-a024-acb6ab8037aa.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ec4bebc3-21cc-4411-8481-4587e9949b38.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/348f0bba-6662-4133-bcd2-1cf39d871130.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d82eb312-17bc-42bf-9dd9-5819cb9b9c1e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/49d934f1-dfad-436e-9bd7-bb2c774c7a0b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3410a7f5-db59-4e2a-b0c7-e43d4ee2c3ae.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/011b51bc-b367-4b72-9852-8f922fc6d7fb.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9252ae49-e29b-4432-a741-775cab904e2b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c20c8d6a-cad2-4ad7-86a2-46f9f21681c9.jpg?width=720"
+    ]
+  },
+  "Chapitre 25 - Chapitre 25Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/25",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/aa5a463d-a35a-44dc-8f5d-8888969e31cf.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6655a77d-e13d-4319-a0d8-f293955dbda0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/28c74aad-d955-453e-91f2-96c248db884c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2f7563fc-0f23-4e14-82b7-0324215ac47c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f961f101-f649-4b02-aef7-08830ce936e2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e040c62c-dd05-473c-83e9-50f1f7ce9487.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/995a0592-c266-47f7-95e7-926e910a8828.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/98306e7e-22ce-439b-9711-61ece282ebd3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fe622762-ceb0-4445-9f7c-9531a21e3817.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/631d7c8e-79ef-461c-9b96-263c587664d2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a58036c1-4c60-4406-9bbe-1f37b9a5f02a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/baf934e8-c49e-495d-b3cf-c0127a94509f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2d55152e-ea4a-471a-a165-03b7b5f09fbf.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/091a0817-c1a7-4c01-bbcd-16b18de9fe75.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/534f3833-922b-424a-888c-76dbb777eb17.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/da66bd6d-c491-4c69-8a83-3dfab8b78876.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/722b223d-a8a5-4be9-849b-04005d9eef26.jpg?width=720"
+    ]
+  },
+  "Chapitre 26 - Chapitre 26Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/26",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fe27776f-1889-42a3-8980-5f54c853b2ff.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/571b98df-f641-44f6-a9a9-4f401843fba2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4112b3ad-d534-42b6-9c3c-bc9ba4df47e6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/779056bc-24b5-47db-99be-83e7faa6969b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/03dd6158-41c3-4fca-9f96-b1536ea52aa9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/89e9a28a-13f6-4220-9f00-020f944898b2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/74badc57-0507-45cc-9cfe-4616a378bae7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1744d82b-bdc1-46aa-bf4b-8068438b7784.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c8ed8875-c0aa-488f-bad6-3a14fd402350.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fdf12bcf-fdd6-4d12-a46a-a6b484786f04.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cf0f43bf-ddbf-4769-9db7-63bad65ff2bb.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0955ff09-1403-419d-ab05-411ab30e0964.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/37a9676d-c474-4efd-8843-4e275793194a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/22ca882c-b33b-4467-ac56-792842208585.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/401b8c9b-0f80-4ea3-ba45-d1e96102b0f2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5dfcd07c-fff1-4f49-a400-a7793cf47a21.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c893a71b-21d9-466e-82ff-2d1c90e6ce5d.jpg?width=720"
+    ]
+  },
+  "Chapitre 27 - Chapitre 27Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/27",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e804619e-ee95-4c8d-b9f5-f1380cc61fc0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b66580a6-32cb-4653-8ec6-7df7929293d8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ad4ce0b3-ab45-4dea-9f87-2db9ef8335cb.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/10acf51d-ccfc-4e2b-bf1c-d840bffda823.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/91dfb009-46ee-4260-9718-4e3606e7b830.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f2d2adad-438d-4f59-9daa-cef959c15780.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8415832b-4042-44e3-af62-96a509424f3c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4436ee14-8cb3-487c-8dac-f93238cbb16b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6b0463ed-8479-435c-85e3-5b0c0afd1bff.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2d3e04f6-8623-40aa-a8e4-f28af8f406b1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/09548e09-32d1-4707-b9d9-983d9f8ddae8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/92e2b747-6b11-4e38-9aa6-0c5e57e942e3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/069405a1-f977-4980-a293-06b42088eb6b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9ca10457-934d-43e1-b16c-55ae6ab8c4e6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/14e8aa4c-35bf-47ad-b690-587a5f3b99f8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3f89925f-7aaa-42a9-ac53-a63ebc7ba4ef.jpg?width=720"
+    ]
+  },
+  "Chapitre 28 - Chapitre 28Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/28",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d4db0f56-2a30-4aad-b007-1aed4e07ea57.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e5e0ebea-3c5b-4c24-a887-f7485777220e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9dd86d99-8f2d-4eb5-b00a-6c694872c3f0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/93b02e30-e696-4ee0-874c-d76487b264a9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9a3a0cd6-2a6a-4255-b580-be2e8e16f24b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/86e02278-7375-441b-889f-f9e04535ab7d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/02d05d76-0c28-47e3-a47d-000afcecd957.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/34a4f398-ebe8-4de7-bc1f-b072f40c4e21.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/735ffe83-3e26-477b-9cee-4f3b02cf2d4a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7c82c890-a67f-4bc8-b50c-5957ddef982a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7ada6657-c278-4eb9-9012-21036039dd03.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9aa8a951-fc57-4318-af5b-adfe755d73b8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/243b9088-dc89-43b3-a139-750d9dd610f4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3c5caa4b-85bc-4b05-900a-96155db1bb13.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3a0ee8da-ed8a-4cc6-b561-8d4ae2863b39.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d7f60860-9587-4f2f-b751-89ff0444d9e8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1451766e-a7d2-41b0-aa97-acf101a8ad45.jpg?width=720"
+    ]
+  },
+  "Chapitre 29 - Chapitre 29Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/29",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c05f415e-9f7f-455d-b08d-8db06927eedc.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/64e81b1d-eabd-475c-8973-20429951bae5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/633cf4be-c80e-48f4-b8f3-b4ec9a9e8703.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/186e8328-b217-4cee-9474-4042fb980a7f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2edd84a0-7806-4a63-aeda-4d86df826a11.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1748faa3-3b76-4f24-ba7c-79876b694b8e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/482a7d78-366a-49db-bf9d-2375a699959a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cbc96383-ec8c-483f-a9ed-9980299109ab.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8f07b62d-c9f6-45aa-a8a2-bf3adc6f1ea7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/016de587-67e5-441f-a74d-0630d93cfe88.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9e473257-c548-4c40-bd8e-a892f3522792.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3b31ac42-347d-4aed-96ca-5c94d2ae1385.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b22e34d5-410b-482f-becb-3a889ae8f8a4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/211e33a4-e8b7-467d-8fa0-de0ed94cd63a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9be5450d-2d98-465f-a944-6c7d9f534cf7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/367e6dd9-ab14-46d7-a04a-dacb85b82552.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a694327b-7299-465c-800a-705c468e651a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/968bb6b3-a418-43da-bcc4-286e40e61015.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/30cca9fd-e195-4f63-9148-87c8c7840283.jpg?width=720"
+    ]
+  },
+  "Chapitre 30 - Chapitre 30Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/30",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/82bf4605-69e7-465a-8fca-84455708a21c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/65ed0ce8-ab3f-42af-84a7-042d2003218c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d28d7a7d-8d7c-4c83-b1fc-5ab5d175db99.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/eb6b89ff-7715-4f2d-bdd6-b8705ce9007c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/92d8f33c-1213-4e0e-9688-2f471c68f116.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3041ddbf-dac6-49b0-bafa-2959bcedb1bf.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7badc472-da6b-4e2b-845d-330bb08ded86.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5d31badf-623c-44a0-88aa-3ce1914a3db4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f70ceed3-ec96-4315-b4a2-c14c7305976d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1a53fcdc-e0f5-4db6-9def-74cc247634bc.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/945a1892-08d0-439b-b83a-44cf5765d512.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e8c954f1-2d02-4725-a153-7c19617347a4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fafc6414-615e-46fb-9888-a4e9167893d7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3e618e75-9be3-4b89-95c2-6883682b857e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/19ac4bd9-1751-4135-a971-7546b4e1923a.jpg?width=720"
+    ]
+  },
+  "Chapitre 31 - Chapitre 31Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/31",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/35513d00-52a4-45f5-a5d8-a9e50e4b352e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4c53bcd9-7b56-4e0b-ad50-57d93064ceed.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d962d981-8e88-4a39-a371-979bb12d16de.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/372d7c38-658d-4f78-a8f6-840a9d2dea4a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/687df017-6a8a-4ceb-84bf-af07a589c670.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e24211e0-56be-433c-92d1-33af89ba2c47.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e34f42d3-e3c3-4f6c-b736-c56f6ba9345e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/48990257-3a73-489b-b289-2549919be144.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4ee2c4aa-194a-420c-94ca-c4c80771ad7f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3262f1b1-1628-4cab-b71f-b7a897a404a2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ddc168b5-617d-4608-9e0a-cb11d2ff98c1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/87b806fc-38d3-4d76-8e9b-12440b4beaea.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c0862a37-451a-45c4-8c06-0ef8c24fb8e0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e985ed8d-606e-4019-b512-4083c91e0120.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/03ca5210-fee1-4285-b35a-a498f1ccee95.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/73d76843-d5c4-467b-963c-391aee846bd9.jpg?width=720"
+    ]
+  },
+  "Chapitre 32 - Chapitre 32Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/32",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/98640c22-2d17-4aa1-b2ab-9e9e6eaaed9d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b3687e3a-e461-4f76-9d94-46196a9cb538.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1ff5bd72-4794-434c-9063-aea1e2600bc4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d006e566-da39-4e0c-9a5d-732bd9b249e0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9322cba1-0de5-471f-85aa-c56301bc5faa.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fc75ebe1-3934-4d19-918e-5442e2fcfda4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/79e9b5aa-01e9-483b-ad39-200cd49e938a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6d4b1320-dfb3-41e2-afba-7cd33fdd1cb6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1ecde4a5-3ecc-4b96-be0f-b7bcd4732376.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c16915e1-90e1-41c9-b726-ac3d85e7153b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/64138bff-6e17-4dca-b1d9-6ca916b3e6db.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/833420de-8fed-4e8d-88fe-2659e8fd3fd2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/16d471cc-223b-4b5c-b681-893ea464f403.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3a5dfa77-556a-4987-b393-52e53a703f3e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ca96d34a-d2db-4a24-b73c-fd594286dcd0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cb88dcef-5831-4abd-adef-fb84449a6433.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0b90f2ba-4ee6-4e4c-8207-e9b6566dee2c.jpg?width=720"
+    ]
+  },
+  "Chapitre 33 - Chapitre 33Il y a 7 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/33",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e347acea-30a4-443f-bdc0-fd259b3d3e33.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2ae9d130-502d-4ecb-97cd-fb87a6d776ca.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6f120ebe-f8cd-4631-ac0f-8e3ff6cf27ea.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b4308a83-f04f-4039-ac2a-8583fc07aec4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c31d596e-e30d-466e-9df8-8602464f6626.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d46d49ba-bb63-4e20-a948-e77459d798c0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/eb265f04-f1aa-47d9-8e12-8766d27a87d8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5b6547ee-860f-42ac-b10e-6a3ab11b79e2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e6aa038c-ba7c-43d8-8b93-123af11b2ed5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/eaf41131-fee3-4e0a-97b7-10e840ddf8dd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ca5e6b3c-065a-4137-ae15-f18164e56766.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/defcff11-105e-48a6-aeda-d39291a11433.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5992f440-4c0a-4210-8977-8670bd98b5c5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7da89b1c-82e2-41b4-985d-4aced872a2e2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/913805c0-b80e-4d4d-b072-c6cfe4a94b23.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9d87abd8-4abe-401c-bd83-de60a408d5ff.jpg?width=720"
+    ]
+  },
+  "Chapitre 34 - Chapitre 34Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/34",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/affb7d7a-6348-4154-8257-30f17bde7c09.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4c23711a-0f8d-429f-9189-0a941fbbf7d7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2db08185-5d23-489b-a7dc-03da8f9b2682.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e936a01f-0ff0-4a81-a1c2-df4ad3d60176.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e937cb4f-d7ef-4ce5-8581-29ca76623f0f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9eef5bb4-ca96-41ef-94d6-0171508d5bbf.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b205c949-9ce6-44f9-8a49-f7816d006007.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c9c6ab88-c16b-4573-a65e-7fede046ba9d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2b80affa-b817-4b7a-8eb6-0656db2f21d7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/83b7c59d-ce1b-4299-90fc-0d4bf3f9ae31.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d9fe4f6c-b905-4aca-bed6-b5f362f86d28.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/dfae2794-8a92-4ece-a51a-8f4fc3f81672.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fcc9445e-0547-4248-8995-a719f5d90852.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/aa3fba92-e4f2-485a-bf9c-74a2430c5a14.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8097321b-4a0a-49df-8514-0728ee8c8928.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/dbbacd1a-02d2-4f90-9a5e-14549d35c545.jpg?width=720"
+    ]
+  },
+  "Chapitre 35 - Chapitre 35Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/35",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1eb4ddf7-ceaa-4a60-b84e-7cfbe77abe22.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/226bc405-7ec5-4292-8456-82816542cc7d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4475af78-93c9-458c-8495-89455dc22968.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/073d9961-d9d7-460d-8561-837c6b9599f4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1f27304b-906b-4512-9766-af8e598e5109.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/8c04225a-6918-4c95-ba50-c6bc1adbc765.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c81aeedb-11a6-431e-a06d-f81e71a321ba.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/83598f39-b28f-461c-bb04-4f6b73c232a5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ef0c5fd4-5f24-4c54-8774-263130012824.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/23006311-4bfb-4f12-bb27-6dd3e93128df.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3ac38a4d-fa91-41e9-a471-2aaf7fbada26.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/95077b09-18e1-460a-a1ef-a78bb804812d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b1ea88ef-6c70-470f-92b1-89f881328831.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/999b57be-f3b4-48db-ba9e-68c42adf844f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9521a95e-f515-4590-831c-4e25cbf1da24.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4058cfb4-f978-4c51-8473-49195bfa29ef.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/03652dad-c92a-474f-93a9-985079346249.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7300057d-b50b-4bb6-817b-6113a61271c3.jpg?width=720"
+    ]
+  },
+  "Chapitre 36 - Chapitre 36Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/36",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2d1ecd72-41e0-49e1-83ae-c73829d0f567.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9f11deff-76e5-45bc-849c-b59266792116.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ad0c0d85-3f56-4a77-881a-7d5366cc88b2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e342d1f3-c025-403a-99e7-87d168b79a4d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9331c80c-9fb2-458a-acbe-877cd2658cc0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6c9a6ef5-f7a6-42b9-bde9-4260ca34523d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6660762a-8d01-476e-b00b-f33c8ea20d3e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cc525434-6c0b-4a0f-ad33-b1f77a215948.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0cca2114-d54e-4a25-85d8-b5a07397474e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/67bd1048-4f6d-490d-bb5e-a595b5352d43.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/587276ed-be0a-477e-8aac-e07c7ae60df2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/16ab3db8-2d5f-471c-9bc1-d7d45c41aa59.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0bff5f3c-aff1-4f43-8d96-e135db591b30.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/18307c77-0f59-4f61-96b3-d249d1d19da4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/62c65793-1343-403c-b7b4-704d64b81523.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0f9065e9-ce46-47b5-b81a-2ebe21bbf0e9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6e087ba9-39da-4a3e-a8c0-012f497c040f.jpg?width=720"
+    ]
+  },
+  "Chapitre 37 - Chapitre 37Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/37",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/43882268-7482-4126-ae13-4d74733bc801.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5c2273a8-daec-4302-92e2-e4efc5e53484.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b2b8cfdf-6db7-4c8d-9840-aa3bf139c184.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3902ac26-78f0-47fa-9d95-a560dbd0b152.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/50fad91a-afcd-4114-8fa1-2b61a3ba79ee.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1b3ed6e6-d70e-4846-a4ed-8b2ffccc4ee8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/64b009cf-3427-4063-b7da-c4cbd10db675.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9fa40550-02db-454f-95af-b72d0b13ce5d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3e2019e4-8cc1-4020-b71d-815ce9393e34.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/70d63cb5-9080-4e0f-94a3-46c3c44e0760.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f1402b6e-09a4-4389-b86f-0355fa1f40ed.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/195213cf-a4e4-47f8-8734-722a6452fe71.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/dc30d024-0aa6-4e9b-8d71-2b15e8bca3cd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5082cdf2-327d-4475-8895-a63e3ebe1224.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4a78a0a7-f172-4c64-93ff-41f73f7ea52d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2c0c4129-687e-4891-8a4c-8508d09de5d5.jpg?width=720"
+    ]
+  },
+  "Chapitre 38 - Chapitre 38Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/38",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/46e784f8-7281-4dca-8fb1-0f4339e2a6e8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5c327d98-7957-4ec2-8e0a-dcb1e5d5029a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2b5a69bd-75f7-4e7b-af36-12d94f01eb22.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9755eab9-ea04-4e24-b54b-f1b1c16d2e4d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/407583ad-19bc-4809-bd70-220f402c9b4b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/808bb00c-cada-4419-af46-be3703e41646.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e7c648cf-836c-4d56-bc3a-63e4479dc983.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f7663ba3-7baf-4a9e-b1d1-4435fce89097.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0c61cbf2-5946-4efb-b86f-38f6b884ed7f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4fcac93a-3d49-482c-9e0d-04ca28897275.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e19f80d6-2773-437b-b05f-4e33e00e3927.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/633169d0-78b1-46e5-9ae7-db1e78921c79.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/656cb3be-8900-476e-8015-c80ca7890ac2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a3d52ba6-5b87-4de6-b72d-41245c9a2a92.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/117a77ae-ffb6-4d83-8523-652b4fa94e4e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/6049a7a1-cc42-48cb-a9c6-ad78e55bf5f0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a480823e-a344-4abb-a3f9-17da373ada0c.jpg?width=720"
+    ]
+  },
+  "Chapitre 39 - Chapitre 39Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/39",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c235a5de-7c10-4821-8934-70815d4071a0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/264d770c-4f6f-4a69-aeef-daf90212ef41.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7cfcfadd-3ca6-408a-87a3-0d820a9e0a30.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ef5e27b6-8f53-456f-b458-1fcfd7493f13.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/83a62fd6-b7b4-4cfb-8616-77960e80c00a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2356980c-7d51-4f08-8528-0723a6265cf8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f587dbeb-07ae-4f82-9075-e73577724320.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/19ece52a-1e2c-4ee6-88ef-a1b398d568c3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7283886a-6df5-4fdc-a2c9-5b7d2b754acd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ee4421e8-2fa1-4a13-afbd-d4730d722200.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2f6657de-8a75-4ce2-ab8f-0683e4014cc8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ded45065-5e22-4885-a08e-2fe91366fc0c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fe3fea6a-ecd5-4d34-9ada-b5c4d1a551cd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2671effc-5dbe-4225-90db-82d86e36194b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/58f2eb47-91f8-485e-a038-2278c5b60fdc.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e6f0bc06-f6dd-41f0-848c-1729772466eb.jpg?width=720"
+    ]
+  },
+  "Chapitre 40 - Chapitre 40Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/40",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b6589905-a17a-4ff7-927a-fe0c633d1fcf.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7a408163-7189-42f9-b5aa-ed9acec9f874.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/84887ed9-b578-4444-a522-7e6c5a61c936.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a631a53a-0659-4963-b7c8-f7010d1c33e0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e8feb53b-9801-4dcb-8e6e-6c0e31d0a055.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/7bbb140c-577d-469c-951f-dc0256933160.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/58712806-8793-4fb9-9fab-49ccf5b039b8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2b9c871c-0cea-44ff-a888-2c9f200d90af.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f9598c21-c748-4c4d-b23b-aa330354c52a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/51f6d750-fe90-43bf-b9d0-803b6a94c425.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/cec786ad-0985-41cb-b9e5-28fabf666d8f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/975efea9-a7db-4632-8edb-a352bfc5c803.jpg?width=720"
+    ]
+  },
+  "Chapitre 41 - Chapitre 41Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/41",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b5f05f82-a5db-4a56-8c2d-123ed271ecb2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ab8af63a-e77d-45c5-812d-50f444056960.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d73ac1ca-2e8d-40c7-984c-efa6c5d8825e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c0811011-35f1-41ca-a9e5-6f6b0d867a6e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a7f5188c-d23b-471d-bbe0-1cc3c554a94d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4d984840-abcd-452c-ad34-ab7a2ed4ded1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5f3f2954-49b2-4ff3-858a-dc8f0be7fa68.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ce3dee6c-bd62-4d53-a76b-9c3b0fced829.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/39b396a1-2a5c-42da-a31b-f0510ad73ab5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fb15647d-e33f-4db6-b9f2-b73f8b049f4e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f36890b2-29f4-464e-baf0-88daf83e3f9c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/78826697-26d4-411b-b6b2-a6a4a58d1da6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/eddbc906-23f9-4018-9c62-e268b38575b4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e64a9093-bdd1-41cd-ad5b-278ca761f490.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/34ba5f25-71d1-435b-b02a-c35931a0a66d.jpg?width=720"
+    ]
+  },
+  "Chapitre 42 - Chapitre 42Il y a 6 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/42",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1bf8fce4-8baa-40ff-9f1d-4dfce09c6887.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/47068edc-6f75-4564-808c-d1cdec62865d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e0b4089f-68df-4701-a721-e6006881cd5e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f4d8c92f-36de-4132-ae57-c5e538c0cc85.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0d660587-afbd-450c-95a4-b9a7b16bc1de.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2a6101fd-7881-479a-a10c-ec163bb6b5a7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d9e7c4f1-6098-4a82-932b-335845700b1f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9eb5d224-503e-4ca6-8af3-b522744f05c5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a1bb3d8f-cf0c-40e4-b0e5-03ca3d9da5e8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4e7e3e1a-d228-48a5-9c03-6a6dc93602a6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/bdc8a7a4-6a90-4476-8153-fbfb966fece2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/47c2b782-8212-44a5-beb3-48b4895d9426.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/5e411886-70e4-4009-afde-5ff1c9019fad.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/3e41396f-bb48-4edd-9a84-80cc4b03b1fd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/81bc13ee-2378-471b-972e-57106be7e19d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2d446371-625b-464d-9ef2-291a15456494.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/90b019b1-f0e3-4411-b6c8-4eb3bbc19bbd.jpg?width=720"
+    ]
+  },
+  "Chapitre 43 - Chapitre 43Il y a 5 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/43",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ad0f94f9-2252-4495-b554-315310d28c8e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/40622d08-4ff4-4b7b-87ac-aebd8c8725cd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/21da58fc-2dae-4646-be28-9ff651529bf7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/369ffc98-f24e-44f8-ac56-1b568e1bcd3a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c82cd90c-5aca-4eff-bad3-46dc0990eb7d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/16ea2b6b-ecad-434b-b132-f6e023d2d79e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/88f1b2e3-fa43-4101-8a5e-10620ce23a32.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/55911f6a-f571-4c9b-9c19-623e6e8ed5bd.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e0b12889-f8ed-441d-bef8-3bbcd9b9aeed.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b71f3fcd-17db-4b92-8966-5e9afe89e83d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/58f3c0e6-69dc-4374-9265-1e134e244317.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/e95f3070-2084-4577-8338-24c4e2e4186a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1c9bcd6c-6e6a-4b19-8d3c-613f62e071e5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/293230ef-1b95-46d4-b6c9-16b191ddd585.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1c3cadbf-eec9-4c5a-8cac-10155e0e0184.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b6addd61-1449-4948-93cb-6c0eff1eda15.jpg?width=720"
+    ]
+  },
+  "Chapitre 44 - Chapitre 44Il y a 5 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/44",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ed6c0e6d-3694-48a1-b811-812747ea913a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/b79a8d58-d44f-4640-9d87-4f187133c0ec.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/17778995-0c06-4870-b4f5-63b5fba5e4db.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/12a96235-4315-421d-8c1d-438e7c6dc095.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1ff1a2ce-d589-4e76-a197-698a90e8ed62.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/a5c847bc-4ad7-48c8-a31b-a02cf2b1f46d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/2776fa1f-40d2-44a3-8805-f271c700b700.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/15df3e1c-68ff-4899-a56b-ff2250b6dbed.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/61c9a1c0-4a6d-4e30-ae54-a9dd0da318c4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/f513032c-997d-42ce-8292-dbb6293a4170.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/1894ffa9-bfca-4060-9158-4eaf72271957.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0fb0e7ae-1456-455b-b2e5-06c326b2e953.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/d92df834-7de2-419e-9969-4dbb8e2310b7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/adc61117-c066-4d29-84f1-b301b9677461.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ea13f179-9fe1-4411-823c-9147efa19543.jpg?width=720"
+    ]
+  },
+  "Chapitre 45 - Chapitre 45Il y a 5 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/45",
+    "images": [
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/4d77461e-006c-449b-b33d-b66bcea35749.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/c379dd05-6008-4f2d-92b9-927636b375ca.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0fe7a90e-c553-45a3-acca-fcc5f1d4ed0f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/98c3e767-8bc1-4edf-b9ad-fc2455f6b4f8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0a063346-7d05-42c2-ad20-213619554332.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/67cb126c-b672-4fcd-8ca8-9b116af469cc.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/63d4486f-f730-41a3-814e-5f01fdf944b2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/07005735-03ba-4e3d-ae3b-4d8c3f140274.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/0fecef0b-359f-4372-9d9e-5e15c4d55816.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/16c4f64a-2b93-4374-899a-c5c2b4c7d283.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/fba01c2d-b3e8-4fc0-82fd-9c00ed142f1e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/670f9f98-6d8e-42b2-88df-25b9d44fb7c5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/9ba234a1-ba60-44f8-9c85-eb6bf4191099.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/manga/67bd6109ae810159afa29e6c/ab4e08bc-991a-41e8-a27d-5b12c158efae.jpg?width=720"
+    ]
+  },
+  "Chapitre 46 - Chapitre 46Il y a 5 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/46",
+    "images": [
+      "https://phenix-scans.com/api/uploads/2832c8aa6ec742a89f858c9648ac547a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/5f4cb168d93b4242b13fde567e99a953.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/f00414ff53374f1385533acbebc4611e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/08ea2d2fea06450981ace7750e3575b5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/e6da7facea124289a6cfb1b286255e97.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/2f0f3c332df747769f441b94e6779f68.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/16cd6c3589984ab89636c7fed0f75934.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/b32f3c4cb0a6497dac611557585cee7f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/57064fec5a7b4a1cbcf8a39f472f1862.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/b58424ad0e224eeb9089e72015054a73.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/a3b8e960fce74687bc5142e1e7266f7b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/677d74e1395347ef9399fe4eb9bd48e3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/3bf66dd5cfc449fd86913e2f43df710d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/d1a27fba5f654bca8dd9ba6ad7710195.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/bf44158f19004bfca9af9d6a695efc0a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/dc64eca7c91945dea2964fddcac22b56.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/229aeddbb1cc466ba483a0ec930e6bf7.jpg?width=720"
+    ]
+  },
+  "Chapitre 47 - Chapitre 47Il y a 5 mois": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/47",
+    "images": [
+      "https://phenix-scans.com/api/uploads/66af55bf0c9e43d29066c6241678231d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/8c0e40a96b2b4835a33356a7af090b68.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/6923ae6937a04123add5b43396e3a9b9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/95b7902e6b5a4d7dbc5f9bb9ea917088.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/35fb20bc6453436daadc70fbc5c37909.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/0e9a33f7d06340c785827552bc69d096.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/39e50f1b05ba4330b412c96607e2455c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/b9c8e1dec2e643d88cfffe2baa73e17d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/72f1e4af120046939f197168a49b87c9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/ddb5ccd693534c1b95406a5f7a5383cb.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/5df457ef99254bc9b94d5f3c5d753ce1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/8f597b53d30f41a38a10a56dd9bcec60.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/287cd683241e4c6a968a4914338415aa.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/dd5315df21a14e019737f14705df4c7d.jpg?width=720"
+    ]
+  },
+  "Chapitre 48 - Chapitre 48Il y a 4 sem": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/48",
+    "images": [
+      "https://phenix-scans.com/api/uploads/c8915717b73647ebae7b1b6aea67eb40.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/c28a670faf5547e5becb3fd19e1400ab.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/a10b3e577b284a20a772fada018607ca.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/a0fb39ff927e48668dce26c6faeed3d2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/ffc2b8a248cd4680a33e15072b401ab0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/e5ace976f2f04123856f4c6738600867.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/47f10b1a143c4c34bc659bf02f222414.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/6ffa840610c243c99b0830ef1817e744.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/ab06387c285f4edfa82b1c3663d089a3.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/257de48a19e44b708751e100769f5a0e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/bdcf781dd1b54545af6c84872313fae6.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/aed82b9d9651483d8b55c831b9b97de4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/1c5a401a76374def8077bd3d0d2d2041.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/150bc02d555f4e6386676dc9d952fb21.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/ca69e2c5a701439d9abf8504ea8e95a4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/bd35cd4ff1c2479284f8aab3cda25a95.jpg?width=720"
+    ]
+  },
+  "Chapitre 49 - Chapitre 49Il y a 4 sem": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/49",
+    "images": [
+      "https://phenix-scans.com/api/uploads/1862c84fddb5451a99711c6b8dfd56e1.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/a5ecfba8e02f4e7fa35e695439c19b5b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/8b461994cc8346f8b598786efc287793.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/5a5c20f70a534b0886360f2f5c34cbed.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/355186bdf55845908ac63dd6cab48731.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/a2ac4649ed854e749b0af7d905c3d6a4.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/1105d843442542b48530eff2b9592610.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/ade0c5fded304a459d4f77ecd2e03744.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/c659eb88e87042399df38858a351bf32.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/8fb83f0685154922b56e8915fdc57d79.jpg?width=720"
+    ]
+  },
+  "Chapitre 50 - Chapitre 50Il y a 3 sem": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/50",
+    "images": [
+      "https://phenix-scans.com/api/uploads/f4acb8eaaca547d8a0840b81ae8b6f0e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/f08cc3c2eae149dfba0cca451f69467a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/4afc32da51024aff898e1270992cb5f9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/53f65e0c4ed442c88c31784a4e10e0d2.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/e3e0623ba3d646099cf6c1506a699c05.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/8e0a155059d243868410390f51a2eb49.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/71572c46665f4fa3a83ba70428e517fb.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/2d415bafda9d474da038db7428fb9c4c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/cbb6abf295f54078aa409012f8aed5aa.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/ace262baaa24497e909ff4dd6c12a258.jpg?width=720"
+    ]
+  },
+  "Chapitre 51 - Chapitre 51Il y a 2 sem": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/51",
+    "images": [
+      "https://phenix-scans.com/api/uploads/7109a38d4f044d2f98b3adbb054d2068.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/d9a2d4d68913482cafa8a5649c58d72f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/f9b7768fbdef4a6d97b585639c25512b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/48443ecf88e244fe95dd87638480e36b.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/4478e203a03b4853ab08b07bb6dfdc6e.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/a7e5325ad99c48fda06ce723b46856c7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/90ee9276a2a946d886fb45c36f8185d9.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/185f78a8491b449ebf4cd46ec4a058d0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/b985ed34f6c34f85ae6d413a7c0e8e5c.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/5ca52ceaa7bb434d8d3f099027944f3a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/4fc51bbab8cc49b687b6578349ae7d70.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/8d34bcc7d20545aab04acf0fbff084ad.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/1a36fb3f7ef34089b61d8763da13ef92.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/e32ec6335ba0431695f3085cf51cbeb0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/a34a980bd1404ae0acbefea3ed73680b.jpg?width=720"
+    ]
+  },
+  "Chapitre 52 - Chapitre 52Il y a 1 sem": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/52",
+    "images": [
+      "https://phenix-scans.com/api/uploads/f940eeb91e2443819af996563ad0af38.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/f1f253139aee45e4a550cbd1dd01ba03.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/fac8ed69046d48a3a6bf4e31a4776120.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/e205d4ba01be4098959158231bb2d75d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/17f46459d11445d4beb3253975dc4359.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/e5e67d590a3f46e782025262090aac53.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/b19c98c46a4349d3b8f8ecd8af5458f5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/2ff90933cfaa44639f1f7e7714e43c9d.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/9526fbbec4df4cfe97d64a6576f04cc7.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/f4908d594be8454a9f5906fd676bacd8.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/b13b57151e0e4b94bd41b64c83176198.jpg?width=720"
+    ]
+  },
+  "Chapitre 53 - Chapitre 53Il y a 1 j NEW": {
+    "url": "https://phenix-scans.com/manga/solo-leveling-ragnarok/chapitre/53",
+    "images": [
+      "https://phenix-scans.com/api/uploads/a04ebb238d594d94ba478c9b0a2300f5.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/5613516df12a455dade800b04a8d9e7a.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/9c0d3c9a224f4765944f4a24b89cea96.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/cf53f49c33c14f5d8c9b8ac516a2920f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/dc1931bed8e94757ab4810f970de24e0.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/cc762fb7528b48fab84fca5c4c9a3207.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/19bc2ac2adb84de7b4a01da01b09234f.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/4eaeb8ddfd054419a7fd61c3e9ce0e12.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/1e308e12838941ea8b1db7baa3497698.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/ce978c950a9046f786e2da9755aa4d69.jpg?width=720",
+      "https://phenix-scans.com/api/uploads/678d9307541a4a7b98f398c6fd623748.jpg?width=720"
     ]
   }
+}
 }

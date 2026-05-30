@@ -4,3 +4,5 @@ reincarnation_of_the_suicidal_battle_god
 *.log
 *.tmp
 *.csv
+.claude
+.claude/*
