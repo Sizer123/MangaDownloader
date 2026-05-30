@@ -1,0 +1,17 @@
+{
+  "project_core": "Project_Domina_Echo",
+  "timeline_branches": {
+    "Branch_001_Origin_Flux": {
+      "causal_nodes": [
+        "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+        "https://www.w3.org/Icons/w3c_home.png"
+      ]
+    },
+    "Branch_002_Temporal_Shift": {
+      "causal_nodes": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
+        "https://raw.githubusercontent.com/mdn/interactive-examples/master/live-examples/css-examples/images/star.png"
+      ]
+    }
+  }
+}
