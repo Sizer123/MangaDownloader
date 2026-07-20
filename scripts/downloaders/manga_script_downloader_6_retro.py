@@ -225,9 +225,11 @@ class OmniversalDownloader:
         
         return Panel(table, border_style=NEON_COLORS['green'], title_align="left")
 
-    def hack_manga(self, json_file='manga_data.json'):
+    def hack_manga(self, json_file=None):
         """Processus principal d'extraction de données"""
-        
+        if json_file is None:
+            json_file = str(Path(__file__).resolve().parents[2] / 'data' / 'manga_data.json')
+
         # Bannière Domina Perpetua
         console.print(self.domina.domina_banner())
         

@@ -212,9 +212,11 @@ class CosmicDownloader:
         
         return Panel(table, border_style=COSMOS_COLORS['violet'], title_align="left")
     
-    def process_manga(self, json_file='manga_script_json.txt'):
+    def process_manga(self, json_file=None):
         """Processus principal d'extraction manga"""
-        
+        if json_file is None:
+            json_file = str(Path(__file__).resolve().parents[2] / 'data' / 'manga_script_json.txt')
+
         # Bannière ORIX
         console.print(self.orix.orix_banner())
         

@@ -6,3 +6,8 @@ reincarnation_of_the_suicidal_battle_god
 *.csv
 .claude
 .claude/*
+__pycache__/
+*.pyc
+cache/
+error_logs/
+output/

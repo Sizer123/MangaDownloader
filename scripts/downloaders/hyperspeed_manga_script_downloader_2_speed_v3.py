@@ -13,6 +13,8 @@ from dataclasses import dataclass
 from typing import List, Tuple, Optional
 import queue
 
+PROJECT_DATA_DIR = Path(__file__).resolve().parents[2] / 'data'
+
 @dataclass
 class DownloadTask:
     url: str
@@ -132,13 +134,26 @@ def extract_chapter_number(chapter_name):
     match = re.search(r'Chapitre (\d+)', chapter_name)
     return int(match.group(1)) if match else 0
 
+def cbr_is_valid(cbr_path: Path) -> bool:
+    """Vérifie qu'un CBR existant est une archive lisible et non vide"""
+    try:
+        with zipfile.ZipFile(cbr_path) as zipf:
+            return len(zipf.namelist()) > 0
+    except Exception:
+        return False
+
 def create_cbr_from_folder(folder_path: Path, output_path: Path) -> bool:
     """Crée un fichier CBR (ZIP) à partir d'un dossier d'images"""
     try:
+        # Trie les fichiers par nom pour maintenir l'ordre
+        image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp', '.avif', '.jxl']
+        image_files = sorted([f for f in folder_path.glob('*') if f.is_file() and f.suffix.lower() in image_extensions])
+
+        if not image_files:
+            print(f"⚠️  Aucune image trouvée dans {folder_path.name}, CBR non créé")
+            return False
+
         with zipfile.ZipFile(output_path, 'w', zipfile.ZIP_DEFLATED, compresslevel=1) as zipf:
-            # Trie les fichiers par nom pour maintenir l'ordre
-            image_files = sorted([f for f in folder_path.glob('*') if f.is_file() and f.suffix.lower() in ['.jpg', '.jpeg', '.png', '.gif', '.bmp']])
-            
             for image_file in image_files:
                 zipf.write(image_file, image_file.name)
         
@@ -169,12 +184,17 @@ def prepare_download_tasks(chapters: dict, main_folder: Path) -> List[DownloadTa
             
             # Détermine l'extension
             if '.' not in original_filename or len(original_filename.split('.')[-1]) > 4:
-                if any(ext in image_url.lower() for ext in ['.jpg', '.jpeg']):
+                url_lower = image_url.lower()
+                if '.webp' in url_lower:
+                    extension = 'webp'
+                elif any(ext in url_lower for ext in ['.jpg', '.jpeg']):
                     extension = 'jpg'
-                elif '.png' in image_url.lower():
+                elif '.png' in url_lower:
                     extension = 'png'
-                elif '.gif' in image_url.lower():
+                elif '.gif' in url_lower:
                     extension = 'gif'
+                elif '.avif' in url_lower:
+                    extension = 'avif'
                 else:
                     extension = 'jpg'  # Par défaut
             else:
@@ -194,7 +214,7 @@ def prepare_download_tasks(chapters: dict, main_folder: Path) -> List[DownloadTa
 
 def main():
     # Configuration
-    json_file = 'manga_script_json.txt'
+    json_file = str(PROJECT_DATA_DIR / 'manga_script_json.txt')
     max_workers = 10  # Nombre de téléchargements simultanés (ajustez selon votre connexion)
     
     try:
@@ -283,12 +303,15 @@ def main():
                 cbr_filename = f"Chapter_{chapter_number:03d} - {sanitize_filename(chapter_name.split(' - ')[0])}.cbr"
                 cbr_path = cbr_folder / cbr_filename
                 
-                if not cbr_path.exists():
-                    if create_cbr_from_folder(chapter_folder, cbr_path):
-                        cbr_created += 1
-                else:
+                if cbr_path.exists() and cbr_is_valid(cbr_path):
                     print(f"📦 CBR déjà existant: {cbr_path.name}")
                     cbr_created += 1
+                else:
+                    if cbr_path.exists():
+                        print(f"♻️  CBR vide ou corrompu, régénération: {cbr_path.name}")
+                        cbr_path.unlink()
+                    if create_cbr_from_folder(chapter_folder, cbr_path):
+                        cbr_created += 1
         
         # Statistiques finales
         final_stats = stats.get_stats()
@@ -313,6 +336,7 @@ def main():
         if final_stats['downloaded'] > 0:
             print(f"\n💡 Conseil: Vous pouvez supprimer les dossiers d'images individuels")
             print(f"   et garder seulement les fichiers CBR pour économiser l'espace.")
+            print(f"🎯 Avec votre connexion haut débit, le téléchargement devrait être très rapide!")
         
     except FileNotFoundError:
         print(f"❌ Fichier JSON non trouvé: {json_file}")

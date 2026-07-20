@@ -10,6 +10,8 @@ import shutil
 from colorama import Fore, Back, Style, init
 import random
 
+PROJECT_DATA_DIR = Path(__file__).resolve().parents[2] / 'data'
+
 # Initialisation de colorama pour Windows
 init(autoreset=True)
 
@@ -196,7 +198,7 @@ def main():
     print_glitch_line()
     
     # Chemin vers le fichier JSON
-    json_file = 'manga_script_json.txt'
+    json_file = str(PROJECT_DATA_DIR / 'manga_script_json.txt')
     
     try:
         print_progress("SCANNING FOR DATA FILES...")

@@ -6,6 +6,8 @@ from urllib.parse import urlparse
 import time
 import re
 
+PROJECT_DATA_DIR = Path(__file__).resolve().parents[2] / 'data'
+
 def sanitize_filename(filename):
     """Nettoie le nom de fichier pour éviter les caractères problématiques"""
     # Supprime les caractères spéciaux et remplace les espaces par des underscores
@@ -45,7 +47,7 @@ def extract_chapter_number(chapter_name):
 
 def main():
     # Chemin vers le fichier JSON
-    json_file = 'manga_script_json.txt'  # Remplacez par le chemin de votre fichier
+    json_file = str(PROJECT_DATA_DIR / 'manga_script_json.txt')
     
     try:
         # Lecture du fichier JSON

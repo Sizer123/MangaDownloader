@@ -13,6 +13,8 @@ from dataclasses import dataclass
 from typing import List, Tuple, Optional
 import queue
 
+PROJECT_DATA_DIR = Path(__file__).resolve().parents[2] / 'data'
+
 @dataclass
 class DownloadTask:
     url: str
@@ -194,7 +196,7 @@ def prepare_download_tasks(chapters: dict, main_folder: Path) -> List[DownloadTa
 
 def main():
     # Configuration
-    json_file = 'hyper_manga_data.json'  # Remplacez par le chemin de votre fichier JSON
+    json_file = str(PROJECT_DATA_DIR / 'manga_script_json.txt')
     max_workers = 10  # Nombre de téléchargements simultanés (ajustez selon votre connexion)
     
     try:
@@ -313,7 +315,6 @@ def main():
         if final_stats['downloaded'] > 0:
             print(f"\n💡 Conseil: Vous pouvez supprimer les dossiers d'images individuels")
             print(f"   et garder seulement les fichiers CBR pour économiser l'espace.")
-            print(f"🎯 Avec votre connexion haut débit, le téléchargement devrait être très rapide!")
         
     except FileNotFoundError:
         print(f"❌ Fichier JSON non trouvé: {json_file}")
