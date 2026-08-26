@@ -212,9 +212,12 @@ def prepare_download_tasks(chapters: dict, main_folder: Path) -> List[DownloadTa
     
     return tasks
 
-def main():
+def main(json_file=None):
     # Configuration
-    json_file = str(PROJECT_DATA_DIR / 'hyper_manga_data.json')
+    # Le fichier JSON peut être passé en argument (CLI ou appel direct),
+    # sinon on retombe sur le fichier par défaut du projet.
+    if json_file is None:
+        json_file = str(PROJECT_DATA_DIR / 'hyper_manga_data.json')
     max_workers = 10  # Nombre de téléchargements simultanés (ajustez selon votre connexion)
     
     try:
@@ -348,4 +351,13 @@ def main():
         print(f"❌ Erreur inattendue: {e}")
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    parser = argparse.ArgumentParser(
+        description="Téléchargeur hyperspeed — télécharge un manga depuis un JSON et génère les CBR."
+    )
+    parser.add_argument(
+        "json", nargs="?", default=None,
+        help="Chemin du fichier JSON à traiter (défaut: fichier du projet)"
+    )
+    args = parser.parse_args()
+    main(json_file=args.json)

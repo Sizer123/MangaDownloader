@@ -11,3 +11,4 @@ __pycache__/
 cache/
 error_logs/
 output/
+scripts/utils/watch_downloads_processed.json
