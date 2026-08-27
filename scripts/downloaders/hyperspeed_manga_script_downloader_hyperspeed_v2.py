@@ -214,7 +214,7 @@ def prepare_download_tasks(chapters: dict, main_folder: Path) -> List[DownloadTa
 
 def main():
     # Configuration
-    json_file = str(PROJECT_DATA_DIR / 'hyper_manga_data.json')
+    json_file = str(PROJECT_DATA_DIR / 'player_who_returned_10_000_years_later.json')
     max_workers = 10  # Nombre de téléchargements simultanés (ajustez selon votre connexion)
     
     try:
