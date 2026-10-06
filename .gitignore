@@ -12,3 +12,4 @@ cache/
 error_logs/
 output/
 data/
+scripts/utils/watch_downloads_processed.json
