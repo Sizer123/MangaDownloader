@@ -17,6 +17,10 @@ Usage :
     python scripts/utils/manga_share.py                       # archive des disques branchés
     python scripts/utils/manga_share.py --root "D:/Manga"     # dossier(s) précis (répétable)
     python scripts/utils/manga_share.py --port 8766 --no-browser
+    python scripts/utils/manga_share.py --http                # téléphone sans HTTPS
+
+Le téléphone passe par HTTPS (port + 1) avec un certificat auto-signé créé par openssl :
+au premier accès, accepter l'avertissement « connexion non privée ».
 
 Aucune dépendance Python externe (le QR code est dessiné par une petite lib JS chargée
 depuis cdnjs ; sans Internet, l'adresse s'affiche quand même en texte et dans le terminal).
@@ -26,7 +30,10 @@ import argparse
 import json
 import re
 import secrets
+import shutil
 import socket
+import ssl
+import subprocess
 import sys
 import threading
 import time
@@ -35,10 +42,11 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, quote, urlparse
 
-from manga_archiver import (ARCHIVE_NAME, PROJECT_ROOT, fmt_size, list_drives, log,
+from manga_archiver import (ARCHIVE_NAME, PROJECT_ROOT, STATE_DIR, fmt_size, list_drives, log,
                             parse_chapter, series_dir_of, walk_comics)
 
-DEFAULT_PORT = 8766
+DEFAULT_PORT = 8766  # page PC (http, local) ; le téléphone utilise DEFAULT_PORT + 1 (https)
+TLS_DIR = STATE_DIR / 'share_tls'
 CHUNK = 1024 * 256
 SCAN_TTL = 30  # secondes avant rescan automatique de la bibliothèque
 
@@ -53,6 +61,41 @@ def local_ip() -> str:
         return '127.0.0.1'
     finally:
         s.close()
+
+
+def ensure_cert(ip: str):
+    """Certificat auto-signé pour l'IP du PC (créé avec openssl, réutilisé tant que l'IP ne change pas)."""
+    cert, key, ip_file = TLS_DIR / 'cert.pem', TLS_DIR / 'key.pem', TLS_DIR / 'ip.txt'
+    if cert.exists() and key.exists() and ip_file.exists() and ip_file.read_text().strip() == ip:
+        return cert, key
+    exe = shutil.which('openssl')
+    if not exe:
+        return None
+    TLS_DIR.mkdir(parents=True, exist_ok=True)
+    r = subprocess.run([exe, 'req', '-x509', '-newkey', 'rsa:2048', '-nodes', '-sha256', '-days', '3650',
+                        '-keyout', str(key), '-out', str(cert), '-subj', '/CN=Manga Share',
+                        '-addext', f'subjectAltName=IP:{ip}'], capture_output=True)
+    if r.returncode != 0:
+        log(f'openssl a échoué : {r.stderr.decode(errors="replace").strip()}')
+        return None
+    ip_file.write_text(ip)
+    return cert, key
+
+
+class TLSServer(ThreadingHTTPServer):
+    """Serveur HTTPS : la poignée de main TLS se fait dans le thread de la requête, pas dans accept()."""
+    daemon_threads = True
+
+    def __init__(self, addr, handler, ctx):
+        super().__init__(addr, handler)
+        self.ctx = ctx
+
+    def get_request(self):
+        sock, addr = self.socket.accept()
+        return self.ctx.wrap_socket(sock, server_side=True, do_handshake_on_connect=False), addr
+
+    def handle_error(self, request, client_address):
+        pass  # certificat refusé par le téléphone, connexion coupée…
 
 
 class Library:
@@ -216,21 +259,40 @@ def main():
     ap.add_argument('--root', action='append', default=[],
                     help='dossier à partager (répétable) ; défaut : archive des disques branchés')
     ap.add_argument('--no-browser', action='store_true')
+    ap.add_argument('--http', action='store_true', help='téléphone en http simple (sans certificat)')
     args = ap.parse_args()
 
+    ip, phone_port = local_ip(), args.port + 1
+    tls = None if args.http else ensure_cert(ip)
+    scheme = 'https' if tls else 'http'
     token = secrets.token_urlsafe(12)
-    phone_url = f'http://{local_ip()}:{args.port}/m?t={token}'
+    phone_url = f'{scheme}://{ip}:{phone_port}/m?t={token}'
     lib = Library(args.root)
-    server = ThreadingHTTPServer(('0.0.0.0', args.port), make_handler(lib, token, phone_url))
-    server.daemon_threads = True
+    handler = make_handler(lib, token, phone_url)
+
+    pc_server = ThreadingHTTPServer(('127.0.0.1', args.port), handler)
+    pc_server.daemon_threads = True
+    if tls:
+        ctx = ssl.SSLContext(ssl.PROTOCOL_TLS_SERVER)
+        ctx.load_cert_chain(*map(str, tls))
+        phone_server = TLSServer(('0.0.0.0', phone_port), handler, ctx)
+    else:
+        phone_server = ThreadingHTTPServer(('0.0.0.0', phone_port), handler)
+        phone_server.daemon_threads = True
+    threading.Thread(target=phone_server.serve_forever, daemon=True).start()
     threading.Thread(target=lib.scan, daemon=True).start()
 
-    print(f'\nManga Share prêt.\n  PC      : http://127.0.0.1:{args.port}/   (QR code)\n  Téléphone : {phone_url}\n'
-          '  (téléphone et PC sur le même Wi-Fi ; autorise Python dans le pare-feu si demandé)\n', flush=True)
+    print(f'\nManga Share prêt.\n  PC        : http://127.0.0.1:{args.port}/   (QR code)\n  Téléphone : {phone_url}\n'
+          '  (téléphone et PC sur le même Wi-Fi ; autorise Python dans le pare-feu si demandé)', flush=True)
+    if tls:
+        print('  Certificat auto-signé : au 1er accès, le téléphone affiche « connexion non privée »\n'
+              '  → Paramètres avancés → Continuer.\n', flush=True)
+    elif not args.http:
+        print('  openssl introuvable : téléphone en http simple.\n', flush=True)
     if not args.no_browser:
         threading.Timer(0.5, webbrowser.open, args=(f'http://127.0.0.1:{args.port}/',)).start()
     try:
-        server.serve_forever()
+        pc_server.serve_forever()
     except KeyboardInterrupt:
         print('\nArrêt.')
 
@@ -259,12 +321,14 @@ button{font:inherit;font-weight:600;color:var(--txt);background:#1f2533;border:1
 <div id="qr"></div>
 <code id="url"></code>
 <div class="mut" id="info">Analyse de la bibliothèque…</div>
+<p class="mut" id="tlsHint" hidden>1er accès : le téléphone affiche « connexion non privée » (certificat créé par ce PC) → <b>Paramètres avancés → Continuer</b>.</p>
 <p><button id="re">Rescanner la bibliothèque</button></p>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <script>
 const URL_ = __URL__;
 document.getElementById('url').textContent = URL_;
+document.getElementById('tlsHint').hidden = !URL_.startsWith('https');
 if (window.QRCode) new QRCode(document.getElementById('qr'), {text: URL_, width: 200, height: 200});
 else document.getElementById('qr').textContent = 'QR indisponible hors-ligne : saisis l\'adresse ci-dessous sur le téléphone';
 async function info(){
