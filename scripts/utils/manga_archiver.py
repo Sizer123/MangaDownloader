@@ -47,7 +47,7 @@ import zipfile
 from datetime import datetime
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import parse_qs, urlparse
 from urllib.request import urlopen
 
 # --------------------------------------------------------------------------- #
@@ -56,6 +56,7 @@ from urllib.request import urlopen
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 ARCHIVE_NAME = 'Manga_Manhwa_Archives'
+TRASH_NAME = '.Corbeille_MangaArchiver'  # suppressions de l'onglet Archive (récupérables)
 APP_ID = 'manga_archiver'
 HOST = '127.0.0.1'
 DEFAULT_PORT = 8765
@@ -449,6 +450,115 @@ def fmt_size(n: float) -> str:
 
 
 # --------------------------------------------------------------------------- #
+# Gestion du disque : index, dossiers vides, archive
+# --------------------------------------------------------------------------- #
+
+def resolve_under(root: Path, rel: str) -> Path:
+    """Chemin rel sous root, refusé s'il en sort (.., chemin absolu…)."""
+    base = Path(root).resolve()
+    p = (base / rel).resolve()
+    if p != base and base not in p.parents:
+        raise ValueError('Chemin refusé')
+    return p
+
+
+def index_disk(root: Path, progress: dict) -> dict:
+    """Index de tous les dossiers du disque : taille, fichiers, CBR (cumulés sur les sous-dossiers)."""
+    dirs = {}
+    for dirpath, dirnames, filenames in os.walk(root, onerror=lambda e: None):
+        dirnames[:] = sorted(d for d in dirnames if not d.startswith('.') and d.lower() not in SKIP_DIRS)
+        rel = Path(dirpath).relative_to(root).as_posix()
+        rel = '' if rel == '.' else rel
+        size = files = comics = 0
+        for f in filenames:
+            if is_junk_file(f):
+                continue
+            try:
+                size += os.lstat(os.path.join(dirpath, f)).st_size
+            except OSError:
+                pass
+            files += 1
+            if os.path.splitext(f)[1].lower() in COMIC_EXTS:
+                comics += 1
+        dirs[rel] = {'size': size, 'files': files, 'comics': comics, 'own_files': files,
+                     'children': list(dirnames)}
+        progress['dirs'] += 1
+    for rel in sorted(dirs, key=lambda r: r.count('/') if r else -1, reverse=True):
+        if not rel:
+            continue
+        parent = dirs.get(rel.rpartition('/')[0])
+        if parent:
+            for k in ('size', 'files', 'comics'):
+                parent[k] += dirs[rel][k]
+    return {'dirs': dirs, 'created': datetime.now().isoformat(timespec='seconds')}
+
+
+def dir_kind(rel: str, d: dict) -> str:
+    if rel == ARCHIVE_NAME or rel.startswith(ARCHIVE_NAME + '/'):
+        return 'archive'
+    if not d['files']:
+        return 'vide'
+    if d['comics'] == d['files']:
+        return 'manga'
+    return 'mixte' if d['comics'] else 'autre'
+
+
+def is_empty_tree(p: Path) -> bool:
+    for _, _, filenames in os.walk(p):
+        if any(not is_junk_file(f) for f in filenames):
+            return False
+    return True
+
+
+def remove_empty_tree(p: Path) -> bool:
+    """Supprime un dossier qui ne contient que des sous-dossiers vides / fichiers parasites."""
+    if not p.is_dir() or not is_empty_tree(p):
+        return False
+    for dirpath, _, filenames in os.walk(p, topdown=False):
+        for f in filenames:
+            os.unlink(os.path.join(dirpath, f))
+        os.rmdir(dirpath)
+    return True
+
+
+def rename_prefix(name: str, old: str, new: str) -> str:
+    """'Old - Chapitre 001.cbr' -> 'New - Chapitre 001.cbr' (autres noms inchangés)."""
+    if name.lower().startswith(old.lower() + ' - '):
+        return new + name[len(old):]
+    return name
+
+
+def list_archive(archive: Path) -> list:
+    out = []
+    if not archive.is_dir():
+        return out
+    for sd in sorted(archive.iterdir(), key=lambda x: x.name.lower()):
+        if not sd.is_dir() or sd.name.startswith('.'):
+            continue
+        chapters, others = [], 0
+        for f in sd.iterdir():
+            if not f.is_file() or is_junk_file(f.name):
+                continue
+            if f.suffix.lower() not in COMIC_EXTS:
+                others += 1
+                continue
+            num = parse_chapter(f.stem)
+            chapters.append({'name': f.name, 'size': f.stat().st_size,
+                             'num': float(num) if num else None})
+        seen = {}
+        for c in chapters:
+            if c['num'] is not None:
+                seen[c['num']] = seen.get(c['num'], 0) + 1
+        for c in chapters:
+            c['dup'] = c['num'] is not None and seen[c['num']] > 1
+        chapters.sort(key=lambda c: (c['num'] if c['num'] is not None else 1e9, c['name'].lower()))
+        out.append({'name': sd.name, 'count': len(chapters), 'others': others,
+                    'size': sum(c['size'] for c in chapters),
+                    'dups': sum(1 for c in chapters if c['dup']), 'chapters': chapters})
+    return out
+
+
+# --------------------------------------------------------------------------- #
 # Lancement automatique (Windows)
 # --------------------------------------------------------------------------- #
 
@@ -501,6 +611,8 @@ class App:
         self.cancel_evt = threading.Event()
         self.last_ui_ping = 0.0 if background else time.time()
         self.drives_cache = []
+        self.disk_idx = {}
+        self.disk_scan = {'running': False, 'disk_id': None, 'dirs': 0, 'version': 0, 'error': None}
 
     # ----- état ---------------------------------------------------------------
 
@@ -553,6 +665,7 @@ class App:
                 'job': dict(self.live) if self.live else None,
                 'job_running': self.job_running(),
                 'pending_jobs': self.pending_jobs(),
+                'disk_scan': dict(self.disk_scan),
                 'autostart': {'supported': f is not None, 'enabled': bool(f and f.exists())},
             }
 
@@ -861,6 +974,184 @@ class App:
                 removed += 1
         return removed
 
+    # ----- gestion du disque --------------------------------------------------
+
+    def _disk(self, disk_id: str) -> dict:
+        drive = self.find_drive(disk_id)
+        if not drive:
+            raise ValueError('Disque introuvable — est-il branché ?')
+        return drive
+
+    def _guard(self, disk_id: str):
+        if self.job_running() and self.live and self.live['disk_id'] == disk_id:
+            raise ValueError('Une copie est en cours sur ce disque — attends la fin')
+        if self.scan['running']:
+            raise ValueError('Analyse en cours — attends la fin')
+
+    def _changed(self, disk_id: str):
+        """Le contenu du disque a changé : index et plan de rangement deviennent obsolètes."""
+        self.disk_idx.pop(disk_id, None)
+        self.disk_scan['version'] += 1
+        if self.plan and self.plan['disk_id'] == disk_id:
+            self.plan = None
+            self.scan['version'] += 1
+
+    def start_disk_index(self, disk_id: str):
+        with self.lock:
+            if self.disk_scan['running']:
+                raise ValueError('Exploration déjà en cours')
+            drive = self._disk(disk_id)
+            self.disk_scan.update(running=True, disk_id=disk_id, dirs=0, error=None)
+
+        def run():
+            try:
+                idx = index_disk(Path(drive['root']), self.disk_scan)
+                with self.lock:
+                    self.disk_idx[disk_id] = idx
+            except Exception as e:  # noqa: BLE001 — remonté à l'interface
+                log(f'Erreur exploration : {e!r}')
+                self.disk_scan['error'] = str(e)
+            finally:
+                with self.lock:
+                    self.disk_scan['running'] = False
+                    self.disk_scan['version'] += 1
+        threading.Thread(target=run, daemon=True).start()
+
+    def disk_ls(self, disk_id: str, rel: str) -> dict:
+        idx = self.disk_idx.get(disk_id)
+        if not idx:
+            return {'indexed': False}
+        rel = rel.strip('/')
+        node = idx['dirs'].get(rel)
+        if node is None:
+            raise ValueError('Dossier introuvable — actualise l\'exploration')
+        children = []
+        for c in node['children']:
+            k = f'{rel}/{c}' if rel else c
+            d = idx['dirs'].get(k)
+            if d:
+                children.append({'name': c, 'path': k, 'size': d['size'], 'files': d['files'],
+                                 'comics': d['comics'], 'subdirs': len(d['children']),
+                                 'kind': dir_kind(k, d)})
+        children.sort(key=lambda c: (-c['size'], c['name'].lower()))
+        return {'indexed': True, 'created': idx['created'], 'path': rel,
+                'size': node['size'], 'files': node['files'], 'comics': node['comics'],
+                'own_files': node['own_files'], 'children': children}
+
+    def disk_empty(self, disk_id: str) -> dict:
+        idx = self.disk_idx.get(disk_id)
+        if not idx:
+            return {'indexed': False}
+        dirs = idx['dirs']
+        out = []
+        for rel, d in dirs.items():
+            if not rel or d['files']:
+                continue
+            parent = rel.rpartition('/')[0]
+            if parent and not dirs[parent]['files']:
+                continue  # le dossier parent, vide lui aussi, est déjà listé
+            out.append({'path': rel, 'subdirs': len(d['children'])})
+        out.sort(key=lambda e: e['path'].lower())
+        return {'indexed': True, 'dirs': out}
+
+    def delete_empty(self, disk_id: str, paths: list) -> dict:
+        with self.lock:
+            self._guard(disk_id)
+            root = Path(self._disk(disk_id)['root'])
+            removed, kept = 0, []
+            for rel in paths:
+                p = resolve_under(root, rel)
+                if p == root.resolve():
+                    continue
+                try:
+                    if remove_empty_tree(p):
+                        removed += 1
+                    else:
+                        kept.append(rel)
+                except OSError as e:
+                    kept.append(f'{rel} ({e})')
+            log(f'{removed} dossier(s) vide(s) supprimé(s) depuis l\'interface')
+            self._changed(disk_id)
+            msg = f'{removed} dossier(s) supprimé(s)'
+            if kept:
+                msg += f' — {len(kept)} ignoré(s) car plus vides : ' + ', '.join(kept[:5])
+            return {'ok': True, 'message': msg}
+
+    def archive_list(self, disk_id: str) -> dict:
+        drive = self._disk(disk_id)
+        return {'series': list_archive(Path(drive['root']) / ARCHIVE_NAME)}
+
+    def archive_action(self, disk_id: str, body: dict) -> dict:
+        with self.lock:
+            self._guard(disk_id)
+            root = Path(self._disk(disk_id)['root']).resolve()
+            archive = root / ARCHIVE_NAME
+            action = body.get('action')
+            series = body.get('series') or ''
+            src_dir = resolve_under(archive, series)
+            if not series or src_dir.parent != archive or not src_dir.is_dir():
+                raise ValueError('Série introuvable')
+            file = body.get('file')
+            src = None
+            if file:
+                src = resolve_under(src_dir, file)
+                if src.parent != src_dir or not src.is_file():
+                    raise ValueError('Chapitre introuvable')
+
+            if action == 'delete':
+                stamp = datetime.now().strftime('%Y-%m-%d_%H%M%S')
+                target = src or src_dir
+                dest = root / TRASH_NAME / stamp / target.relative_to(archive)
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                os.replace(target, dest)
+                if src:
+                    self._rmdir_if_empty(src_dir)
+                msg = f'« {target.name} » mis à la corbeille ({TRASH_NAME} à la racine du disque)'
+
+            elif action in ('rename', 'move'):
+                new = safe_name(body.get('to') or '')
+                if not (body.get('to') or '').strip():
+                    raise ValueError('Nom de série vide')
+                dst_dir = archive / new
+                if action == 'move':
+                    if not src:
+                        raise ValueError('Chapitre manquant')
+                    dst_dir.mkdir(exist_ok=True)
+                    dest = dst_dir / rename_prefix(src.name, series, new)
+                    if dest.exists():
+                        raise ValueError(f'« {dest.name} » existe déjà dans {new}')
+                    os.replace(src, dest)
+                    self._rmdir_if_empty(src_dir)
+                    msg = f'Chapitre déplacé vers {new}'
+                elif new == series:
+                    raise ValueError('Même nom')
+                else:
+                    merge = dst_dir.exists() and not os.path.samefile(dst_dir, src_dir)
+                    if not merge:
+                        os.replace(src_dir, dst_dir)  # renommage simple (ou changement de casse)
+                    conflicts = []
+                    base = dst_dir if not merge else src_dir
+                    for f in list(base.iterdir()):
+                        if not f.is_file():
+                            continue
+                        target = dst_dir / rename_prefix(f.name, series, new)
+                        if target == f:
+                            continue
+                        if target.exists() and not os.path.samefile(target, f):
+                            conflicts.append(f.name)
+                            continue
+                        os.replace(f, target)
+                    if merge:
+                        self._rmdir_if_empty(src_dir)
+                    msg = (f'Série fusionnée dans {new}' if merge else f'Série renommée en {new}')
+                    if conflicts:
+                        msg += f' — {len(conflicts)} fichier(s) laissé(s) dans {series} (nom déjà pris)'
+            else:
+                raise ValueError('Action inconnue')
+            log(f'Archive : {msg}')
+            self._changed(disk_id)
+            return {'ok': True, 'message': msg}
+
     # ----- veille disque ------------------------------------------------------
 
     def watch_drives(self):
@@ -916,6 +1207,18 @@ def make_handler(app: App):
                 return self._send(200, app.state())
             if p == '/api/plan':
                 return self._send(200, app.plan or {})
+            q = {k: v[0] for k, v in parse_qs(urlparse(self.path).query).items()}
+            try:
+                if p == '/api/disk/ls':
+                    return self._send(200, app.disk_ls(q['disk_id'], q.get('path', '')))
+                if p == '/api/disk/empty':
+                    return self._send(200, app.disk_empty(q['disk_id']))
+                if p == '/api/archive':
+                    return self._send(200, app.archive_list(q['disk_id']))
+            except (ValueError, KeyError) as e:
+                return self._send(400, {'error': str(e)})
+            except OSError as e:
+                return self._send(500, {'error': str(e)})
             self._send(404, {'error': 'introuvable'})
 
         def do_POST(self):
@@ -949,6 +1252,12 @@ def make_handler(app: App):
                         app.cancel_evt.set()
                         app.worker.join(10)
                     app.discard_job(body['disk_id'])
+                elif p == '/api/disk/index':
+                    app.start_disk_index(body['disk_id'])
+                elif p == '/api/disk/delete_empty':
+                    return self._send(200, app.delete_empty(body['disk_id'], body.get('paths', [])))
+                elif p == '/api/archive/action':
+                    return self._send(200, app.archive_action(body['disk_id'], body))
                 elif p == '/api/autostart':
                     set_autostart(bool(body.get('enabled')))
                 elif p == '/api/quit':
@@ -1130,6 +1439,17 @@ tr.dim td{opacity:.5}
 .toast.on{display:block}
 .toast.ok{border-left-color:var(--ok)}
 .switch{display:flex;align-items:center;gap:8px;color:var(--mut);font-size:12.5px;cursor:pointer}
+.tabs{display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap}
+.tabs button.on{border-color:var(--acc);color:var(--acc);background:#ff5d8f14}
+.crumb{display:flex;flex-wrap:wrap;gap:4px;align-items:center;font-family:Consolas,monospace;font-size:12.5px;margin-bottom:10px}
+.crumb a{color:#a79dff;cursor:pointer;text-decoration:none}.crumb a:hover{text-decoration:underline}
+tr.nav{cursor:pointer}tr.nav:hover td{background:#ffffff06}
+td.num{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.sz{display:flex;align-items:center;gap:8px;min-width:150px}
+.sz .bar{flex:1;margin:0;height:5px}
+.acts{display:flex;gap:6px;justify-content:flex-end;flex-wrap:wrap}
+.acts button,.sm{padding:4px 10px;font-size:12px;font-weight:600}
+.danger{color:var(--err)}.danger:hover:not(:disabled){border-color:var(--err)!important}
 @media (max-width:700px){header,main{padding-left:16px;padding-right:16px}.foot{padding:12px 16px}
   td.old{display:none}.hide-sm{display:none}}
 </style>
@@ -1183,6 +1503,19 @@ tr.dim td{opacity:.5}
       <button class="primary" id="scanBtn">Analyser</button>
       <div class="scanst" id="scanSt"></div>
     </div>
+  </section>
+
+  <section class="card" id="diskSec" hidden>
+    <h2><b>4</b>Gestion du disque <span id="dkName" style="text-transform:none;letter-spacing:0;color:var(--txt)"></span></h2>
+    <div class="tabs">
+      <button data-tab="explore">Explorateur</button>
+      <button data-tab="empty">Dossiers vides</button>
+      <button data-tab="archive">Archive</button>
+      <div class="spacer"></div>
+      <button id="dkIndex" class="ghost">Actualiser l'exploration</button>
+    </div>
+    <div class="scanst" id="dkSt" style="margin-bottom:10px"></div>
+    <div id="dkBody"></div>
   </section>
 
   <section class="card" id="planSec" hidden>
@@ -1289,7 +1622,7 @@ function render(){
   // autostart
   $('#autoWrap').style.display = S.autostart.supported ? '' : 'none';
   $('#auto').checked = S.autostart.enabled;
-  renderJob(); renderModal(); renderFoot();
+  renderJob(); renderModal(); renderFoot(); renderDisk();
 }
 
 function renderJob(){
@@ -1463,6 +1796,155 @@ $('#mGo').onclick = () => { const id=$('#modal').dataset.id; hideJob=false; $('#
 $('#mLater').onclick = () => { dismissed.add($('#modal').dataset.k); $('#modal').classList.remove('on'); };
 $('#mDrop').onclick = () => { if(!confirm('Abandonner cette copie ? Les fichiers déjà copiés restent sur le disque.')) return;
   const id=$('#modal').dataset.id; $('#modal').classList.remove('on'); act('/api/job/cancel',{disk_id:id},'Copie abandonnée'); };
+// ---------- gestion du disque ----------
+const KIND = {archive:['Archive','b-ok'], manga:['Mangas à ranger','b-acc'], mixte:['Mangas + autres','b-warn'],
+  vide:['Vide','b-err'], autre:['Autres fichiers','']};
+const dk = {tab:'explore', disk:null, path:'', data:null, ver:-1, esel:new Set(), aq:'', aopen:new Set(), busy:false};
+
+function renderDisk(){
+  const sec = $('#diskSec');
+  if(!selDisk){ sec.hidden = true; return; }
+  sec.hidden = false;
+  const d = S.drives.find(x=>x.id===selDisk), ds = S.disk_scan;
+  $('#dkName').textContent = d ? '— '+d.label : '';
+  document.querySelectorAll('[data-tab]').forEach(b=>b.classList.toggle('on', b.dataset.tab===dk.tab));
+  const mine = ds.disk_id===selDisk;
+  $('#dkIndex').disabled = ds.running;
+  $('#dkSt').innerHTML = ds.running ? `<span class="spin"></span>Exploration de ${esc(d?d.label:'')} — ${ds.dirs} dossiers…`
+    : (mine && ds.error ? 'Erreur : '+esc(ds.error) : '');
+  if(dk.disk !== selDisk){ Object.assign(dk, {disk:selDisk, path:'', data:null, esel:new Set(), aopen:new Set()}); loadDisk(); }
+  else if(ds.version !== dk.ver && !ds.running){ loadDisk(); }
+}
+
+async function loadDisk(){
+  dk.ver = S.disk_scan.version;
+  const id = encodeURIComponent(selDisk);
+  try{
+    if(dk.tab==='explore') dk.data = await api(`/api/disk/ls?disk_id=${id}&path=${encodeURIComponent(dk.path)}`);
+    else if(dk.tab==='empty') dk.data = await api(`/api/disk/empty?disk_id=${id}`);
+    else dk.data = await api(`/api/archive?disk_id=${id}`);
+  }catch(e){
+    if(dk.tab==='explore' && dk.path){ dk.path=''; return loadDisk(); }
+    dk.data = {error:e.message};
+  }
+  renderDiskBody();
+}
+
+const notIndexed = () => `<div class="empty">Le disque n'a pas encore été exploré.<br><br>
+  <button class="primary" data-do="index">Explorer le disque</button></div>`;
+
+function renderDiskBody(){
+  const b = $('#dkBody'), x = dk.data;
+  if(!x){ b.innerHTML = '<div class="empty"><span class="spin"></span>Chargement…</div>'; return; }
+  if(x.error){ b.innerHTML = `<div class="empty">${esc(x.error)}</div>`; return; }
+  if(dk.tab==='explore') b.innerHTML = x.indexed ? exploreHtml(x) : notIndexed();
+  else if(dk.tab==='empty') b.innerHTML = x.indexed ? emptyHtml(x) : notIndexed();
+  else b.innerHTML = archiveHtml(x);
+}
+
+function exploreHtml(x){
+  const parts = x.path ? x.path.split('/') : [];
+  const crumb = [`<a data-go="">Racine</a>`].concat(parts.map((p,i)=>`<span>/</span><a data-go="${esc(parts.slice(0,i+1).join('/'))}">${esc(p)}</a>`)).join('');
+  const max = Math.max(1, ...x.children.map(c=>c.size));
+  const rows = x.children.map(c=>{ const [l,cls]=KIND[c.kind];
+    return `<tr class="nav" data-go="${esc(c.path)}">
+      <td>📁 ${esc(c.name)}</td><td><span class="badge ${cls}">${l}</span></td>
+      <td><div class="sz"><div class="bar"><i style="width:${(c.size/max*100).toFixed(1)}%"></i></div><span>${fmtB(c.size)}</span></div></td>
+      <td class="num">${c.comics}</td><td class="num hide-sm">${c.files}</td><td class="num hide-sm">${c.subdirs}</td></tr>`; }).join('');
+  return `<div class="crumb">${crumb}</div>
+    <div class="stats">
+      <div class="stat"><div class="v">${fmtB(x.size)}</div><div class="k">dans ce dossier</div></div>
+      <div class="stat"><div class="v">${x.comics}</div><div class="k">CBR / CBZ</div></div>
+      <div class="stat"><div class="v">${x.files}</div><div class="k">fichiers au total</div></div>
+      <div class="stat"><div class="v">${x.own_files}</div><div class="k">fichiers directement ici</div></div>
+    </div>
+    ${x.children.length ? `<div class="sbody" style="max-height:520px;border:1px solid var(--line);border-radius:12px">
+      <table><tr><th>Dossier</th><th>Contenu</th><th>Taille</th><th class="num">CBR</th><th class="num hide-sm">Fichiers</th><th class="num hide-sm">Sous-dossiers</th></tr>${rows}</table></div>`
+      : '<div class="empty">Aucun sous-dossier.</div>'}
+    <div class="meta" style="margin-top:8px">Exploré le ${esc(x.created.replace('T',' '))}. « Mangas à ranger » : lance l'analyse (étape 2) pour les ranger dans l'archive.</div>`;
+}
+
+function emptyHtml(x){
+  if(!x.dirs.length) return '<div class="empty">Aucun dossier vide sur ce disque 🎉</div>';
+  const n = x.dirs.filter(d=>dk.esel.has(d.path)).length;
+  return `<div class="tools"><span class="meta" style="flex:1">${x.dirs.length} dossier(s) vide(s) — vides ou ne contenant que des fichiers parasites (.DS_Store, Thumbs.db…)</span>
+      <button class="ghost sm" data-do="eall">Tout cocher</button><button class="ghost sm" data-do="enone">Tout décocher</button>
+      <button class="primary sm" data-do="edel" ${n?'':'disabled'}>Supprimer (${n})</button></div>
+    <div class="sbody" style="max-height:520px;border:1px solid var(--line);border-radius:12px"><table>
+      <tr><th></th><th>Dossier</th><th class="num">Sous-dossiers vides</th></tr>
+      ${x.dirs.map(d=>`<tr><td style="width:30px"><input type="checkbox" data-e="${esc(d.path)}" ${dk.esel.has(d.path)?'checked':''}></td>
+        <td class="mono">${esc(d.path)}</td><td class="num">${d.subdirs}</td></tr>`).join('')}</table></div>`;
+}
+
+function archiveHtml(x){
+  if(!x.series.length) return '<div class="empty">Archive vide ou absente sur ce disque.</div>';
+  const ql = dk.aq.toLowerCase(), list = x.series.filter(s=>!ql || s.name.toLowerCase().includes(ql));
+  const tot = x.series.reduce((a,s)=>a+s.size,0), dups = x.series.reduce((a,s)=>a+s.dups,0);
+  const names = x.series.map(s=>`<option value="${esc(s.name)}">`).join('');
+  return `<div class="stats">
+      <div class="stat"><div class="v">${x.series.length}</div><div class="k">séries</div></div>
+      <div class="stat"><div class="v">${x.series.reduce((a,s)=>a+s.count,0)}</div><div class="k">chapitres</div></div>
+      <div class="stat"><div class="v">${fmtB(tot)}</div><div class="k">au total</div></div>
+      <div class="stat"><div class="v">${dups}</div><div class="k">doublons (même n°)</div></div></div>
+    <div class="tools"><input type="text" id="aq" placeholder="Rechercher une série…" value="${esc(dk.aq)}" style="flex:1">
+      <span class="meta">Suppressions → corbeille <code>.Corbeille_MangaArchiver</code> à la racine du disque</span></div>
+    <datalist id="snames">${names}</datalist>
+    ${list.map(s=>{ const o = dk.aopen.has(s.name);
+      return `<div class="series"><div class="shead">
+        <div class="ttl"><input type="text" value="${esc(s.name)}" data-ren="${esc(s.name)}" list="snames" title="Renomme, ou tape le nom d'une autre série pour fusionner">
+          <div class="meta">${s.count} chapitre(s) · ${fmtB(s.size)}${s.dups?` <span class="badge b-err">${s.dups} doublon(s)</span>`:''}${s.others?` <span class="badge">${s.others} autre(s) fichier(s)</span>`:''}</div></div>
+        <div class="acts"><button data-do="ren" data-s="${esc(s.name)}">Renommer / fusionner</button>
+          <button class="danger" data-do="sdel" data-s="${esc(s.name)}">Supprimer</button></div>
+        <button class="chev ${o?'open':''}" data-aopen="${esc(s.name)}">›</button></div>
+        ${o?`<div class="sbody"><table><tr><th>Chapitre</th><th>Taille</th><th class="hide-sm">Déplacer vers</th><th></th></tr>
+          ${s.chapters.map(c=>`<tr><td class="mono">${esc(c.name)} ${c.dup?'<span class="badge b-err">doublon</span>':''}</td><td>${fmtB(c.size)}</td>
+            <td class="hide-sm"><div class="row"><input type="text" list="snames" placeholder="Série…" data-mvto style="width:200px">
+              <button class="sm" data-do="mv" data-s="${esc(s.name)}" data-f="${esc(c.name)}">Déplacer</button></div></td>
+            <td><div class="acts"><button class="sm danger" data-do="fdel" data-s="${esc(s.name)}" data-f="${esc(c.name)}">Supprimer</button></div></td></tr>`).join('')}
+        </table></div>`:''}</div>`; }).join('') || '<div class="empty">Aucune série ne correspond.</div>'}`;
+}
+
+async function archiveAct(body, confirmMsg){
+  if(confirmMsg && !confirm(confirmMsg)) return;
+  try{ const r = await api('/api/archive/action', {disk_id:selDisk, ...body}); toast(r.message, true); }
+  catch(e){ toast(e.message); }
+  await poll(true); loadDisk();
+}
+
+document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{ dk.tab=b.dataset.tab; dk.data=null; renderDisk(); renderDiskBody(); loadDisk(); });
+$('#dkIndex').onclick = () => act('/api/disk/index',{disk_id:selDisk});
+$('#dkBody').addEventListener('click', async e => {
+  const go = e.target.closest('[data-go]');
+  if(go){ dk.path = go.dataset.go; dk.data = null; renderDiskBody(); return loadDisk(); }
+  const ao = e.target.closest('[data-aopen]');
+  if(ao){ const n=ao.dataset.aopen; dk.aopen.has(n)?dk.aopen.delete(n):dk.aopen.add(n); return renderDiskBody(); }
+  const b = e.target.closest('[data-do]'); if(!b) return;
+  const d = b.dataset.do, sname = b.dataset.s, f = b.dataset.f;
+  if(d==='index') return act('/api/disk/index',{disk_id:selDisk});
+  if(d==='eall'){ dk.data.dirs.forEach(x=>dk.esel.add(x.path)); return renderDiskBody(); }
+  if(d==='enone'){ dk.esel.clear(); return renderDiskBody(); }
+  if(d==='edel'){
+    const paths = dk.data.dirs.filter(x=>dk.esel.has(x.path)).map(x=>x.path);
+    if(!confirm(`Supprimer ${paths.length} dossier(s) vide(s) ? Un dossier qui contient un vrai fichier est toujours ignoré.`)) return;
+    try{ const r = await api('/api/disk/delete_empty',{disk_id:selDisk, paths}); toast(r.message, true); dk.esel.clear(); }
+    catch(err){ toast(err.message); }
+    await poll(true); return act('/api/disk/index',{disk_id:selDisk});
+  }
+  if(d==='ren'){ const to = b.closest('.shead').querySelector('[data-ren]').value.trim();
+    if(!to || to===sname) return toast('Modifie le nom de la série d\'abord');
+    const merge = dk.data.series.some(x=>x.name.toLowerCase()===to.toLowerCase() && x.name!==sname);
+    return archiveAct({action:'rename', series:sname, to}, merge ? `Fusionner « ${sname} » dans la série existante « ${to} » ?` : `Renommer « ${sname} » en « ${to} » ? Les fichiers seront renommés aussi.`); }
+  if(d==='mv'){ const to = b.closest('tr').querySelector('[data-mvto]').value.trim();
+    if(!to) return toast('Choisis la série de destination');
+    return archiveAct({action:'move', series:sname, file:f, to}); }
+  if(d==='sdel') return archiveAct({action:'delete', series:sname}, `Mettre toute la série « ${sname} » à la corbeille du disque ?`);
+  if(d==='fdel') return archiveAct({action:'delete', series:sname, file:f}, `Mettre « ${f} » à la corbeille du disque ?`);
+});
+$('#dkBody').addEventListener('change', e => { const p = e.target.dataset.e;
+  if(p!==undefined){ e.target.checked ? dk.esel.add(p) : dk.esel.delete(p); renderDiskBody(); } });
+$('#dkBody').addEventListener('input', e => { if(e.target.id==='aq'){ dk.aq = e.target.value; const pos=e.target.selectionStart;
+  renderDiskBody(); const i=$('#aq'); i.focus(); i.setSelectionRange(pos,pos); } });
+
 poll();
 </script>
 </body>
