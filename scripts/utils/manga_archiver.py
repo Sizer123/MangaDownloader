@@ -1859,7 +1859,13 @@ function exploreHtml(x){
       <td><div class="sz"><div class="bar"><i style="width:${(c.size/max*100).toFixed(1)}%"></i></div><span>${fmtB(c.size)}</span></div></td>
       <td class="num">${c.comics}</td><td class="num hide-sm">${c.files}</td><td class="num hide-sm">${c.subdirs}</td>
       <td>${['manga','mixte'].includes(c.kind)?`<button class="primary sm" data-rg="${esc(c.path)}">Ranger</button>`:''}</td></tr>`; }).join('');
-  return `<div class="crumb">${crumb}</div>
+  const inArch = x.path===S.archive_name || x.path.startsWith(S.archive_name+'/');
+  const isProj = x.children.some(c=>['cbr','cbz'].includes(c.name.toLowerCase()) && c.comics);
+  const here = x.path && !inArch && x.comics ? `<div class="row" style="margin-bottom:12px;padding:12px 14px;border:1px solid #ff5d8f55;border-radius:12px;background:#ff5d8f0d">
+      <div style="flex:1"><b>${isProj?'Dossier projet':'Dossier avec mangas'}</b>
+        <div class="meta">${x.comics} CBR/CBZ${isProj?' · répertoire CBR + dossiers de chapitres (images non copiées)':''}</div></div>
+      <button class="primary" data-rg="${esc(x.path)}">Ranger ce dossier</button></div>` : '';
+  return `<div class="crumb">${crumb}</div>${here}
     <div class="stats">
       <div class="stat"><div class="v">${fmtB(x.size)}</div><div class="k">dans ce dossier</div></div>
       <div class="stat"><div class="v">${x.comics}</div><div class="k">CBR / CBZ</div></div>
