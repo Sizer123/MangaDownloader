@@ -1526,6 +1526,7 @@ td.num{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
       <button class="chip" data-f="all">Tout</button>
       <button class="chip" data-f="present">Déjà archivé</button>
       <button class="chip" data-f="issues">Doublons / conflits</button>
+      <button class="chip on" id="pfChip" hidden title="Seul ce dossier est affiché et coché — clique pour tout afficher"></button>
       <div class="spacer"></div>
       <input type="text" id="q" placeholder="Rechercher une série…" style="width:220px">
       <button id="selAll" class="ghost">Tout cocher</button>
@@ -1564,7 +1565,9 @@ const OP = {copy:'Copie', move:'Déplacement', rename:'Renommage'};
 const ORIG = {pc:'PC', disk:'Disque', archive:'Archive'};
 
 let S=null, plan=null, planVer=0, selDisk=null, sel=new Set(), titles={}, opened=new Set(),
-    filter='todo', q='', dismissed=new Set(), hideJob=false;
+    filter='todo', q='', dismissed=new Set(), hideJob=false, planFolder=null;
+const normP = p => p.replace(/\\/g,'/').replace(/\/+$/,'').toLowerCase();
+const inFolder = src => !planFolder || normP(src).startsWith(normP(planFolder)+'/');
 
 async function api(path, body){
   const r = await fetch(path, body===undefined ? {} : {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body)});
@@ -1587,7 +1590,7 @@ async function poll(once){
       planVer = S.scan.version;
       if(S.scan.error) toast('Analyse : '+S.scan.error);
       plan = await api('/api/plan');
-      if(plan && plan.items){ sel = new Set(plan.items.filter(i=>i.checked).map(i=>i.id)); titles={}; renderPlan(); }
+      if(plan && plan.items){ sel = new Set(plan.items.filter(i=>i.checked && inFolder(i.src)).map(i=>i.id)); titles={}; renderPlan(); }
     }
   }catch(e){ $('#scanSt').textContent = 'Serveur injoignable — relance le script.'; }
   if(!once) setTimeout(poll, S && S.job_running ? 700 : 1500);
@@ -1675,16 +1678,19 @@ function renderPlan(){
     [plan.series.length,'séries'], [cnt('new'),'nouveaux chapitres'], [cnt('present'),'déjà archivés'],
     [cnt('rename'),'à renommer'], [cnt('duplicate'),'doublons ignorés'], [cnt('conflict'),'conflits'],
   ].map(([v,k])=>`<div class="stat"><div class="v">${v}</div><div class="k">${k}</div></div>`).join('');
-  document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on', c.dataset.f===filter));
+  document.querySelectorAll('.chip[data-f]').forEach(c=>c.classList.toggle('on', c.dataset.f===filter));
   const ql = q.toLowerCase();
   const list = plan.series.filter(s=>{
     const its = itemsOf(s);
     if(ql && !titleOf(s).toLowerCase().includes(ql)) return false;
+    if(planFolder && !its.some(i=>inFolder(i.src))) return false;
     if(filter==='todo') return its.some(i=>i.op);
     if(filter==='present') return its.some(i=>i.status==='present');
     if(filter==='issues') return its.some(i=>i.status==='duplicate'||i.status==='conflict');
     return true;
   });
+  $('#pfChip').hidden = !planFolder;
+  $('#pfChip').textContent = planFolder ? '📁 '+planFolder.split(/[\\/]/).pop()+'  ✕' : '';
   $('#series').innerHTML = list.length ? list.map(seriesHtml).join('') : '<div class="empty">Rien à afficher pour ce filtre.</div>';
   list.forEach(s=>{ const cb=document.querySelector(`[data-sall="${s.key}"]`); if(cb) setTri(cb,s); });
   renderFoot();
@@ -1762,12 +1768,13 @@ $('#srcAdd').onclick = () => { const v=$('#srcIn').value.trim(); if(!v) return; 
 $('#srcIn').onkeydown = e => { if(e.key==='Enter') $('#srcAdd').click(); };
 $('#scanDisk').onchange = e => act('/api/settings',{scan_disk:e.target.checked});
 $('#moveProjects').onchange = e => act('/api/settings',{move_projects:e.target.checked});
-$('#scanBtn').onclick = () => act('/api/scan',{disk_id:selDisk});
+$('#scanBtn').onclick = () => { planFolder = null; act('/api/scan',{disk_id:selDisk}); };
 $('#auto').onchange = e => act('/api/autostart',{enabled:e.target.checked}, e.target.checked?'Lancement auto activé':'Lancement auto désactivé');
 $('#quit').onclick = async () => { if(!confirm('Arrêter Manga Archiver ? (une copie en cours sera mise en pause et reprise plus tard)')) return;
   await api('/api/quit',{}).catch(()=>{}); document.body.innerHTML='<main><div class="card">Manga Archiver arrêté. Tu peux fermer cet onglet.</div></main>'; };
-document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{ filter=c.dataset.f; renderPlan(); });
+document.querySelectorAll('.chip[data-f]').forEach(c=>c.onclick=()=>{ filter=c.dataset.f; renderPlan(); });
 $('#q').oninput = e => { q=e.target.value; renderPlan(); };
+$('#pfChip').onclick = () => { planFolder = null; renderPlan(); };
 $('#selAll').onclick = () => { plan.items.forEach(i=>{ if(i.op) sel.add(i.id); }); renderPlan(); };
 $('#selNone').onclick = () => { sel.clear(); renderPlan(); };
 $('#series').addEventListener('click', e => {
@@ -1850,7 +1857,8 @@ function exploreHtml(x){
     return `<tr class="nav" data-go="${esc(c.path)}">
       <td>📁 ${esc(c.name)}</td><td><span class="badge ${cls}">${l}</span></td>
       <td><div class="sz"><div class="bar"><i style="width:${(c.size/max*100).toFixed(1)}%"></i></div><span>${fmtB(c.size)}</span></div></td>
-      <td class="num">${c.comics}</td><td class="num hide-sm">${c.files}</td><td class="num hide-sm">${c.subdirs}</td></tr>`; }).join('');
+      <td class="num">${c.comics}</td><td class="num hide-sm">${c.files}</td><td class="num hide-sm">${c.subdirs}</td>
+      <td>${['manga','mixte'].includes(c.kind)?`<button class="primary sm" data-rg="${esc(c.path)}">Ranger</button>`:''}</td></tr>`; }).join('');
   return `<div class="crumb">${crumb}</div>
     <div class="stats">
       <div class="stat"><div class="v">${fmtB(x.size)}</div><div class="k">dans ce dossier</div></div>
@@ -1859,9 +1867,9 @@ function exploreHtml(x){
       <div class="stat"><div class="v">${x.own_files}</div><div class="k">fichiers directement ici</div></div>
     </div>
     ${x.children.length ? `<div class="sbody" style="max-height:520px;border:1px solid var(--line);border-radius:12px">
-      <table><tr><th>Dossier</th><th>Contenu</th><th>Taille</th><th class="num">CBR</th><th class="num hide-sm">Fichiers</th><th class="num hide-sm">Sous-dossiers</th></tr>${rows}</table></div>`
+      <table><tr><th>Dossier</th><th>Contenu</th><th>Taille</th><th class="num">CBR</th><th class="num hide-sm">Fichiers</th><th class="num hide-sm">Sous-dossiers</th><th></th></tr>${rows}</table></div>`
       : '<div class="empty">Aucun sous-dossier.</div>'}
-    <div class="meta" style="margin-top:8px">Exploré le ${esc(x.created.replace('T',' '))}. « Mangas à ranger » : lance l'analyse (étape 2) pour les ranger dans l'archive.</div>`;
+    <div class="meta" style="margin-top:8px">Exploré le ${esc(x.created.replace('T',' '))}. « Ranger » : analyse ce dossier et prépare son rangement dans l'archive (étape 3), à valider avant copie.</div>`;
 }
 
 function emptyHtml(x){
@@ -1914,6 +1922,16 @@ async function archiveAct(body, confirmMsg){
 document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{ dk.tab=b.dataset.tab; dk.data=null; renderDisk(); renderDiskBody(); loadDisk(); });
 $('#dkIndex').onclick = () => act('/api/disk/index',{disk_id:selDisk});
 $('#dkBody').addEventListener('click', async e => {
+  const rg = e.target.closest('[data-rg]');
+  if(rg){
+    const d = S.drives.find(x=>x.id===selDisk), sep = d.root.includes('\\') ? '\\' : '/';
+    planFolder = d.root.replace(/[\\/]+$/,'') + sep + rg.dataset.rg.split('/').join(sep);
+    filter = 'all';
+    try{ if(!S.settings.scan_disk) await api('/api/settings',{scan_disk:true});
+         await api('/api/scan',{disk_id:selDisk}); toast('Analyse lancée — le plan de « '+rg.dataset.rg+' » apparaîtra à l\'étape 3', true); }
+    catch(err){ toast(err.message); return; }
+    await poll(true); $('#scanBtn').scrollIntoView({behavior:'smooth', block:'center'}); return;
+  }
   const go = e.target.closest('[data-go]');
   if(go){ dk.path = go.dataset.go; dk.data = null; renderDiskBody(); return loadDisk(); }
   const ao = e.target.closest('[data-aopen]');
