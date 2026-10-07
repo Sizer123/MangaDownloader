@@ -38,6 +38,7 @@ import sys
 import threading
 import time
 import webbrowser
+import zipfile
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, quote, urlparse
@@ -105,6 +106,7 @@ class Library:
         self.scanned = 0.0
         self.series = []
         self.files = {}  # id -> Path
+        self.groups = {}  # id de série -> (titre, [Path])
 
     def effective_roots(self) -> list:
         if self.roots:
@@ -134,21 +136,28 @@ class Library:
                     'id': fid, 'name': f.name, 'size': size,
                     'sort': float(num) if num else 1e9,
                 })
-        series = []
+        series, sgroups = [], {}
         for title, items in groups.items():
             items.sort(key=lambda i: (i['sort'], i['name'].lower()))
-            series.append({'title': title, 'count': len(items),
+            sid = f's{len(sgroups):x}'
+            sgroups[sid] = (title, [files[i['id']] for i in items])
+            series.append({'id': sid, 'title': title, 'count': len(items),
                            'size': sum(i['size'] for i in items),
                            'items': [{k: i[k] for k in ('id', 'name', 'size')} for i in items]})
         series.sort(key=lambda s: s['title'].lower())
         with self.lock:
-            self.series, self.files, self.scanned = series, files, time.time()
+            self.series, self.files, self.groups, self.scanned = series, files, sgroups, time.time()
         log(f'Bibliothèque : {len(series)} séries, {len(files)} fichiers')
 
     def get(self) -> list:
         if time.time() - self.scanned > SCAN_TTL:
             self.scan()
         return self.series
+
+    def group(self, sid: str):
+        self.get()
+        with self.lock:
+            return self.groups.get(sid)
 
     def path(self, fid: str):
         self.get()
@@ -197,6 +206,8 @@ def make_handler(lib: Library, token: str, phone_url: str):
                 return self._send(200, lib.get())
             if p.startswith('/file/'):
                 return self._file(p[6:])
+            if p.startswith('/zip/'):
+                return self._zip(p[5:])
             self._send(404, {'error': 'introuvable'})
 
         def do_POST(self):
@@ -249,6 +260,29 @@ def make_handler(lib: Library, token: str, phone_url: str):
                         left -= len(chunk)
             except (BrokenPipeError, ConnectionResetError, OSError):
                 pass  # le téléphone a annulé / s'est endormi
+
+        def _zip(self, sid):
+            """Toute une série en un seul ZIP (sans compression), envoyé au fil de l'eau."""
+            g = lib.group(sid)
+            if not g:
+                return self._send(404, {'error': 'série introuvable'})
+            title, paths = g
+            folder = re.sub(r'[<>:"/\\|?*\x00-\x1f]', '', title).strip(' .') or 'Manga'
+            name = f'{title}.zip'
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/zip')
+            self.send_header('Content-Disposition', f"attachment; filename*=UTF-8''{quote(name)}")
+            self.send_header('Connection', 'close')
+            self.end_headers()
+            self.close_connection = True
+            log(f'Envoi ZIP vers {self.client_address[0]} : {name} ({len(paths)} fichiers)')
+            try:
+                with zipfile.ZipFile(self.wfile, 'w', zipfile.ZIP_STORED) as zf:
+                    for f in paths:
+                        if f.is_file():
+                            zf.write(f, f'{folder}/{f.name}')  # dossier de la série dans le ZIP
+            except (BrokenPipeError, ConnectionResetError, OSError):
+                pass
 
     return Handler
 
@@ -361,7 +395,7 @@ input{width:100%;font:inherit;color:var(--txt);background:var(--card);border:1px
 .row span{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14px}
 a.dl,button{font:inherit;font-weight:600;color:#fff;text-decoration:none;background:linear-gradient(135deg,var(--acc),#e04bb0);
   border:0;border-radius:10px;padding:9px 14px;white-space:nowrap}
-button.all{width:100%;margin:10px 0 2px}
+a.all{display:block;text-align:center;margin:10px 0 2px}
 .empty{color:var(--mut);text-align:center;padding:40px 0}
 </style></head><body>
 <header><h1>📚 Ma bibliothèque</h1><input id="q" type="search" placeholder="Rechercher une série…"></header>
@@ -379,20 +413,12 @@ function render(){
     const o = open_.has(s.title) || (f && rows.length === 1);
     return `<div class="s"><div class="sh" data-t="${esc(s.title)}"><b>${esc(s.title)}</b>
       <span class="mut">${s.count} ch. · ${fmt(s.size)}</span></div>` + (o ? `<div class="ch">
-      <button class="all" data-all="${esc(s.title)}">Tout télécharger (${s.count})</button>` +
+      <a class="dl all" href="/zip/${s.id}?t=${encodeURIComponent(T)}" download>⬇ Tout télécharger — dossier ZIP (${s.count} fichiers, ${fmt(s.size)})</a>` +
       s.items.map(i => `<div class="row"><span>${esc(i.name)}<br><small class="mut">${fmt(i.size)}</small></span>
         <a class="dl" href="${url(i.id)}" download>⬇</a></div>`).join('') + '</div>' : '') + '</div>';
   }).join('') : '<div class="empty">Aucune série</div>';
 }
 document.getElementById('list').onclick = e => {
-  const all = e.target.closest('[data-all]');
-  if (all) {  // téléchargements espacés pour que le navigateur les accepte tous
-    const s = lib.find(x => x.title === all.dataset.all);
-    s.items.forEach((i, k) => setTimeout(() => {
-      const a = document.createElement('a'); a.href = url(i.id); a.download = ''; document.body.appendChild(a); a.click(); a.remove();
-    }, k * 1500));
-    return;
-  }
   const h = e.target.closest('.sh');
   if (h) { const t = h.dataset.t; open_.has(t) ? open_.delete(t) : open_.add(t); render(); }
 };
