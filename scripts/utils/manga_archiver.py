@@ -73,6 +73,8 @@ SKIP_DIRS = {
     'windows', 'program files', 'program files (x86)', 'programdata', 'appdata',
     'recovery', 'msocache',
 }
+# Fichiers parasites du système : un dossier qui ne contient que ça est considéré comme vide
+JUNK_FILES = {'.ds_store', 'thumbs.db', 'desktop.ini'}
 CHUNK = 4 * 1024 * 1024
 PARTIAL_SUFFIX = '.part'
 
@@ -127,6 +129,7 @@ def load_settings() -> dict:
     s = load_json(SETTINGS_FILE, {}) or {}
     s.setdefault('sources', [str(PROJECT_ROOT)])
     s.setdefault('scan_disk', True)
+    s.setdefault('move_projects', True)
     s.setdefault('titles', {})
     s.setdefault('last_disk', None)
     return s
@@ -200,6 +203,10 @@ def list_drives(extra_targets=()) -> list:
 # --------------------------------------------------------------------------- #
 # Analyse des noms
 # --------------------------------------------------------------------------- #
+
+def is_junk_file(name: str) -> bool:
+    return name.lower() in JUNK_FILES or name.startswith('._')
+
 
 def series_key(name: str) -> str:
     return re.sub(r'[^a-z0-9]', '', name.lower())
@@ -276,12 +283,13 @@ def walk_comics(root: Path, exclude: set, on_dir=None):
 # Construction du plan de rangement
 # --------------------------------------------------------------------------- #
 
-def build_plan(sources: list, drive: dict, scan_disk: bool, title_overrides: dict, progress) -> dict:
+def build_plan(sources: list, drive: dict, scan_disk: bool, title_overrides: dict, progress,
+               move_projects: bool = True) -> dict:
     disk_root = Path(drive['root'])
     archive = disk_root / ARCHIVE_NAME
     entries = []
 
-    def add(file: Path, origin: str, raw_series: str):
+    def add(file: Path, origin: str, raw_series: str, project: bool = False):
         try:
             st = file.stat()
         except OSError:
@@ -291,7 +299,7 @@ def build_plan(sources: list, drive: dict, scan_disk: bool, title_overrides: dic
         entries.append({
             'path': file, 'origin': origin, 'raw_series': raw_series,
             'key': series_key(raw_series), 'size': st.st_size, 'mtime': st.st_mtime,
-            'chapter': parse_chapter(file.stem), 'ext': file.suffix.lower(),
+            'chapter': parse_chapter(file.stem), 'ext': file.suffix.lower(), 'project': project,
         })
         progress['files'] += 1
 
@@ -319,7 +327,10 @@ def build_plan(sources: list, drive: dict, scan_disk: bool, title_overrides: dic
         progress['phase'] = f'Scan de {root}'
         for f in walk_comics(root, exclude, on_dir):
             d = series_dir_of(f, root)
-            add(f, 'disk' if _is_under(f, disk_root) else 'pc', d.name or f.stem)
+            on_pc = not _is_under(f, disk_root)
+            # Dossier de projet (<Série>/CBR/*.cbr) : le CBR est déplacé, pas seulement copié
+            is_project = move_projects and on_pc and d != f.parent
+            add(f, 'pc' if on_pc else 'disk', d.name or f.stem, is_project)
 
     # 3. Reste du disque (hors archive)
     if scan_disk:
@@ -370,11 +381,11 @@ def build_plan(sources: list, drive: dict, scan_disk: bool, title_overrides: dic
             target_name = safe_name(f'{title} - {label}') + ext
             target_rel = f'{safe_name(title)}/{target_name}'
 
-            def mk(e, status, op=None, checked=False, note=''):
+            def mk(e, status, op=None, checked=False, note='', move_src=False):
                 it = {
                     'id': str(len(items_out)), 'series': key, 'label': label, 'ext': e['ext'],
                     'src': str(e['path']), 'origin': e['origin'], 'size': e['size'],
-                    'status': status, 'op': op, 'checked': checked, 'note': note,
+                    'status': status, 'op': op, 'checked': checked, 'note': note, 'move_src': move_src,
                     'chapter_sort': float(first['chapter']) if first['chapter'] else 1e9,
                 }
                 items_out.append(it)
@@ -396,10 +407,14 @@ def build_plan(sources: list, drive: dict, scan_disk: bool, title_overrides: dic
                         mk(arch_any, 'rename', 'rename', True, 'Renommage dans l\'archive')
                 elif arch_any:
                     mk(best, 'conflict', op, False,
-                       f'Version différente déjà archivée ({fmt_size(arch_any["size"])})')
+                       f'Version différente déjà archivée ({fmt_size(arch_any["size"])})',
+                       move_src=op == 'copy' and best['project'])
                 else:
+                    ms = op == 'copy' and best['project']
                     mk(best, 'new', op, True,
-                       'Rangement par déplacement sur le disque' if op == 'move' else '')
+                       'Rangement par déplacement sur le disque' if op == 'move'
+                       else 'Dossier projet : original supprimé après copie vérifiée' if ms else '',
+                       move_src=ms)
                 for d in cands[1:]:
                     mk(d, 'duplicate', note='Doublon ignoré')
             else:
@@ -558,7 +573,8 @@ class App:
     def _scan(self, drive):
         try:
             plan = build_plan(self.settings['sources'], drive, self.settings['scan_disk'],
-                              self.settings['titles'], self.scan)
+                              self.settings['titles'], self.scan,
+                              self.settings.get('move_projects', True))
             with self.lock:
                 self.plan = plan
         except Exception as e:  # noqa: BLE001 — remonté à l'interface
@@ -600,6 +616,7 @@ class App:
                     'src': (src.relative_to(disk_root).as_posix() if on_disk else str(src)),
                     'src_on_disk': on_disk, 'dest_rel': dest_rel, 'size': it['size'],
                     'op': it['op'], 'overwrite': it['status'] == 'conflict', 'status': 'pending',
+                    'delete_src': bool(it.get('move_src')),
                 })
             if not new_items:
                 raise ValueError('Rien à copier')
@@ -721,6 +738,10 @@ class App:
             except OSError as e:
                 log(f'Journal non sauvegardé : {e!r}')
 
+        if any(i['op'] in ('move', 'rename') and i['status'] == 'done' for i in items):
+            removed = self._sweep_empty(disk_root, archive)
+            if removed:
+                log(f'{removed} dossier(s) vide(s) supprimé(s) sur le disque')
         errors = sum(1 for i in items if i['status'] == 'error')
         finish('done_errors' if errors else 'done',
                f'{errors} erreur(s) — relance pour réessayer' if errors else 'Copie terminée')
@@ -740,6 +761,8 @@ class App:
         if dest.exists() and os.path.normcase(str(dest)) != os.path.normcase(str(src)):
             if dest.stat().st_size == size:
                 live['done_bytes'] += size if it['op'] == 'copy' else 0
+                if it.get('delete_src') and zipfile.is_zipfile(dest):
+                    self._remove_source(src)
                 return 'skipped'
             if not it.get('overwrite'):
                 return 'exists'
@@ -779,6 +802,8 @@ class App:
             os.replace(tmp, dest)
             st = src.stat()
             os.utime(dest, (st.st_atime, st.st_mtime))
+            if it.get('delete_src'):
+                self._remove_source(src)
             return 'done'
         except BaseException:
             live['done_bytes'] -= copied
@@ -788,16 +813,53 @@ class App:
                 pass
             raise
 
+    @classmethod
+    def _remove_source(cls, src: Path):
+        """Supprime l'original après copie vérifiée, puis son dossier CBR s'il est vide."""
+        try:
+            src.unlink()
+        except OSError as e:
+            log(f'Original non supprimé {src} : {e!r}')
+            return
+        cls._rmdir_if_empty(src.parent)
+
     @staticmethod
-    def _prune_empty(d: Path, stop: Path):
-        """Supprime les dossiers devenus vides après un déplacement (jamais de fichiers)."""
+    def _rmdir_if_empty(d: Path) -> bool:
+        """Supprime d s'il ne contient plus rien, à part des fichiers parasites du système."""
+        try:
+            for e in os.scandir(d):
+                if not (e.is_file(follow_symlinks=False) and is_junk_file(e.name)):
+                    return False
+            for e in os.scandir(d):
+                os.unlink(e.path)
+            d.rmdir()
+            return True
+        except OSError:
+            return False
+
+    @classmethod
+    def _prune_empty(cls, d: Path, stop: Path):
+        """Supprime les dossiers devenus vides après un déplacement (jamais de vrais fichiers)."""
         stop = os.path.normcase(str(stop))
         while os.path.normcase(str(d)) != stop and len(d.parts) > 1:
-            try:
-                d.rmdir()
-            except OSError:
+            if not cls._rmdir_if_empty(d):
                 return
             d = d.parent
+
+    @classmethod
+    def _sweep_empty(cls, disk_root: Path, archive: Path) -> int:
+        """Nettoie tout le disque (hors archive) : supprime les dossiers vides, de bas en haut."""
+        skip = os.path.normcase(str(archive))
+        removed = 0
+        for dirpath, _, _ in os.walk(disk_root, topdown=False, onerror=lambda e: None):
+            p = Path(dirpath)
+            parts = [x.lower() for x in p.relative_to(disk_root).parts]
+            if (not parts or os.path.normcase(str(p)).startswith(skip)
+                    or any(x.startswith('.') or x in SKIP_DIRS for x in parts)):
+                continue
+            if cls._rmdir_if_empty(p):
+                removed += 1
+        return removed
 
     # ----- veille disque ------------------------------------------------------
 
@@ -871,6 +933,8 @@ def make_handler(app: App):
                     with app.lock:
                         if 'sources' in body:
                             app.settings['sources'] = [s.strip().strip('"') for s in body['sources'] if s.strip()]
+                        if 'move_projects' in body:
+                            app.settings['move_projects'] = bool(body['move_projects'])
                         if 'scan_disk' in body:
                             app.settings['scan_disk'] = bool(body['scan_disk'])
                         app.save_settings()
@@ -1113,6 +1177,7 @@ tr.dim td{opacity:.5}
     </div>
     <div class="row" style="margin-top:14px">
       <label class="chk"><input type="checkbox" id="scanDisk"> Analyser aussi le reste du disque (fichiers à ranger)</label>
+      <label class="chk"><input type="checkbox" id="moveProjects"> Dossiers projet (<i>Série/CBR</i>) : déplacer les CBR vers l'archive (original supprimé après copie vérifiée)</label>
     </div>
     <div class="row" style="margin-top:16px">
       <button class="primary" id="scanBtn">Analyser</button>
@@ -1215,6 +1280,7 @@ function render(){
      ${s===S.project_root?'<span class="badge b-vio" style="flex:none">projet</span>':''}<button class="x" data-rm="${i}">✕</button></div>`).join('')
      : '<div class="empty">Aucune source.</div>';
   $('#scanDisk').checked = S.settings.scan_disk;
+  $('#moveProjects').checked = S.settings.move_projects !== false;
   // scan
   const sc = S.scan;
   $('#scanBtn').disabled = sc.running || !selDisk || S.job_running;
@@ -1362,6 +1428,7 @@ $('#srcs').onclick = e => { const i=e.target.dataset.rm; if(i!==undefined){ cons
 $('#srcAdd').onclick = () => { const v=$('#srcIn').value.trim(); if(!v) return; $('#srcIn').value=''; act('/api/settings',{sources:[...S.settings.sources,v]}); };
 $('#srcIn').onkeydown = e => { if(e.key==='Enter') $('#srcAdd').click(); };
 $('#scanDisk').onchange = e => act('/api/settings',{scan_disk:e.target.checked});
+$('#moveProjects').onchange = e => act('/api/settings',{move_projects:e.target.checked});
 $('#scanBtn').onclick = () => act('/api/scan',{disk_id:selDisk});
 $('#auto').onchange = e => act('/api/autostart',{enabled:e.target.checked}, e.target.checked?'Lancement auto activé':'Lancement auto désactivé');
 $('#quit').onclick = async () => { if(!confirm('Arrêter Manga Archiver ? (une copie en cours sera mise en pause et reprise plus tard)')) return;
