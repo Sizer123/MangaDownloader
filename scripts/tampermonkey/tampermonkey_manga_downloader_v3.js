@@ -83,6 +83,24 @@
         return un ? String(parseFloat(un[un.length - 1])) : null;
     }
 
+    /** Texte d'un élément avec un espace entre chaque balise (« Chapter 60 » + « 4 weeks ago » ≠ « Chapter 604 weeks ago »). */
+    function nodeText(el) {
+        const parts = [];
+        const w = (el.ownerDocument || document).createTreeWalker(el, NodeFilter.SHOW_TEXT);
+        for (let n = w.nextNode(); n; n = w.nextNode()) parts.push(n.nodeValue);
+        return parts.join(' ').replace(/\s+/g, ' ').trim();
+    }
+
+    /** Retire les dates relatives (« 4 weeks ago », « il y a 2 jours », « 18 hours »…). */
+    const DATE_UNITS = '(?:sec(?:ond)?e?s?|min(?:ute)?s?|h(?:ou)?rs?|heures?|days?|jours?|weeks?|semaines?|months?|mois|years?|ans?)';
+    const stripDate = s => s
+        .replace(new RegExp(`\\bil y a\\s+(?:\\d+|une?)\\s*${DATE_UNITS}\\b`, 'gi'), '')
+        .replace(new RegExp(`\\b(?:\\d+|an?)\\s*${DATE_UNITS}\\s+ago\\b`, 'gi'), '')
+        .replace(new RegExp(`\\s\\d+\\s*${DATE_UNITS}\\s*$`, 'i'), '')
+        .replace(/\b(?:yesterday|today|hier|aujourd'hui)\b/gi, '')
+        .replace(/\b\d{1,4}[\/.-]\d{1,2}[\/.-]\d{1,4}\b|\b(?:jan|feb|fév|mar|apr|avr|may|mai|jun|juin|jul|juil|aug|août|sep|oct|nov|dec|déc)[a-zé]*\.?\s+\d{1,2},?\s+\d{4}\b/gi, '')
+        .replace(/\s+/g, ' ').replace(/[\s·•|-]+$/, '').trim();
+
     /** Modèle d'URL : les segments de chemin contenant un chiffre deviennent {n}. */
     function urlSignature(u) {
         try {
@@ -147,8 +165,8 @@
         }
         let best = null;
         for (const [sig, els] of groups) {
-            const nums = new Set(els.map(a => chapterNumber(a.href || a.getAttribute('href'), a.textContent)).filter(Boolean));
-            const kw = els.some(a => CHAP_KW.test(a.getAttribute('href')) || CHAP_KW.test(a.textContent));
+            const nums = new Set(els.map(a => chapterNumber(a.href || a.getAttribute('href'), nodeText(a))).filter(Boolean));
+            const kw = els.some(a => CHAP_KW.test(a.getAttribute('href')) || CHAP_KW.test(nodeText(a)));
             const score = nums.size * (kw ? 3 : 1);
             if (nums.size >= 2 && (!best || score > best.score)) best = { sig, els, score };
         }
@@ -164,9 +182,10 @@
         for (const a of els) {
             const url = absUrl(a.getAttribute('href'), base);
             if (!url || (cfg.chapterSignature && urlSignature(url) !== cfg.chapterSignature)) continue;
-            const text = a.textContent.replace(/\s+/g, ' ').trim().slice(0, 90);
+            const raw = nodeText(a);
+            const text = stripDate(raw).slice(0, 90) || raw.slice(0, 90);
             const prev = byUrl.get(url);
-            if (!prev || text.length > prev.text.length) byUrl.set(url, { url, text, num: chapterNumber(url, text) });
+            if (!prev || text.length > prev.text.length) byUrl.set(url, { url, text, num: chapterNumber(url, raw) });
         }
         return [...byUrl.values()].sort((a, b) => (a.num === null) - (b.num === null)
             || parseFloat(a.num) - parseFloat(b.num) || a.text.localeCompare(b.text));
